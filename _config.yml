@@ -1,21 +1,22 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Vernon R. King, III
+tagline:          He must become greater, I must become less.
+description:      A collection of writings and updates from Vernon R. King, III.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://localhost:4000
+#url: http://vernonking.org
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Vernon R. King, III
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
-  # Plug in your disqus shortname!
+  bio:            Follower of Jesus. Husband to Katie. Father to many. Student at Southeastern Baptist Theological Seminary.
+  email:          mail@vernonking.org
+  twitter:        vrking3
+  github:         pjking07
+  facebook:       pjking07
+#  instagram:      ctrunsthis     
+#  dribbble:       coletownsend
+#  disqus:         balzac
   
 
 # Links to include in top navigation
@@ -24,25 +25,23 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/pjking07/pjking07.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
-future:      true
+lsi:         true
+future:      false
 pygments:    true
 markdown:    kramdown
-
+redcarpet:
+  extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
   coderay:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
@@ -52,6 +51,8 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+relative_permalinks: false
+paginate_path: 'page/:num'
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
