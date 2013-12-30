@@ -6,6 +6,10 @@ comments: false
 category: papers
 ---
 
+*The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.*
+
+---
+
 # Introduction
 
 Divorce and remarriage is a pastoral concern that has directly or indirectly affected many in the church today. Systematizing all of the biblical passages relevant to marriage is a difficult task that has led to a wide variety of opinions regarding one’s moral permission to divorce and remarry. While the exceptive clause in verse 9 increases the difficulty of systematization, the meaning of this text does not hinge on this clause. The essence of Matthew 19:1--12 is Jesus’ affirmation of God’s original ideal of the indissolubility of marriage.
