@@ -4,6 +4,7 @@ title: The Soul Winner
 date: 2013-12-04
 comments: false
 category: reviews
+tags: seminary
 tagline: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 

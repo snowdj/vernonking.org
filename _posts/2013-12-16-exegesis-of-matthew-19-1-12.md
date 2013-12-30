@@ -4,6 +4,7 @@ title: An Exegesis of Matthew 19:1–12
 date: 2013-12-16
 comments: false
 category: papers
+tags: seminary
 tagline: The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.
 ---
 

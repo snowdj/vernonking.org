@@ -4,6 +4,7 @@ title: The Gospel and Personal Evangelism
 date: 2013-12-02
 comments: false
 category: reviews
+tags: seminary
 tagline: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 

@@ -4,6 +4,7 @@ title: "Preach: Thelogy Meets Practice"
 date: 2013-11-20
 comments: false
 category: reviews
+tags: seminary
 tagline: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 ---
 
