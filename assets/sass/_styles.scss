@@ -382,47 +382,6 @@ header.site-header nav {
             margin-bottom: $lh*1.5;
         }
 
-        .metadata {
-            position: relative;
-            margin: 0.5em 0 $lh*2;
-            font-size: $fs5;
-            font-weight: bold;
-            font-family: $sans;
-            font-style: normal;
-            color: $grey-light;
-            text-transform: uppercase;
-            vertical-align: middle;
-            display: inline-block;
-
-            ul {
-                display: inline-block;
-            }
-
-            > li {
-                margin: 0;
-                padding-right: 1em;
-            }
-
-            li {
-                display: inline-block;
-                font-size: $fs5;
-                float: none;
-                position: relative;
-
-                a {
-                    position: relative;
-                    &:hover {
-                        @include transit;
-                    }
-                }
-
-                h1 {
-                    font-size: $fs3;
-                    font-style: italic;
-                }
-            }
-        }
-
         .summary {
             font-size: 18px;
             line-height: 1.45em;
@@ -430,6 +389,10 @@ header.site-header nav {
 
         .date {
             margin-bottom: 3px;
+        }
+
+        > li {
+            margin-bottom: 3em;
         }
     }
 }
@@ -557,6 +520,50 @@ header.site-header nav {
             color: $link;
             border-color: transparentize($link,.3);
             @include transit(all,.2s,ease);
+        }
+    }
+}
+
+ul.metadata {
+    position: relative;
+    margin: 0.5em 0 0;
+    font-size: $fs5;
+    font-weight: bold;
+    font-family: $sans;
+    font-style: normal;
+    color: $grey-light;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+
+    ul {
+        display: inline-block;
+    }
+
+    > li {
+        margin: 0;
+        padding-right: 1em;
+    }
+
+    li {
+        display: inline-block;
+        font-size: $fs5;
+        float: none;
+        position: relative;
+        margin: 0;
+        padding-left: 0;
+
+        a {
+            position: relative;
+            &:hover {
+                @include transit;
+            }
+        }
+
+        h1 {
+            font-size: $fs3;
+            font-style: italic;
         }
     }
 }

@@ -649,51 +649,15 @@ header.site-header nav ul li a:hover {
 .archive-wrap .post-list lh h2 {
   margin-bottom: 49.5px;
 }
-.archive-wrap .post-list .metadata {
-  position: relative;
-  margin: 0.5em 0 66px;
-  font-size: 16px;
-  font-weight: bold;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-  font-style: normal;
-  color: #d9d9d9;
-  text-transform: uppercase;
-  vertical-align: middle;
-  display: inline-block;
-}
-.archive-wrap .post-list .metadata ul {
-  display: inline-block;
-}
-.archive-wrap .post-list .metadata > li {
-  margin: 0;
-  padding-right: 1em;
-}
-.archive-wrap .post-list .metadata li {
-  display: inline-block;
-  font-size: 16px;
-  float: none;
-  position: relative;
-}
-.archive-wrap .post-list .metadata li a {
-  position: relative;
-}
-.archive-wrap .post-list .metadata li a:hover {
-  -moz-transition: all 1s ease-in-out;
-  -o-transition: all 1s ease-in-out;
-  -webkit-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
-}
-.archive-wrap .post-list .metadata li h1 {
-  font-size: 32px;
-  font-style: italic;
-}
 .archive-wrap .post-list .summary {
   font-size: 18px;
   line-height: 1.45em;
 }
 .archive-wrap .post-list .date {
   margin-bottom: 3px;
+}
+.archive-wrap .post-list > li {
+  margin-bottom: 3em;
 }
 
 .post {
@@ -810,6 +774,49 @@ header.site-header nav ul li a:hover {
   -webkit-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease;
+}
+
+ul.metadata {
+  position: relative;
+  margin: 0.5em 0 0;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-style: normal;
+  color: #d9d9d9;
+  text-transform: uppercase;
+  vertical-align: middle;
+  display: inline-block;
+  text-align: center;
+}
+ul.metadata ul {
+  display: inline-block;
+}
+ul.metadata > li {
+  margin: 0;
+  padding-right: 1em;
+}
+ul.metadata li {
+  display: inline-block;
+  font-size: 16px;
+  float: none;
+  position: relative;
+  margin: 0;
+  padding-left: 0;
+}
+ul.metadata li a {
+  position: relative;
+}
+ul.metadata li a:hover {
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+ul.metadata li h1 {
+  font-size: 32px;
+  font-style: italic;
 }
 
 /* Footer Stuff */
