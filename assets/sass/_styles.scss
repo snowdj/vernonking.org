@@ -49,11 +49,16 @@ small {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
     line-height: 1.3em;
-    text-align: center;
-    color: lighten($black, .2);
+    font-style: italic;
+    color: lighten($black, 10%);
     margin-bottom: $lh;
+}
+
+blockquote {
+    margin: 1em 0.25em;
+    padding: 0 1em;
+    border-left: 2px solid #8ab9d1;
 }
 
 
@@ -674,7 +679,7 @@ h1 {
 }
 
 blockquote, blockquote p {
-    font-size: $fs3;
+    font-size: $fsp;
 }
 
 footer {

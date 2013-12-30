@@ -171,7 +171,7 @@ h6, .h6 {
 }
 
 blockquote, blockquote p {
-  font-size: 36px;
+  font-size: 22px;
 }
 
 .archive input {
@@ -292,11 +292,16 @@ small {
 }
 
 blockquote, blockquote p {
-  font-style: italic;
   line-height: 1.3em;
-  text-align: center;
-  color: #3c3c3c;
+  font-style: italic;
+  color: #555555;
   margin-bottom: 33px;
+}
+
+blockquote {
+  margin: 1em 0.25em;
+  padding: 0 1em;
+  border-left: 2px solid #8ab9d1;
 }
 
 /*   Code Formatting    */
@@ -957,7 +962,7 @@ footer .social ul li:last-child {
   }
 
   blockquote, blockquote p {
-    font-size: 32px;
+    font-size: 22px;
   }
 
   footer {
