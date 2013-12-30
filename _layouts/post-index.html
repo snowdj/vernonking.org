@@ -1,12 +1,13 @@
 {% include head-dark.html %}
 
-{% if page.layout.category %}
-category
-{% else %} 
-    {% if page.layout.tag %}
-    tag
+{% assign post_list = site.posts %}
+
+{% if page.index.category %}
+    {% assign post_list = site.categories[page.index.category] %}
+{% elsif page.index.tag %}
+    {% assign post_list = site.tags[page.index.tag] %}
 {% else %}
-all	
+    {% assign post_list = site.posts %}
 {% endif %}
 
     <div id='bump'>
@@ -14,7 +15,7 @@ all
           <article class="archive-wrap">
               <ol class="post-list">
                  <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
-                  {% for post in site.posts %}
+                  {% for post in post_list %}
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
