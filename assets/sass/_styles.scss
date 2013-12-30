@@ -376,23 +376,44 @@ header.site-header nav {
             margin-bottom: $lh*1.5;
         }
 
-        li {
-            display: block;
-            float: none;
-            font-size: $fs3;
-            margin-bottom: $lh*2;
+        .metadata {
             position: relative;
+            margin: 0.5em 0 $lh*2;
+            font-size: $fs5;
+            font-weight: bold;
+            font-family: $sans;
+            font-style: normal;
+            color: $grey-light;
+            text-transform: uppercase;
+            vertical-align: middle;
+            display: inline-block;
 
-            a {
-                position: relative;
-                &:hover {
-                    @include transit;
-                }
+            ul {
+                display: inline-block;
             }
 
-            h1 {
-                font-size: $fs3;
-                font-style: italic;
+            > li {
+                margin: 0;
+            }
+
+            li {
+                display: block;
+                font-size: $fs5;
+                display: block;
+                float: none;
+                position: relative;
+
+                a {
+                    position: relative;
+                    &:hover {
+                        @include transit;
+                    }
+                }
+
+                h1 {
+                    font-size: $fs3;
+                    font-style: italic;
+                }
             }
         }
 
@@ -403,18 +424,6 @@ header.site-header nav {
 
         .date {
             margin-bottom: 3px;
-        }
-
-        .date time {
-            position: relative;
-            top: -3px;
-            font-size: $fs5;
-            font-weight: bold;
-            font-family: $sans;
-            font-style: normal;
-            color: $grey-light;
-            text-transform: uppercase;
-            vertical-align: middle;
         }
     }
 }

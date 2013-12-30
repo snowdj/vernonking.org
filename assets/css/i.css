@@ -642,24 +642,42 @@ header.site-header nav ul li a:hover {
 .archive-wrap .post-list lh h2 {
   margin-bottom: 49.5px;
 }
-.archive-wrap .post-list li {
+.archive-wrap .post-list .metadata {
+  position: relative;
+  margin: 0.5em 0 66px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-style: normal;
+  color: #d9d9d9;
+  text-transform: uppercase;
+  vertical-align: middle;
+  display: inline-block;
+}
+.archive-wrap .post-list .metadata ul {
+  display: inline-block;
+}
+.archive-wrap .post-list .metadata > li {
+  margin: 0;
+}
+.archive-wrap .post-list .metadata li {
+  display: block;
+  font-size: 16px;
   display: block;
   float: none;
-  font-size: 32px;
-  margin-bottom: 66px;
   position: relative;
 }
-.archive-wrap .post-list li a {
+.archive-wrap .post-list .metadata li a {
   position: relative;
 }
-.archive-wrap .post-list li a:hover {
+.archive-wrap .post-list .metadata li a:hover {
   -moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   -webkit-transition: all 1s ease-in-out;
   -ms-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out;
 }
-.archive-wrap .post-list li h1 {
+.archive-wrap .post-list .metadata li h1 {
   font-size: 32px;
   font-style: italic;
 }
@@ -669,17 +687,6 @@ header.site-header nav ul li a:hover {
 }
 .archive-wrap .post-list .date {
   margin-bottom: 3px;
-}
-.archive-wrap .post-list .date time {
-  position: relative;
-  top: -3px;
-  font-size: 16px;
-  font-weight: bold;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-  font-style: normal;
-  color: #d9d9d9;
-  text-transform: uppercase;
-  vertical-align: middle;
 }
 
 .post {
