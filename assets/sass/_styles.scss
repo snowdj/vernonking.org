@@ -11,7 +11,7 @@ body {
   overflow-x: hidden;
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5,h6 {
     font-family: $sans;
 }
 
@@ -479,6 +479,14 @@ header.site-header nav {
         padding-top: ($lh / 3);
         margin-bottom: ($lh / 3);
         line-height: 1.25em
+    }
+
+    h5 {
+        font-weight: bold;
+    }
+
+    h6 {
+        font-style: italic;
     }
 
     figure {

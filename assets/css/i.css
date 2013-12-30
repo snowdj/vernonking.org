@@ -163,7 +163,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .meta {
@@ -244,7 +244,7 @@ body {
   overflow-x: hidden;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
@@ -739,6 +739,12 @@ header.site-header nav ul li a:hover {
   padding-top: 11px;
   margin-bottom: 11px;
   line-height: 1.25em;
+}
+.post h5 {
+  font-weight: bold;
+}
+.post h6 {
+  font-style: italic;
 }
 .post figure {
   margin: 33px 0;
