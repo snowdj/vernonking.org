@@ -666,11 +666,11 @@ header.site-header nav ul li a:hover {
 }
 .archive-wrap .post-list .metadata > li {
   margin: 0;
+  padding-right: 1em;
 }
 .archive-wrap .post-list .metadata li {
-  display: block;
+  display: inline-block;
   font-size: 16px;
-  display: block;
   float: none;
   position: relative;
 }
