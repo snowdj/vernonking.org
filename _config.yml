@@ -23,6 +23,12 @@ owner:
 links:
   - title: About
     url: /about
+  - title: CV
+    url: /cv
+  - title: Papers
+    url: /papers
+  - title: Reviews
+    url: /reviews
   - title: Github
     url: https://github.com/pjking07/pjking07.github.io
     external: true
