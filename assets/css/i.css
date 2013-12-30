@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* ==========================================================================
    Imports
    ========================================================================== */
@@ -142,19 +143,19 @@ p {
 /* Headings
    ========================================================================== */
 h1, .h1 {
-  font-size: 64px;
+  font-size: 36px;
 }
 
 h2, .h2 {
-  font-size: 48px;
-}
-
-h3, .h3 {
   font-size: 32px;
 }
 
-h4, .h4 {
+h3, .h3 {
   font-size: 24px;
+}
+
+h4, .h4 {
+  font-size: 22px;
 }
 
 h5, .h5 {
@@ -170,11 +171,11 @@ h6, .h6 {
 }
 
 blockquote, blockquote p {
-  font-size: 48px;
+  font-size: 36px;
 }
 
 .archive input {
-  font-size: 48px;
+  font-size: 36px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -195,7 +196,7 @@ blockquote, blockquote p {
   }
 
   h1, .h1 {
-    font-size: 48px;
+    font-size: 36px;
   }
 
   h2, .h2 {
@@ -244,7 +245,7 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
+  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
 p {
@@ -270,9 +271,7 @@ a:hover {
 }
 
 em {
-  padding: 1px 2px;
-  border-radius: 2px;
-  background: #ffe8c0;
+  font-style: italic;
 }
 
 strong {
@@ -719,12 +718,13 @@ header.site-header nav ul li a:hover {
   color: #999999;
   margin-bottom: 16.5px;
 }
-.post h1 {
-  font-style: italic;
+.post header.post-header hgroup h1 {
+  font-size: 64px;
+  font-weight: 300;
 }
 .post h1, .post h2, .post h3, .post h4, .post h5 {
-  padding-top: 16.5px;
-  margin-bottom: 16.5px;
+  padding-top: 11px;
+  margin-bottom: 11px;
   line-height: 1.25em;
 }
 .post figure {
@@ -945,7 +945,7 @@ footer .social ul li:last-child {
    ========================================================================== */
 @media only screen and (max-width: 800px) {
   h1 {
-    font-size: 48px;
+    font-size: 36px;
   }
 
   blockquote, blockquote p {
