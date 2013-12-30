@@ -4,10 +4,7 @@ title: The Soul Winner
 date: 2013-12-04
 comments: false
 category: reviews
----
-
-*The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.*
-
+tagline: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *The Soul Winner: How to Lead Sinners to the Saviour*. By Charles Spurgeon. Heraklion, 2013, 3425 locations, $0.99 Kindle. Reviewed by Vernon R. King, III.

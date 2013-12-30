@@ -5,10 +5,7 @@ date: 2013-12-20
 comments: false
 categories: papers
 tags: seminary 
----
-
-*The following partially satisfies the requirements for Dr. Heimbach's Introduction to Christian Ethics at Southeastern Baptist Theological Seminary.*
-
+tagline: The following partially satisfies the requirements for Dr. Heimbach's Introduction to Christian Ethics class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction

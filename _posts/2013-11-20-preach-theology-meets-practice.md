@@ -4,10 +4,7 @@ title: "Preach: Thelogy Meets Practice"
 date: 2013-11-20
 comments: false
 category: reviews
----
-
-*The following book review partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.*
-
+tagline: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 ---
 
 *Preach: Theology Meets Practice*. By Mark Dever and Greg Gilbert. Nashville: B&H, 2012, 210 pp., $9.99 Kindle. Reviewed by Vernon R. King, III.
