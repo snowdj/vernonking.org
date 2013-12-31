@@ -240,8 +240,6 @@ blockquote, blockquote p {
 body {
   font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
   color: #3b3b3b;
-  -webkit-font-smoothing: antialiased;
-  /* Fix for webkit rendering */
   text-size-adjust: 100%;
   background: #f9f9f9;
   min-height: 100%;
