@@ -16,11 +16,13 @@
           <hgroup>
             <h1>{{page.title}}</h1>
               <ul class="metadata">
-                  {% if page.categories.size != 0 %}
+                  {% if page.date != null %}
                       <li><span aria-hidden="true" data-icon="&#128197;"></span>
                           <span class="screen-reader-text">Date</span>
                           <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
                       </li>
+                  {% endif %}
+                  {% if page.categories.size > 0 %}
                       <li><span aria-hidden="true" data-icon="&#59392;"></span>
                           <span class="screen-reader-text">Categories</span>
                           <ul>
@@ -30,7 +32,7 @@
                           </ul>
                       </li>
                   {% endif %}
-                  {% if page.tags.size != 0 %}
+                  {% if page.tags.size > 0 %}
                       <li><span aria-hidden="true" data-icon="&#128278;"></span>
                           <span class="screen-reader-text">Tags</span>
                           <ul>
