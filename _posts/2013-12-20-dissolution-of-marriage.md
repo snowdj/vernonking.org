@@ -10,7 +10,7 @@ tagline: The following partially satisfies the requirements for Dr. Heimbach's I
 
 # Introduction
 
-The theology of marriage divorce is an ever-pertinent topic for the
+The theology of marriage is an ever-pertinent topic for the
 modern church. A variety of Christian opinions exist regarding this
 topic, not least because of the difficulty found in interpreting and
 systematizing the relevant biblical evidence.[^1] For example, some argue
