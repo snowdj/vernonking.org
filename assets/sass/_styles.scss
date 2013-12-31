@@ -699,7 +699,6 @@ footer {
             right: 10vw;
         }
     }
-
 }
 
 /* Mobile
@@ -744,79 +743,79 @@ footer {
     header.site-header {
         height: auto;
         padding: 10px 0 26px;
-    }
 
-    header.site-header hgroup h1 {
-        margin-bottom: 0;
-        font-size: $fs5;
-    }
+        hgroup {
+            position: absolute;
+            left: 7%;
+            float: none;
+            padding-left: 0;
+            width: 100%;
 
-    header.site-header hgroup {
-        position: absolute;
-        left: 7%;
-        float: none;
-        padding-left: 0;
-        width: 100%;
-    }
-
-    header.site-header a.menu {
-        position: absolute;
-        right: 7%;
-        display: block;
-        float: right;
-        width: 16px;
-        height: 16px;
-        color: white;
-        .icons {
-            font-size: 32px;
+            h1 {
+                margin-bottom: 0;
+                font-size: $fs5;
+            }
         }
-    }
 
-    header.site-header a.menu img {
-        width: 24px;
-        height: auto;
-    }
-
-    header.site-header nav {
-        display: none;
-        float: none;
-        width: 100%;
-        padding-right: 0;
-    }
-
-    header.site-header nav:before {
-        display: table;
-        clear: both;
-        content: '';
-    }
-
-    header.site-header nav ul {
-        padding: 20px 0 10px 0;
-        margin-top: 15px;
-    }
-
-    header.site-header nav ul li {
-        display: block;
-        margin-left: 0;
-        top: 0px;
-        font-size: $fs5;
-    }
-
-    header.site-header nav ul li a {
-        display: block;
-        text-align: right;
-        font-weight: bold;
-        padding: 15px 0px;
-        padding-right: 7%;
-        position: relative;
-        width: 100%;
-        color: $white;
-        &:active {
-            background-color: $link;
+        a.menu {
+            position: absolute;
+            right: 7%;
+            display: block;
+            float: right;
+            width: 16px;
+            height: 16px;
             color: white;
+            .icons {
+                font-size: 32px;
+            }
+
+            img {
+                width: 24px;
+                height: auto;
+            }
         }
-        &:hover {
-            text-shadow: none;
+
+        nav {
+            display: none;
+            float: none;
+            width: 100%;
+            padding-right: 0;
+
+            :before {
+                display: table;
+                clear: both;
+                content: '';
+            }
+
+            ul {
+                padding: 20px 0 10px 0;
+                margin-top: 15px;
+
+                li {
+                    display: block;
+                    margin-left: 0;
+                    top: 0px;
+                    font-size: $fs5;
+
+                    a {
+                        display: block;
+                        text-align: right;
+                        font-weight: bold;
+                        padding: 15px 0px;
+                        padding-right: 7%;
+                        position: relative;
+                        width: 100%;
+                        color: $white;
+                        &:active {
+                            background-color: $link;
+                            color: white;
+                        }
+                        &:hover {
+                            text-shadow: none;
+                        }
+                    }
+                }
+            }
         }
     }
 
@@ -824,24 +823,50 @@ footer {
         padding: 0;
         margin-top: 40px;
         background: $black;
-    }
 
-    #bump .darken nav ul li a {
-        color: $white;
-        &:active {
-            background-color: $link;
-        }
-        &:hover {
-            text-shadow: none;
+        li a {
             color: $white;
-            background-color: $link;
+            &:active {
+                background-color: $link;
+            }
+            &:hover {
+                text-shadow: none;
+                color: $white;
+                background-color: $link;
+            }
         }
     }
 
     .archive-wrap {
         padding-top: $fs1;
+
+        .post-list {
+            width: auto;
+            margin-left: 1em;
+            margin-right: 1em;
+
+            h1 {
+                font-size: $fs3;
+            }
+
+            lh h2 {
+                font-size: $fs4;
+                text-align: center;
+            }
+
+            > li {
+                text-align: center;
+            }
+        }
     }
 
+    ul.metadata {
+        text-align: center;
+
+        li {
+            font-size: $fs6;
+        }
+    }
 }
 
 @media only screen and (max-width: $breakpoint-1-max-width) {

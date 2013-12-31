@@ -1005,12 +1005,6 @@ footer .social ul li:last-child {
     height: auto;
     padding: 10px 0 26px;
   }
-
-  header.site-header hgroup h1 {
-    margin-bottom: 0;
-    font-size: 16px;
-  }
-
   header.site-header hgroup {
     position: absolute;
     left: 7%;
@@ -1018,7 +1012,10 @@ footer .social ul li:last-child {
     padding-left: 0;
     width: 100%;
   }
-
+  header.site-header hgroup h1 {
+    margin-bottom: 0;
+    font-size: 16px;
+  }
   header.site-header a.menu {
     position: absolute;
     right: 7%;
@@ -1031,37 +1028,31 @@ footer .social ul li:last-child {
   header.site-header a.menu .icons {
     font-size: 32px;
   }
-
   header.site-header a.menu img {
     width: 24px;
     height: auto;
   }
-
   header.site-header nav {
     display: none;
     float: none;
     width: 100%;
     padding-right: 0;
   }
-
-  header.site-header nav:before {
+  header.site-header nav :before {
     display: table;
     clear: both;
     content: '';
   }
-
   header.site-header nav ul {
     padding: 20px 0 10px 0;
     margin-top: 15px;
   }
-
   header.site-header nav ul li {
     display: block;
     margin-left: 0;
     top: 0px;
     font-size: 16px;
   }
-
   header.site-header nav ul li a {
     display: block;
     text-align: right;
@@ -1085,7 +1076,6 @@ footer .social ul li:last-child {
     margin-top: 40px;
     background: #3b3b3b;
   }
-
   #bump .darken nav ul li a {
     color: #f9f9f9;
   }
@@ -1100,6 +1090,28 @@ footer .social ul li:last-child {
 
   .archive-wrap {
     padding-top: 48px;
+  }
+  .archive-wrap .post-list {
+    width: auto;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  .archive-wrap .post-list h1 {
+    font-size: 32px;
+  }
+  .archive-wrap .post-list lh h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .archive-wrap .post-list > li {
+    text-align: center;
+  }
+
+  ul.metadata {
+    text-align: center;
+  }
+  ul.metadata li {
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 480px) {
