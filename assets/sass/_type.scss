@@ -29,6 +29,7 @@ p {
 
 h1, .h1 {
     font-size: $fs2;
+    font-weight: 600;
 }
 
 h2, .h2 {
@@ -37,6 +38,7 @@ h2, .h2 {
 
 h3, .h3 {
     font-size: $fs4;
+    font-style: italic;
 }
 
 h4, .h4 {
@@ -85,13 +87,16 @@ blockquote, blockquote p {
     }
 
     h1, .h1 {
-        font-size: $fs2;
+        font-size: $fs3;
+        font-weight: 400;
     }
     h2, .h2 {
-        font-size: $fs3;
+        font-size: $fs4;
+        font-weight: 600;
     }
     h3, .h3 {
-        font-size: $fs4;
+        font-size: $fsp;
+        font-style: italic;
     }
     h4, .h4 {
         font-size: $fs5;
