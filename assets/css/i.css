@@ -650,6 +650,9 @@ header.site-header nav ul li a:hover {
   display: block;
   float: none;
 }
+.archive-wrap .post-list h1 {
+  font-weight: 400;
+}
 .archive-wrap .post-list lh h2 {
   margin-bottom: 49.5px;
 }
