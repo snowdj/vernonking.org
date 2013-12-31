@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preach: Thelogy Meets Practice"
+title: "Preach: Theology Meets Practice"
 date: 2013-11-20
 comments: false
 category: reviews
@@ -12,7 +12,7 @@ tagline: The following partially satisfies the requirements for Dr. Tony Merida'
 
 What need is there for another book about preaching? Dever and Gilbert contend a new contribution is necessary because (1) the evangelical church is losing confidence in the preached Word of God, (2) the evangelical church is lacking confidence in biblical exposition, and (3) too many expositional preachers have given a bad name to expository preaching. In response to these three problems, the authors desire to demonstrate "how to expose God's Word to a congregation in a way that's engaging, affecting, and convicting" (p. 6). To the benefit of many evangelical churches, these authors have succeeded in their explicit goal (and more) throughout the work of *Preach: Theology Meets Practice*.
 
-Dever and Gilbert write, "The ability to engage with the preached Word of God is one of the things we as pastors should teach our congregations and should come to expect of them" (p. 46). The authors encourage pastors to teach their congregations to engage with the Word of God by making "the preaching of the Bible the centerpiece of their church's lives" (p. 44). However, aligning engagement with the Word of God and the centrality of preaching in the life of the church seems to be an unnecessary connection. For example, the authors seem to overstate their case, writing, "The sermon is the center of the pastor's responsibility" (p. 48). Despite this quibble, the authors are correct in affirming engagement with the Word of God so that the congregation may learn "to love God more, to love His Son Jesus more, to love one another more in Christ" (p. 48). 
+Dever and Gilbert write, "The ability to engage with the preached Word of God is one of the things we as pastors should teach our congregations and should come to expect of them" (p. 46). The authors encourage pastors to teach their congregations to engage with the Word of God by making "the preaching of the Bible the centerpiece of their church's lives" (p. 44). However, aligning engagement with the Word of God and the centrality of preaching in the life of the church seems to be an unnecessary connection. For example, the authors seem to overstate their case, writing, "The sermon is the center of the pastor's responsibility" (p. 48). Despite this quibble, the authors are correct in affirming engagement with the Word of God so that the congregation may learn "to love God more, to love His Son Jesus more, to love one another more in Christ" (p. 48).
 
 Regarding their second goal, the authors write, "When we preach, we preach for change. We preach for effect. In everything, . . . we preach with the goal of spurring believers on in their maturity in Christ and of awakening nonbelievers to their need for the Savior" (p. 52). Throughout the book, Dever and Gilbert return to the necessity of affecting the hearts, souls, and minds of the congregation through effective sermon delivery. With this effect in mind, they encourage much work in both sermon preparation and delivery so that congregation feels the weight of the sermon and is affected for change (p. 124).
 
