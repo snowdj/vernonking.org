@@ -189,7 +189,7 @@ blockquote, blockquote p {
     line-height: 1.4em;
   }
 
-  .post ul li {
+  .post ul li, .post ol li {
     font-size: 16px;
     line-height: 24px;
     margin-bottom: 12px;
@@ -224,7 +224,7 @@ blockquote, blockquote p {
   }
 
   blockquote, blockquote p {
-    font-size: 24px;
+    font-size: 16px;
   }
 
   .archive input {
@@ -1129,6 +1129,15 @@ footer .social ul li:last-child {
   .post header.post-header hgroup h1 {
     margin-bottom: 0;
     font-size: 36px;
+  }
+  .post ul li, .post ol li {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 12px;
+  }
+
+  blockquote, blockquote p {
+    font-size: 16px;
   }
 
   footer {

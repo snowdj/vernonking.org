@@ -78,7 +78,7 @@ blockquote, blockquote p {
         line-height: 1.4em;
     }
 
-    .post ul li {
+    .post ul li, .post ol li{
         font-size: $fs5;
         line-height: $lhsmall;
         margin-bottom: $lhsmall/2;
@@ -108,7 +108,7 @@ blockquote, blockquote p {
     }
 
     blockquote, blockquote p {
-        font-size: $fs4;
+        font-size: $fs5;
     }
 
     .archive input {

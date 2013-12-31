@@ -869,6 +869,7 @@ footer {
             }
         }
     }
+
 }
 
 @media only screen and (max-width: $breakpoint-1-max-width) {
@@ -892,6 +893,16 @@ footer {
                 font-size: $fs2;
             }
         }
+
+        ul li, ol li {
+            font-size: $fs5;
+            line-height: $lhsmall;
+            margin-bottom: $lhsmall/2;
+        }
+    }
+
+    blockquote, blockquote p {
+        font-size: $fs5;
     }
 
     footer {
