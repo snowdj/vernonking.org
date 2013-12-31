@@ -1097,6 +1097,10 @@ footer .social ul li:last-child {
     color: #f9f9f9;
     background-color: #8ab9d1;
   }
+
+  .archive-wrap {
+    padding-top: 48px;
+  }
 }
 @media only screen and (max-width: 480px) {
   .post {
