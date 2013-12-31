@@ -430,9 +430,9 @@ input {
 /* Header */
 header.site-header {
   padding: 20px 0;
-  position: absolute;
   width: 100%;
   z-index: 5000;
+  background: #24536b;
 }
 header.site-header .wrap {
   max-width: 90vw;
@@ -778,7 +778,7 @@ header.site-header nav ul li a:hover {
 
 ul.metadata {
   position: relative;
-  margin: 0.5em 0 0;
+  margin: 0.5em 0;
   font-size: 16px;
   font-weight: bold;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
@@ -791,6 +791,7 @@ ul.metadata {
 }
 ul.metadata ul {
   display: inline-block;
+  margin-bottom: 0;
 }
 ul.metadata > li {
   margin: 0;
