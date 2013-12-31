@@ -181,10 +181,11 @@ blockquote, blockquote p {
   p {
     font-size: 16px;
     line-height: 24px;
+    padding-bottom: 24px;
   }
 
   .intro {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.4em;
   }
 
@@ -944,10 +945,6 @@ footer .social ul li:last-child {
   margin-bottom: 0;
 }
 
-.disqus {
-  margin-top: 99px;
-}
-
 /* Tablet
    ========================================================================== */
 @media only screen and (max-width: 800px) {
@@ -1011,10 +1008,6 @@ footer .social ul li:last-child {
     float: none;
     padding-left: 0;
     width: 100%;
-  }
-  header.site-header hgroup h1 {
-    margin-bottom: 0;
-    font-size: 16px;
   }
   header.site-header a.menu {
     position: absolute;
@@ -1107,23 +1100,35 @@ footer .social ul li:last-child {
     text-align: center;
   }
 
-  ul.metadata {
+  ul.metadata, .post header.post-header hgroup ul.metadata {
     text-align: center;
   }
-  ul.metadata li {
+  ul.metadata li, .post header.post-header hgroup ul.metadata li, ul.metadata .date, .post header.post-header hgroup ul.metadata .date {
     font-size: 12px;
+  }
+
+  .post header.post-header {
+    margin-top: 48px;
+    margin-bottom: 0;
   }
 }
 @media only screen and (max-width: 480px) {
   .post {
-    display: inline;
-    float: left;
-    width: 87%;
-    margin: 0 1.5%;
+    width: auto;
+    padding-left: 1em;
+    padding-right: 1em;
     max-width: 420px;
     display: block;
     margin: 0 auto;
     float: none;
+  }
+  .post p {
+    padding-bottom: 1em;
+    margin-bottom: 0;
+  }
+  .post header.post-header hgroup h1 {
+    margin-bottom: 0;
+    font-size: 36px;
   }
 
   footer {
@@ -1132,5 +1137,9 @@ footer .social ul li:last-child {
 
   small {
     font-size: 12px;
+  }
+
+  .article header {
+    margin-bottom: 0;
   }
 }

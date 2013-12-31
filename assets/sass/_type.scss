@@ -70,10 +70,11 @@ blockquote, blockquote p {
     p {
         font-size: $fs5;
         line-height: $lhsmall;
+        padding-bottom: $lhsmall;
     }
 
     .intro {
-        font-size: $fs4;
+        font-size: $fsp;
         line-height: 1.4em;
     }
 

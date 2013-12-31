@@ -660,10 +660,6 @@ footer {
     }
 }
 
-.disqus {
-    margin-top: $lh*3;
-}
-
 /* Tablet
    ========================================================================== */
 
@@ -750,11 +746,6 @@ footer {
             float: none;
             padding-left: 0;
             width: 100%;
-
-            h1 {
-                margin-bottom: 0;
-                font-size: $fs5;
-            }
         }
 
         a.menu {
@@ -863,20 +854,44 @@ footer {
     ul.metadata {
         text-align: center;
 
-        li {
+        li, .date {
             font-size: $fs6;
+        }
+    }
+
+    .post header.post-header {
+        margin-top: $fs1;
+        margin-bottom: 0;
+
+        hgroup {
+            ul.metadata {
+                @extend ul.metadata;
+            }
         }
     }
 }
 
 @media only screen and (max-width: $breakpoint-1-max-width) {
-
     .post {
-        @include column(9);
+        width: auto;
+        padding-left: 1em;
+        padding-right: 1em;
         max-width: 420px;
         display: block;
         margin: 0 auto;
         float: none;
+
+        p {
+            padding-bottom: 1em;
+            margin-bottom: 0;
+        }
+
+        header.post-header hgroup {
+            h1 {
+                margin-bottom: 0;
+                font-size: $fs2;
+            }
+        }
     }
 
     footer {
@@ -887,6 +902,9 @@ footer {
         font-size: $fs6;
     }
 
+    .article header {
+        margin-bottom: 0;
+    }
 }
 
 
