@@ -750,14 +750,13 @@ footer {
 
 
   header.site-header {
-    min-height: 59px;
-    margin-top: 20px;
-    padding-top: 0;
+      height: auto;
+      padding: 10px 0 26px;
   }
 
   header.site-header hgroup h1 {
     margin-bottom: 0;
-    font-size: $fsp;
+    font-size: $fs5;
   }
 
   header.site-header hgroup {
@@ -765,6 +764,7 @@ footer {
     left: 7%;
     float: none;
     padding-left: 0;
+      width: 100%;
   }
 
   header.site-header a.menu {
