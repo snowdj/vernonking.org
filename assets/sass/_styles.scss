@@ -520,6 +520,24 @@ header.site-header nav {
             @include transit(all, .2s, ease);
         }
     }
+
+    .footnotes {
+        &:before {
+            display: block;
+            height: 1px;
+            width: 35%;
+            background: #999;
+            margin: 0 0 $lh;
+            content: "";
+        }
+
+        ol, ul {
+            li {
+                margin-left: $fs3;
+                padding-left: 0;
+            }
+        }
+    }
 }
 
 ul.metadata {
