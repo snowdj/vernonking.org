@@ -949,6 +949,9 @@ footer {
       font-size: 16px;
       line-height: 24px;
       margin-bottom: 12px; }
+    .post .footnotes:before {
+      width: 100%;
+      margin-bottom: 16px; }
 
   blockquote, blockquote p {
     font-size: 16px; }

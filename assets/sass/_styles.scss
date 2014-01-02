@@ -924,6 +924,13 @@ footer {
             line-height: $lhsmall;
             margin-bottom: $lhsmall/2;
         }
+
+        .footnotes {
+            &:before {
+                width: 100%;
+                margin-bottom: $fs5;
+            }
+        }
     }
 
     blockquote, blockquote p {
