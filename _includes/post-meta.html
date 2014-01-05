@@ -1,5 +1,9 @@
+{% if post == null %}
+    {% assign post = page %}
+{% endif %}
+
 <ul class="metadata">
-    {% if post.date != null %}
+    {% if !post.date %}
         <li><span aria-hidden="true" data-icon="&#128197;"></span>
             <span class="screen-reader-text">Date</span>
             <span class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span>
