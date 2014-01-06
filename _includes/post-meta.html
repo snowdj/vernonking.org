@@ -29,7 +29,7 @@
                 {% for tag in post.tags %}
                     <li class="tag">
                         {% if forloop.first == false %}, {% endif %}
-                        {{ tag }}
+                        <a href="{{ site.url }}/tags/{{ tag }}/">{{ tag }}</a>
                     </li>
                 {% endfor %}
             </ul>

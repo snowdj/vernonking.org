@@ -21,17 +21,14 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: CV
     url: /cv
+  - title: Archives
+    url: /archives
   - title: Papers
     url: /papers
   - title: Reviews
     url: /reviews
-  - title: Github
-    url: https://github.com/pjking07/pjking07.github.io
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -57,7 +54,6 @@ kramdown:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 relative_permalinks: false
-paginate_path: 'page/:num'
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

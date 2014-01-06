@@ -1,7 +1,7 @@
 ---
 layout: post-index
 index: 
-    category: papers
+    category: reviews
 title: "Reviews"
 permalink: /reviews/
 ---
