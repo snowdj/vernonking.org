@@ -143,17 +143,6 @@ input {
 
 /************ Layout *************/
 
-//#bump {
-//    min-height: 100%;
-//    height: auto;
-//    margin: {
-//        top: 0;
-//        left: auto;
-//        right: auto;
-//        bottom: -$footerHeight
-//    };
-//}
-
 .wrap {
     max-width: 960px;
     @include column(10);
@@ -192,7 +181,7 @@ header.site-header {
 
 }
 
-/*#bump*/ .darken {
+.darken {
 
     a {
         color: $black;
@@ -832,7 +821,7 @@ footer {
         }
     }
 
-    /*#bump*/ .darken nav ul {
+    .darken nav ul {
         padding: 0;
         margin-top: 40px;
         background: $black;
