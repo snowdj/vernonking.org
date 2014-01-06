@@ -362,7 +362,6 @@ header.site-header {
   header.site-header .wrap {
     max-width: 90vw; }
 
-/*#bump*/
 .darken a {
   color: #3b3b3b;
   -moz-transition: all 0.2s ease-in-out;
@@ -886,7 +885,6 @@ footer {
             header.site-header nav ul li a:hover {
               text-shadow: none; }
 
-  /*#bump*/
   .darken nav ul {
     padding: 0;
     margin-top: 40px;
