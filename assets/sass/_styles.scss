@@ -387,10 +387,6 @@ header.site-header nav {
         font-weight: 300;
     }
 
-    h1 {
-        //font-size: $fs2;
-    }
-
     h1, h2, h3, h4, h5 {
         padding-top: ($lh / 3);
         margin-bottom: ($lh / 3);
@@ -460,7 +456,7 @@ header.site-header nav {
             padding-left: $lh/3;
             margin-bottom: $lh/3;
             line-height: $lh;
-            font-size: $fsp;
+            font-size: $fs_base;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -564,7 +560,7 @@ footer {
     width: 100%;
     background: $black;
     height: $footerHeight;
-    font-size: $fsp;
+    font-size: $fs_base;
     color: $white;
     position: relative;
 
@@ -664,7 +660,7 @@ footer {
     }
 
     blockquote, blockquote p {
-        font-size: $fsp;
+        font-size: $fs_base;
     }
 
     footer {

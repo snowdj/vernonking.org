@@ -32,22 +32,22 @@ $serif: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
 /* Type Scale
    ========================================================================== */
 
-/** * 12 & 16 as roots then powers of two. */
-
 $fs0: 64px;
 $fs1: 48px;
 $fs2: 36px;
 $fs3: 32px;
 $fs4: 24px;
 
-$fsp: 22px;
+$fs_base: 22px;
+
+$fsp: 20px;
 
 $fs5: 16px;
 $fs6: 12px;
 
 // Line Height
 
-$lh: 33px;
+$lh: 32px;
 $lhsmall: 24px;
 
 // Sizing

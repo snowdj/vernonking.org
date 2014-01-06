@@ -19,7 +19,7 @@ p {
 }
 
 .post ul li {
-    font-size: $fsp;
+    font-size: $fs_base;
     line-height: $lh;
     margin-bottom: $lh/3;
 }
@@ -42,7 +42,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-    font-size: $fsp;
+    font-size: $fs_base;
 }
 
 h5, .h5 {
@@ -58,7 +58,7 @@ h6, .h6 {
 }
 
 blockquote, blockquote p {
-    font-size: $fsp;
+    font-size: $fs_base;
 }
 
 .archive input {
@@ -76,7 +76,7 @@ blockquote, blockquote p {
     }
 
     .intro {
-        font-size: $fsp;
+        font-size: $fs_base;
         line-height: 1.4em;
     }
 
@@ -95,7 +95,7 @@ blockquote, blockquote p {
         font-weight: 600;
     }
     h3, .h3 {
-        font-size: $fsp;
+        font-size: $fs_base;
         font-style: italic;
     }
     h4, .h4 {
