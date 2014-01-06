@@ -517,6 +517,7 @@ ul.metadata {
     vertical-align: middle;
     display: inline-block;
 
+
     ul {
         display: inline-block;
         margin-bottom: 0;
@@ -537,6 +538,12 @@ ul.metadata {
 
         a {
             position: relative;
+            &:link, &:visited {
+                color: $grey-light;
+            }
+            &:hover, &:active {
+                color: #3b3b3b;
+            }
             &:hover {
                 @include transit;
             }
