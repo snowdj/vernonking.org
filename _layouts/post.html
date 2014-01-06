@@ -1,26 +1,18 @@
-<!doctype html>
-<html lang="en">
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include header.html %}
+---
+layout: default
+---
 
-    {% if page.image.feature %}
-        {% assign feature = page.image.feature %}
-    {% else %}
-        {% assign feature = "feature.jpg" %}
-    {% endif %}
+{% if page.image.feature %}
+    {% assign feature = page.image.feature %}
+{% else %}
+    {% assign feature = "feature.jpg" %}
+{% endif %}
 
-    <section class="article">
-      <div class="overlay"></div>
-      <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ feature }})"></div>
+<section class="article">
+    <div class="overlay"></div>
+    <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ feature }})"></div>
 
-        {% include article.html %}
+    {% include article.html %}
 
-        </section>
-    </div>
-
-    {% include footer.html %}
-</body>
-</html>
+</section>
+</div>

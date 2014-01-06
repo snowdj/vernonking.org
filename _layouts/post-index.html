@@ -1,30 +1,22 @@
-<!doctype html>
-<html lang="en">
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include header.html %}
+---
+layout: default
+---
 
-    {% if page.index.category %}
-        {% assign post_list = site.categories[page.index.category] %}
-    {% elsif page.index.tag %}
-        {% assign post_list = site.tags[page.index.tag] %}
-    {% else %}
-        {% assign post_list = site.posts %}
-    {% endif %}
+{% if page.index.category %}
+    {% assign post_list = site.categories[page.index.category] %}
+{% elsif page.index.tag %}
+    {% assign post_list = site.tags[page.index.tag] %}
+{% else %}
+    {% assign post_list = site.posts %}
+{% endif %}
 
-    <section class="article archive">
-      <article class="archive-wrap">
-          <ol class="post-list">
-             <lh><h2><span id="{{ page.title }}"class="bb">{{ page.title }}</span></h2></lh>
-              {% for post in post_list %}
-              <li>{% include post-entry.html %}</li>
-              {% endfor %}
-          </ol>
-      </article>
-    </section>
-
-    {% include footer.html %}
-</body>
-</html>
+<section class="article archive">
+    <article class="archive-wrap">
+        <ol class="post-list">
+            <lh><h2><span id="{{ page.title }}"class="bb">{{ page.title }}</span></h2></lh>
+            {% for post in post_list %}
+            <li>{% include post-entry.html %}</li>
+            {% endfor %}
+        </ol>
+    </article>
+</section>
