@@ -181,35 +181,6 @@ header.site-header {
 
 }
 
-.darken {
-
-    a {
-        color: $black;
-        @include transit(all, .2s, ease-in-out);
-
-        &:hover {
-            color: $link;
-            @include transit(all, .2s, ease-in-out);
-        }
-    }
-
-    .menu .icons {
-        color: $black;
-    }
-
-    nav ul li a {
-        color: $black;
-        &:active {
-            color: $link;
-        }
-        &:hover {
-            text-shadow: none;
-            color: $link;
-        }
-    }
-
-}
-
 header.site-header a.menu {
     display: none;
 }
@@ -817,24 +788,6 @@ footer {
                         }
                     }
                 }
-            }
-        }
-    }
-
-    .darken nav ul {
-        padding: 0;
-        margin-top: 40px;
-        background: $black;
-
-        li a {
-            color: $white;
-            &:active {
-                background-color: $link;
-            }
-            &:hover {
-                text-shadow: none;
-                color: $white;
-                background-color: $link;
             }
         }
     }
