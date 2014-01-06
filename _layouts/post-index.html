@@ -19,14 +19,7 @@
           <ol class="post-list">
              <lh><h2><span id="{{ page.title }}"class="bb">{{ page.title }}</span></h2></lh>
               {% for post in post_list %}
-                  {% capture currentdate %}{{post.date | date: "%B %Y"}}{% endcapture %}
-                  {% if currentdate != thedate %}
-                      <h3>{{ currentdate }}</h3>
-                      {% capture thedate %}{{currentdate}}{% endcapture %}
-                  {% endif %}
-              <li>
-                  {% include post-entry.html %}
-              </li>
+              <li>{% include post-entry.html %}</li>
               {% endfor %}
           </ol>
       </article>

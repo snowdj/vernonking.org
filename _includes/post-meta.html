@@ -15,7 +15,8 @@
             <ul>
                 {% for category in post.categories %}
                     <li class="category">
-                        {% if forloop.first == false %}, {% endif %}{{ category }}
+                        {% if forloop.first == false %}, {% endif %}
+                        <a href="{{ site.url }}{{ category }}/">{{ category }}</a>
                     </li>
                 {% endfor %}
             </ul>
@@ -27,7 +28,8 @@
             <ul>
                 {% for tag in post.tags %}
                     <li class="tag">
-                        {% if forloop.first == false %}, {% endif %}{{ tag }}
+                        {% if forloop.first == false %}, {% endif %}
+                        {{ tag }}
                     </li>
                 {% endfor %}
             </ul>
