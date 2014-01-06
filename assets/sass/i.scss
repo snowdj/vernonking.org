@@ -2,9 +2,13 @@
    Imports
    ========================================================================== */
 
+// Typefaces
 @import "calendas";
 @import "source_sans_pro";
 @import "entypo";
+
+// Other stylesheets (remember that order matters)
+@import "syntax";
 @import "normalize";
 @import "mixins";
 @import "variables";
