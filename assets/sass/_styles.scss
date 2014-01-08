@@ -194,7 +194,7 @@ header.site-header hgroup {
     padding-left: 5vw;
     h1 {
         font-weight: 700;
-        font-size: 18px;
+        font-size: $fs4;
         line-height: 100%;
         color: $accent;
         letter-spacing: 2px;
@@ -215,6 +215,7 @@ header.site-header nav {
     float: right;
     display: block;
     padding-right: 5vw;
+    padding-top: 2px;
     @include clearfix;
 
     ul li {
