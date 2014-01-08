@@ -67,7 +67,8 @@ Residential intern with an IMB missionary church and youth ministry:
 ### Co-founder and Editor (2009--2011)
 
 Wrote and edited articles promoting healthy local churches:
-- Reprinted in B&H book, *Preach: Theology Meets Practice*, by Mark Dever and Greg Gilbert
+
+- Article reprinted in B&H book, *Preach: Theology Meets Practice*, by Mark Dever and Greg Gilbert
 - Edited 100+ articles; Authored 50+ articles (<http://www.pillarontherock.com/search/label/PJ King>)- Wrote major series on divorce and remarriage, race, membership, and church discipline- Grew the writing team to include six authors
 
 # Church Background
