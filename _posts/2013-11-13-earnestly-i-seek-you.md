@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Earnestly I Seek You
-intro: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
+tagline: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 category: lessons
 tag: seminary
 ---
