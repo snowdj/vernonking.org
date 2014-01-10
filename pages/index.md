@@ -1,7 +1,6 @@
 ---
-layout: post-index
-title: "Recent Posts"
+layout: post
 permalink: /
-image:
-  feature: typewriter.jpg
 ---
+
+Handy dandy landing page
