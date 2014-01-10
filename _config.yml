@@ -3,6 +3,7 @@ tagline:          He must become greater, I must become less.
 description:      A collection of writings and updates from Vernon R. King, III.
 #Comment out url when working locally to resolve base urls correctly
 #url: http://vernonking.org/
+files: /files
 
 # Owner/author information
 owner:
