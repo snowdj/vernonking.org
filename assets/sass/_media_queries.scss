@@ -76,23 +76,18 @@
 
     header.site-header {
         height: auto;
-        padding: 10px 0 26px;
+        padding: 10px 0 5px;
 
         hgroup {
-            position: absolute;
-            left: 7%;
-            float: none;
-            padding-left: 0;
-            width: 100%;
+            padding-left: 3vw;
         }
 
         a.menu {
-            position: absolute;
-            right: 7%;
             display: block;
             float: right;
-            width: 16px;
-            height: 16px;
+            margin-right: 2vw;
+            width: 1em;
+            height: 1em;
             color: white;
             .icons {
                 font-size: 32px;
@@ -131,7 +126,7 @@
                         text-align: right;
                         font-weight: bold;
                         padding: 15px 0px;
-                        padding-right: 7%;
+                        padding-right: 3vw;
                         position: relative;
                         width: 100%;
                         color: $white;
