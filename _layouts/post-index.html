@@ -29,14 +29,14 @@ layout: default
                 {% capture year %}{{ date | date: "%Y" }}{% endcapture %}
                 {% capture month %}{{ date | date: site.archive.month_format }}{% endcapture %}
 
-                {% if current_month != month %}
-                    {% assign current_month = month %}
+                {% if month_index != month %}
+                    {% assign month_index = month %}
                     {% unless forloop.first %}
                             </ul>
                         </li>
                     {% endunless %}
-                    {% if current_year != year %}
-                        {% assign current_year = year %}
+                    {% if year_index != year %}
+                        {% assign year_index = year %}
                         {% unless forloop.first %}
                 </ul>
             </li>
@@ -46,6 +46,7 @@ layout: default
                 <ul class="months">
                     {% endif %}
                         <li id="{{month}}">
+                            <h3>{{ date | date: "%B" }}</h3>
                             <ul>
                 {% endif %}
                                 <li>{% include post-entry.html %}</li>
