@@ -351,18 +351,32 @@ header.site-header nav {
             margin-bottom: 3px;
         }
 
-        .months > li {
-            padding-bottom: 2rem;
+        .months {
+            &> li {
+                padding-bottom: 3rem;
+            }
+
+            ul li {
+                padding-bottom: 1.5rem;
+            }
         }
 
         li {
             h1 {
+                font-size: $fs4;
                 margin-bottom: 0;
             }
-        }
 
-        .current-month li {
-            margin-bottom: 1rem;
+            .metadata {
+                margin: {
+                    top: 0;
+                    bottom: 0;
+                }
+
+                li {
+                    padding-bottom: 0;
+                }
+            }
         }
     }
 }
