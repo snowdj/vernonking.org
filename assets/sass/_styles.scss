@@ -144,8 +144,6 @@ input {
 /************ Layout *************/
 
 .wrap {
-    max-width: 960px;
-    //@include column(10);
     float: none;
     margin: 0 auto;
     @include clearfix;
@@ -174,10 +172,6 @@ header.site-header {
     width: 100%;
     z-index: 5000;
     background: #24536b;
-
-    .wrap {
-        max-width: 90vw;
-    }
 
     a.menu {
         display: none;
@@ -552,7 +546,7 @@ footer {
 
     aside.wrap {
         padding-top: $fs3;
-        width: 95%;
+        width: 90vw;
         margin: {
             left: auto;
             right: auto;
