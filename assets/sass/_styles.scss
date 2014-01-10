@@ -338,8 +338,15 @@ header.site-header nav {
             margin-bottom: $lh*1.5;
         }
 
+        > h1 {
+            text-align: center;
+        }
+
         h2 {
             font-size: $fs4;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid $grey-light;
+            padding-bottom: 0.5rem;
         }
 
         .summary {
