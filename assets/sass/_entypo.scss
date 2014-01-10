@@ -20,85 +20,8 @@
 	speak: none;
 	font-weight: normal;
 	font-variant: normal;
+    font-style: normal !important;
 	text-transform: none;
     font-size: 28px;
     color: #999;
-	-webkit-font-smoothing: antialiased;
-}
-
-/* Use the following CSS code if you want to have a class per icon */
-/*
-Instead of a list of all class selectors,
-you can use the generic selector below, but it's slower:
-[class*="icon-"] {
-*/
-.icon-directions, .icon-paperplane, .icon-mail, .icon-feather, .icon-pencil, .icon-user, .icon-heart, .icon-location, .icon-chat, .icon-quote, .icon-bolt, .icon-credit-card, .icon-list, .icon-twitter, .icon-facebook, .icon-github, .icon-dribbble, .icon-rdio, .icon-spotify, .icon-rss {
-	font-family: 'Icons';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-}
-.icon-directions:before {
-	content: "\21";
-}
-.icon-paperplane:before {
-	content: "\22";
-}
-.icon-mail:before {
-	content: "\23";
-}
-.icon-feather:before {
-	content: "\24";
-}
-.icon-pencil:before {
-	content: "\25";
-}
-.icon-user:before {
-	content: "\26";
-}
-.icon-heart:before {
-	content: "\27";
-}
-.icon-location:before {
-	content: "\28";
-}
-.icon-chat:before {
-	content: "\29";
-}
-.icon-quote:before {
-	content: "\2a";
-}
-.icon-bolt:before {
-	content: "\2b";
-}
-.icon-credit-card:before {
-	content: "\2c";
-}
-.icon-list:before {
-	content: "\2630";
-}
-.icon-twitter:before {
-	content: "\2e";
-}
-.icon-facebook:before {
-	content: "\2f";
-}
-.icon-github:before {
-	content: "\30";
-}
-.icon-dribbble:before {
-	content: "\31";
-}
-.icon-rdio:before {
-	content: "\32";
-}
-.icon-spotify:before {
-	content: "\33";
-}
-.icon-rss:before {
-	content: "\34";
 }

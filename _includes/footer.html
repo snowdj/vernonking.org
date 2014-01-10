@@ -16,22 +16,19 @@
         <ul>
             {% if site.owner.email %}
             <li><a id="mail" href="mailto:{{ site.owner.email }}">
-                <span aria-hidden="true" data-icon="&#9993;"></span>
-                <span class="screen-reader-text">Email</span>
+                <span aria-hidden="true" data-icon="&#9993;"></span> Email
             </a></li>
             {% endif %}
 
             {% if site.owner.twitter %}
             <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
-                <span aria-hidden="true" data-icon="&#62217;"></span>
-                <span class="screen-reader-text">@{{site.owner.twitter}}</span>
+                <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span> @{{site.owner.twitter}}
             </a></li>
             {% endif %}
-            
+
             {% if site.owner.facebook %}
             <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
-                <span aria-hidden="true" data-icon="&#62222;"></span>
-                <span class="screen-reader-text">Facebook</span>
+                <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
             {% endif %}
         </ul>
     </div>
