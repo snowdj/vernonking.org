@@ -27,7 +27,7 @@ layout: default
             {% for post in post_list %}
                 {% capture date %}{{ post.date }}{% endcapture %}
                 {% capture year %}{{ date | date: "%Y" }}{% endcapture %}
-                {% capture month %}{{ date | date: "%Y-%m" }}{% endcapture %}
+                {% capture month %}{{ date | date: site.archive.month_format }}{% endcapture %}
 
                 {% if current_month != month %}
                     {% assign current_month = month %}

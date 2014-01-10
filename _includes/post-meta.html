@@ -6,7 +6,7 @@
     {% if !post.date %}
         <li><span aria-hidden="true" data-icon="&#128197;"></span>
             <span class="screen-reader-text">Date</span>
-            <span class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span>
+            <a class="date" href="{{ site.url }}/archives/#{{ post.date | date: site.archive.month_format }}"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a>
         </li>
     {% endif %}
     {% if post.categories.size > 0 %}

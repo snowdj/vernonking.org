@@ -55,5 +55,8 @@ kramdown:
 permalink:   /:categories/:title
 relative_permalinks: false
 
+archive:
+    month_format: "%Y-%b"
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
