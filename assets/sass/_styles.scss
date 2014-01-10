@@ -179,10 +179,9 @@ header.site-header {
         max-width: 90vw;
     }
 
-}
-
-header.site-header a.menu {
-    display: none;
+    a.menu {
+        display: none;
+    }
 }
 
 header.site-header hgroup h1, header.site-header nav ul {
