@@ -368,20 +368,6 @@ header.site-header nav {
 
     min-height: 500px;
 
-    .deets {
-        position: relative;
-        top: 45px;
-        z-index: 5;
-        .date {
-            font-size: $fs5;
-            position: relative;
-            top: 10px;
-            left: 6px;
-            color: $grey-medium;
-            margin-bottom: $lh/2;
-        }
-    }
-
     header.post-header hgroup h1 {
         font-size: $fs0;
         font-weight: 300;
