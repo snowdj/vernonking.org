@@ -596,15 +596,15 @@ footer {
         font-size: ($fs6);
         text-align: center;
         display: block;
-        width: 100%;
-        position: absolute;
-        bottom: 8px;
+        width: 50%;
+        margin: {
+            left: auto;
+            right: auto;
+        }
+        padding-bottom: 1em;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
-        a {
-            color: transparentize($white, .7);
-        }
+        color: transparentize($grey-light, .4);
     }
 
     h2 {

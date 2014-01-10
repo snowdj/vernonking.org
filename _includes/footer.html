@@ -29,11 +29,16 @@
             {% if site.owner.facebook %}
             <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
                 <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
+            </a></li>
             {% endif %}
         </ul>
     </div>
     </aside>
-    <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+    <small>
+        &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br/>
+        Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.<br/>
+        Site design customized by <a href="http://chriskrycho.com/">Chris Krycho</a>.
+    </small>
   </footer>
 
   <!-- Custom JS -->
