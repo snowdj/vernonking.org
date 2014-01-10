@@ -12,13 +12,13 @@ Having felt an earnest call to ministry since college, I have been preparing for
 
 I affirm the [Abstract of Principles](http://www.founders.org/abstract.html), the [Baptist Faith and Message 2000](http://www.sbc.net/bfm/bfm2000.asp), the [Chicago Statement on Biblical Inerrancy](http://library.dts.edu/Pages/TL/Special/ICBI_1.pdf), and the [Danvers Statement on Biblical Manhood and Womanhood](http://cbmw.org/uncategorized/the-danvers-statement/).
 
-# Personal Background
+## Personal Background
 
-### Spouse
+#### Spouse
 
 Kathryn Rose, married December 22, 2007
 
-### Children
+#### Children
 
 1. Vernon Ray, IV (10)  
 2. Brooklyn Leigh (7)  
@@ -27,9 +27,9 @@ Kathryn Rose, married December 22, 2007
 
 Our three eldest were adopted into the family in 2011.
 
-# Education
+## Education
 
-## [Southeastern Baptist Theological Seminary](http://www.sebts.edu)
+### [Southeastern Baptist Theological Seminary](http://www.sebts.edu)
 
 Currently pursuing *Master of Divinity in Christian Ministry*
 
@@ -37,26 +37,26 @@ Currently pursuing *Master of Divinity in Christian Ministry*
 - GPA: 4.0
 - 2012 -- present
 
-## [Southwestern Baptist Theological Seminary](http://www.swbts.edu)
+### [Southwestern Baptist Theological Seminary](http://www.swbts.edu)
 
 Coursework toward *Master of Divinity in Missions*
 
 - GPA: 4.0+
 - 2009 -- 2011
 
-## [Texas A&M University](http://www.tamu.edu)
+### [Texas A&M University](http://www.tamu.edu)
 
-### Bachelor of Science in Computer Engineering
+#### Bachelor of Science in Computer Engineering
 
 - GPA: 4.0
 - *summa cum laude*
 - 2003 -- 2007
 
-# Relevant Experience
+## Relevant Experience
 
-## [New Song Church](http://www.newsong.org.na/) (Windhoek, Namibia)
+### [New Song Church](http://www.newsong.org.na/) (Windhoek, Namibia)
 
-### Missionary Intern (May--August 2007)
+#### Missionary Intern (May--August 2007)
 
 Residential intern with an IMB missionary church and youth ministry:
 
@@ -64,9 +64,9 @@ Residential intern with an IMB missionary church and youth ministry:
 - Helped host two American youth mission teams for two weeks each
 - Provided technical support for church, youth ministries, and camp
 
-## [Pillar on the Rock](http://www.pillarontherock.com) | an ecclesiological online magazine
+### [Pillar on the Rock](http://www.pillarontherock.com) | an ecclesiological online magazine
 
-### Co-founder and Editor (2009--2011)
+#### Co-founder and Editor (2009--2011)
 
 Wrote and edited articles promoting healthy local churches:
 
@@ -75,20 +75,20 @@ Wrote and edited articles promoting healthy local churches:
 - Wrote major series on divorce and remarriage, race, membership, and church discipline
 - Grew the writing team to include six authors
 
-# Church Background
+## Church Background
 
-## [First Baptist Church](http://www.fbcdurham.org) (Durham, North Carolina)
+### [First Baptist Church](http://www.fbcdurham.org) (Durham, North Carolina)
 
-### Member (2013 -- present)
+#### Member (2013 -- present)
 
 Although a new member, I am scheduled to serve in the following ways:
 
 - Rotating Children’s Sunday School and home group teacher
 - Pastoral internship through Southeastern in Spring 2014
 
-## [Church of Christ the King](http://www.christthekingfortworth.org) (Fort Worth, Texas)
+### [Church of Christ the King](http://www.christthekingfortworth.org) (Fort Worth, Texas)
 
-### Member (2010 – 2012)
+#### Member (2010 – 2012)
 
 Considered faithful to the community and participated in ad hoc duties:
 
@@ -96,9 +96,9 @@ Considered faithful to the community and participated in ad hoc duties:
 - Organized greeter and security rotations
 - Administered web technologies
 
-## [Portland Avenue Baptist Church](http://www.portlandavenue.org/) (Oklahoma City, Oklahoma)
+### [Portland Avenue Baptist Church](http://www.portlandavenue.org/) (Oklahoma City, Oklahoma)
 
-### Member (2008 – 2009)
+#### Member (2008 – 2009)
 
 Sacrificially served while discerning future ministry goals:
 
@@ -106,24 +106,24 @@ Sacrificially served while discerning future ministry goals:
 - Break-out teacher for youth ministry
 - Assumed temporary guardianship for twin teenage girls from the youth group
 
-## [Trinity Baptist Church](http://trinitynorman.org/) (Norman, Oklahoma)
+### [Trinity Baptist Church](http://trinitynorman.org/) (Norman, Oklahoma)
 
-### Attended (2007 – 2008)
+#### Attended (2007 – 2008)
 
 Actively participated before planned move out of town.
 
-## [First Baptist Church](http://fbcbryan.org/) (Bryan, Texas)
+### [First Baptist Church](http://fbcbryan.org/) (Bryan, Texas)
 
-### Member (2003 – 2007)
+#### Member (2003 – 2007)
 
 Engaged in ministry during full tenure of college:
 
 - Served as a youth leader
 - Participated in college discipleship programs
 
-## [First Baptist Church](http://www.fbcwoodway.org/) (Woodway, Texas)
+### [First Baptist Church](http://www.fbcwoodway.org/) (Woodway, Texas)
 
-### Member (1992 – 2003)
+#### Member (1992 – 2003)
 
 Raised by my parents to be a faithful member:
 
@@ -131,58 +131,58 @@ Raised by my parents to be a faithful member:
 - Served on student leadership team during high school
 - Counseled as a college leader for youth camps and mission trips
 
-# Professional History
+## Professional History
 
-## Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
+### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
 
-### Software Developer (May 2013 – present)
+#### Software Developer (May 2013 – present)
 
-## FTS International (Fort Worth, Texas)
+### FTS International (Fort Worth, Texas)
 
-### Lead Software Developer (May 2011 – January 2013)
+#### Lead Software Developer (May 2011 – January 2013)
 
 Led a team of five engineers and served as a point of contact with management.
 
-## Deloitte Consulting (Dallas, Texas)
+### Deloitte Consulting (Dallas, Texas)
 
-###Software Consultant, Homeland Security (January 2011 – May 2011)
+####Software Consultant, Homeland Security (January 2011 – May 2011)
 
-## FIS (Oklahoma City, Oklahoma)
+### FIS (Oklahoma City, Oklahoma)
 
-### Senior Programmer Analyst (October 2009 – November 2010)
+#### Senior Programmer Analyst (October 2009 – November 2010)
 
-### Programmer Analyst II (September 2007 – October 2009)
+#### Programmer Analyst II (September 2007 – October 2009)
 
-## Hewlett-Packard (College Station, Texas)
+### Hewlett-Packard (College Station, Texas)
 
-### ASIC Intern (May 2006 – May 2007)
+#### ASIC Intern (May 2006 – May 2007)
 
-## Texas A&M University (College Station, Texas)
+### Texas A&M University (College Station, Texas)
 
-### Peer Teacher, Department of Computer Science (September 2004 – May 2006)
+#### Peer Teacher, Department of Computer Science (September 2004 – May 2006)
 
-# References
+## References
 
 *Additional contact information available upon request.*
 
-## [Nathan Finn](http://www.nathanfinn.com/)
+### [Nathan Finn](http://www.nathanfinn.com/)
 
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Associate Professor, Historical Theology and Baptist Studies*, Southeastern Baptist Theological Seminary
 
-## [Ryan Hutchinson](http://about.me/rrhutch)
+### [Ryan Hutchinson](http://about.me/rrhutch)
 
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Executive Vice President for Operations*, Southeastern Baptist Theological Seminary
 
-## [Benjamin H. Arbour](http://www.benarbour.com/)
+### [Benjamin H. Arbour](http://www.benarbour.com/)
 
 - Mentor and Friend 
 
-## [Jonathan Dent](http://dcdents.org/)
+### [Jonathan Dent](http://dcdents.org/)
 
 - *Elder*, Church of Christ the King, Fort Worth, Texas
 
-## David Jacks
+### David Jacks
 
 - *Elder*, Church of Christ the King, Fort Worth, Texas

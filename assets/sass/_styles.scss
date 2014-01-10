@@ -447,6 +447,15 @@ header.site-header nav {
         @include br(4px);
     }
 
+    ul, ol {
+        li {
+            font-size: $fsp;
+            margin-bottom: 0;
+            margin-left: $lh*2;
+            padding-left: $lh/3;
+        }
+    }
+
     ul {
         display: block;
         margin-bottom: $lh;
@@ -458,29 +467,14 @@ header.site-header nav {
         li {
             list-style: disc;
             list-style-type: disc;
-            margin-left: $lh*2;
-            padding-left: $lh/3;
-            &:last-child {
-                margin-bottom: 0;
-            }
         }
     }
 
     ol {
         display: block;
         margin-bottom: $lh;
-        lh h1, lh h2, lh h3, lh h4, lh h5 {
+        h1, h2, h3, h4, h5 {
             @include underline(2px, solid, $grey-light);
-        }
-        li {
-            margin-left: $lh*2;
-            padding-left: $lh/3;
-            margin-bottom: $lh/3;
-            line-height: $lh;
-            font-size: $fs_base;
-            &:last-child {
-                margin-bottom: 0;
-            }
         }
     }
 
