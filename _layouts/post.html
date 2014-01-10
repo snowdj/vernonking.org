@@ -2,16 +2,10 @@
 layout: default
 ---
 
-{% if page.image.feature %}
-    {% assign feature = page.image.feature %}
-{% else %}
-    {% assign feature = "feature.jpg" %}
-{% endif %}
-
 <section class="article">
-    <div class="featured-image" style="background-image: url({{site.files}}/{{feature}})"></div>
-
+    {% if page.image.feature %}
+    <div class="featured-image" style="background-image: url({{site.files}}/{{page.image.feature}})"></div>
+    {% endif %}
     {% include article.html %}
-
 </section>
 </div>
