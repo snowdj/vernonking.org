@@ -2,6 +2,8 @@
 title: Curriculum Vitae
 layout: post
 permalink: /cv/
+image:
+    feature: cv/header.jpg
 ---
 
 *You can download this CV in [pdf]({{site.files}}/cv/vernonking-ministry-cv.pdf) or [docx]({{site.files}}/cv/vernonking-ministry-cv.docx) formats.*
