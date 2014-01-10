@@ -344,9 +344,14 @@ header.site-header nav {
 
         h2 {
             font-size: $fs4;
-            margin-bottom: 2rem;
-            border-bottom: 1px solid $grey-light;
+            margin-bottom: 1rem;
             padding-bottom: 0.5rem;
+            border-bottom: 1px solid $grey-light;
+        }
+
+        h3 {
+            font-size: $fsp;
+            padding-bottom: 1rem;
         }
 
         .summary {
@@ -360,7 +365,7 @@ header.site-header nav {
 
         .months {
             &> li {
-                padding-bottom: 3rem;
+                padding-bottom: 2rem;
             }
 
             ul li {
