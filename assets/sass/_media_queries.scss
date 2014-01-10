@@ -76,6 +76,7 @@
 
     header.site-header {
         height: auto;
+        min-height: 39x;  // actual rendered value; set for old Android browser
         padding: 10px 0 5px;
 
         hgroup {
