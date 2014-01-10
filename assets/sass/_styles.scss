@@ -583,6 +583,12 @@ footer {
     color: $white;
     position: relative;
 
+    a {
+        &:hover {
+            color: $white;
+        }
+    }
+
     aside.wrap {
         padding-top: $fs3;
         width: 90vw;
@@ -627,11 +633,6 @@ footer {
             margin-top: $lh/2;
             .recent-title {
                 font-style: italic;
-                a {
-                    &:hover {
-                        color: $white;
-                    }
-                }
             }
             span.date {
                 float: none;
