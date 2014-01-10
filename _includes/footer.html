@@ -12,22 +12,26 @@
       </ol>
 
       <div class="social">
-        <h2>Contact Me</h2>
+        <h2>Connect</h2>
         <ul>
             {% if site.owner.email %}
-            <li><a id="mail" href="mailto:{{ site.owner.email }}"><span class="foot-link">Contact Me</span></a></li>
+            <li><a id="mail" href="mailto:{{ site.owner.email }}">
+                <span aria-hidden="true" data-icon="&#9993;"></span>
+                <span class="screen-reader-text">Email</span>
+            </a></li>
             {% endif %}
 
             {% if site.owner.twitter %}
-            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a></li>
+            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
+                <span aria-hidden="true" data-icon="&#62217;"></span>
+                <span class="screen-reader-text">@{{site.owner.twitter}}</span>
+            </a></li>
             {% endif %}
-
+            
             {% if site.owner.facebook %}
-            <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank"><span class="foot-link">Facebook</span></a></li>
-            {% endif %}
-
-            {% if site.owner.dribbble %}
-            <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
+            <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
+                <span aria-hidden="true" data-icon="&#62222;"></span>
+                <span class="screen-reader-text">Facebook</span>
             {% endif %}
         </ul>
     </div>
