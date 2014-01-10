@@ -336,6 +336,10 @@ header.site-header nav {
         h1 {
             font-weight: 400;
             margin-bottom: $lh*1.5;
+
+            [data-icon]:before {
+                font-size: $fs1;
+            }
         }
 
         > h1 {
@@ -650,11 +654,17 @@ footer {
         clear: none;
         margin-right: 5vw;
         font-style: italic;
+
+        [data-icon]:before {
+            font-size: $fs2;
+        }
+
         a {
             &:hover {
                 color: $white;
             }
         }
+
         ul {
             li {
                 margin-bottom: $lh/2;
