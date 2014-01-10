@@ -18,15 +18,38 @@ layout: default
 
 <section class="article archive">
     <article class="archive-wrap">
-        <ol class="post-list">
-            <lh><h2>
+        <ul class="post-list">
+            <h1>
                 <span aria-hidden="true" data-icon="{{ data_icon }}"></span>
                 <span class="screen-reader-text">{{ screader }}</span>
                 <span id="{{ page.title }}"class="bb">{{ page.title }}</span>
-            </h2></lh>
+            </h1>
             {% for post in post_list %}
-            <li>{% include post-entry.html %}</li>
+                {% capture date %}{{ post.date }}{% endcapture %}
+                {% capture year %}{{ date | date: "%Y" }}{% endcapture %}
+                {% capture month %}{{ date | date: "%Y-%m" }}{% endcapture %}
+
+                {% if current_month != month %}
+                    {% assign current_month = month %}
+                    {% unless forloop.first %}
+                            </ul>
+                        </li>
+                    {% endunless %}
+                    {% if current_year != year %}
+                        {% assign current_year = year %}
+                        {% unless forloop.first %}
+                </ul>
+            </li>
+                        {% endunless %}
+            <li id="{{year}}" class="year">
+                <h2>{{year}}</h2>
+                <ul class="months">
+                    {% endif %}
+                        <li id="{{month}}">
+                            <ul>
+                {% endif %}
+                                <li>{% include post-entry.html %}</li>
             {% endfor %}
-        </ol>
+        </ul>
     </article>
 </section>
