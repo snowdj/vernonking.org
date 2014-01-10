@@ -33,25 +33,24 @@
             right: 10vw;
         }
     }
-}
 
-/* Mobile
-   ========================================================================== */
-
-@media only screen and (max-width: 500px) {
     footer {
-
-        .social {
-            display: none;
-        }
+        text-align: center;
+        padding-bottom: 4em;
 
         aside {
-            width: 90%;
+            width: 87%;
             margin: 0 auto;
         }
 
+        .social {
+            clear: both;
+            width: 57%;
+            float: none;
+            margin: auto;
+        }
+
         .prev-posts {
-            @include column(9);
             padding-left: 0;
             float: none;
             margin: 0 auto;
@@ -61,8 +60,15 @@
             }
         }
 
+        ol {
+            list-style: none;
+        }
     }
+
 }
+
+/* Mobile
+   ========================================================================== */
 
 @media only screen and (max-width: 680px) {
 
@@ -186,6 +192,11 @@
         }
     }
 
+    footer {
+        .social, .prev-posts {
+            width: 90%;
+        }
+    }
 }
 
 @media only screen and (max-width: $breakpoint-1-max-width) {

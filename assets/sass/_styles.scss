@@ -145,7 +145,7 @@ input {
 
 .wrap {
     max-width: 960px;
-    @include column(10);
+    //@include column(10);
     float: none;
     margin: 0 auto;
     @include clearfix;
@@ -559,17 +559,18 @@ ul.metadata {
 footer {
     width: 100%;
     background: $black;
-    height: $footerHeight;
+    height: auto;
     font-size: $fs_base;
     color: $white;
     position: relative;
 
-    // Contain that ish
-    section {
-        @include column(10);
-        @include row(10);
-        display: block;
-        margin: 0 auto;
+    aside.wrap {
+        padding-top: $fs3;
+        width: 95%;
+        margin: {
+            left: auto;
+            right: auto;
+        }
     }
 
     small {
@@ -587,25 +588,25 @@ footer {
         }
     }
 
-    .list-title {
+    h2 {
         margin-bottom: $lh/2;
+        padding-bottom: $lh/4;
         border-bottom: 2px solid $link;
         font-style: italic;
         font-size: $fs4;
+        font-family: $serif;
     }
+
     .prev-posts {
-        @include column(6, 10);
+        padding-bottom: 4em;
+        width: 57%;
         max-width: 600px;
-        min-height: 250px;
-        padding-left: 5vw;
-        p {
-            padding-top: $lh*2;
-        }
+        float: left;
+        clear: none;
+
         li {
-            @include row(12);
             margin-top: $lh/2;
             .recent-title {
-                @include column(8, 12);
                 font-style: italic;
                 a {
                     &:hover {
@@ -616,7 +617,6 @@ footer {
             span.date {
                 float: none;
                 color: transparentize($grey-light, .4);
-                @include column(4, 12);
                 position: relative;
                 font-size: $fs5;
                 font-family: $sans;
@@ -627,10 +627,11 @@ footer {
     }
 
     .social {
-        position: absolute;
-        top: 109px;
-        @include column(2, 12);
-        right: 5vw;
+        float: right;
+        width: 33%;
+        max-width: 600px;
+        clear: none;
+        margin-right: 5vw;
         font-style: italic;
         a {
             &:hover {
