@@ -24,12 +24,12 @@ owner:
 links:
   - title: CV
     url: /cv
-  - title: Archives
-    url: /archives
   - title: Papers
     url: /papers
   - title: Reviews
     url: /reviews
+  - title: Archives
+    url: /archives
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
