@@ -1,6 +1,7 @@
 ---
 layout: post
+title: Welcome
 permalink: /
 ---
 
-Handy dandy landing page
+This site is currently under construction.
