@@ -40,6 +40,19 @@ small {
     font-size: $fs5;
 }
 
+sup, sub {
+    line-height: 0;
+    font-size: 0.9em;
+}
+
+sup {
+    vertical-align: super;
+}
+
+sub {
+    vertical-align: sub;
+}
+
 .hilite {
     display: inline-block;
     padding: 0 0.3em;
