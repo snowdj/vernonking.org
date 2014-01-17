@@ -64,6 +64,10 @@
             }
         }
 
+        [data-icon]:before {
+            font-size: $fs_base;
+        }
+
         ol {
             list-style: none;
         }

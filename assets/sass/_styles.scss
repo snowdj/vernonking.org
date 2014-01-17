@@ -635,6 +635,29 @@ footer {
         float: left;
         clear: none;
 
+        ul.metadata {
+            font-size: $fs6;
+            display: block;
+            color: $grey-medium;
+            padding: {
+                top: 0;
+                bottom: 0;
+            }
+            margin: {
+                top: 0;
+                bottom: 0;
+            }
+
+            li {
+                margin-top: 0;
+                font-size: $fs6;
+            }
+
+            > li {
+                padding-right: 0.5em;
+            }
+        }
+
         li {
             margin-top: $lh/2;
             span.date {

@@ -38,7 +38,8 @@
                     <li>
                         <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
                             {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
-                        <span class="metadata date">{{ post.date | date: "%b %d, %Y" }}</span>
+                        {% assign meta_links = false %}
+                        {% include post-meta.html %}
                     </li>
                 {% endfor %}
             </ul>
