@@ -2,7 +2,7 @@
 
 body {
     font-family: $serif;
-    color: $black;
+    color: $grey-dark;
     text-size-adjust: 100%;
     background: $white;
     min-height: 100%;
@@ -197,7 +197,7 @@ header.site-header hgroup h1, header.site-header nav ul {
 
 header.site-header hgroup {
     float: left;
-    padding-left: 5vw;
+    padding-left: 5%;
     h1 {
         font-weight: 700;
         font-size: $fs4;
@@ -220,7 +220,7 @@ header.site-header hgroup {
 header.site-header nav {
     float: right;
     display: block;
-    padding-right: 5vw;
+    padding-right: 5%;
     padding-top: 2px;
     @include clearfix;
 
