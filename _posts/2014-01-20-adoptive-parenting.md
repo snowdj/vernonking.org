@@ -34,7 +34,7 @@ If you’d like more information about the goings-on of our family, Katie mainta
 
 Although this short class will deal with the unique concerns of adoptive parenting, I want you to keep in mind a brief theology of Christian parenting. Specifically, adoptive Christian parenting is a subset of broader Christian parenting, so everything that applies to Christian parenting also applies to adoptive parenting. However, if you want a more detailed account of Christian parenting, you should be able to access the BFL notes for the parenting class at [FBC Durham's website](http://www.fbcdurham.org/journeying/bible-for-life/bfl-class-notes/christian-parenting/).
 
-## ​1. Children are human beings created in the image of God
+## 1. Children are human beings created in the image of God
 
 The Bible affirms a high-view of the *Sanctity of Human Life*, including the value of all children. This sanctity is rooted in the image of God that he bestowed on humanity in creation (Genesis 1:27). We believe that all human life—in the womb, in the crib, in the hospital bed—all human life has value to us and to God. Therefore, children—saints or sinners, biological or adopted—all have intrinsic value and were created to reflect the glory of God. Consider Jesus’ explicit teaching on children:
 
@@ -42,7 +42,7 @@ The Bible affirms a high-view of the *Sanctity of Human Life*, including the val
 
 As Christians, we must live our lives in a way that demonstrates our belief in the sanctity of human life—this must include caring for the widow, the orphan, and the destitute.
 
-## ​2. Children are a blessing from the Lord
+## 2. Children are a blessing from the Lord
 
 Not only do children have intrinsic value before God, but children are supposed to be a blessing for their parents:
 
@@ -50,7 +50,7 @@ Not only do children have intrinsic value before God, but children are supposed 
 
 Children are a heritage from the Lord and we must not treat them as if their existence is an imposition or an inconvenience. Adoption can be difficult, but God’s blessings accompany children. However, while some of those blessings will be discernible in our lifetimes, others will be treasures stored up in heaven, which will not be realized until our next life.
 
-## ​3. Children have fallen natures
+## 3. Children have fallen natures
 
 Those of you who are parents know this is true. We don’t have to teach our children to bite and fight to get what they want: they do this by their own nature. Somehow, Christians still debate this teaching, but as G. K. Chesterton noted in *Orthodoxy*, original sin “is the only part of Christian theology which can really be proved.” As Proverbs 22:15 reads, “Folly is bound up in the heart of a child.” We all came into this world with a sinful, rebellious nature—so did our children, so have all children. We cannot parent by merely focusing on self-esteem and positive attitudes—parents must address sin in their children head on.
 
@@ -76,13 +76,13 @@ Again, all children who are eligible for adoption or foster care have experience
 
 How should we parent children differently in light of their prior trauma or loss?
 
-### ​1. Be willing to adapt your parenting style
+### 1. Be willing to adapt your parenting style
 
 When we started our adoptive adventure, we were rookie parents. However, from the beginning, we had to adapt our parenting expectations to meet the needs of the child and the system. If you are adopting or fostering a traumatized child, you must be willing to adapt in order to meet the child’s needs. For example, when we were still under the rule of the foster system, our children were not allowed to receive corporal punishment. But even for each child, we have had to adapt in surprising ways. Early on we needed to be vigilant in our awareness of certain environments or actions that would trigger traumatic memories, especially for our eldest, whose childhood memories were most intact.
 
 Not just your parenting style, but your entire family life will need to be flexible to meet the unique needs of the new children in your family. You might need to modify your disciplinary approach, you might need to turn down opportunities for external ministry, and you might need to refuse a new job or relocation. For us, we have slowly come to the realization that many of our ministry aspirations may have to be put on hold until our children are stable, older, or even graduated out of the house. The needs of our family must come first and, right now, that means providing the stability and resources they need to hopefully succeed in life.
 
-### ​2. Be willing to seek and receive help
+### 2. Be willing to seek and receive help
 
 We get it. All parents need help. No one is meant to parent alone, outside of a community. But adoptive and foster parents need more help than most. If you are looking into adoption, start now to look for resources and people who can help you parent your children wisely, compassionately, and practically. Furthermore, you are going to need people who are willing to help both in the day-to-day grind of life and during some exceptional times of need. Adopting children is a demanding task and requires the time and resources of more than one family. Surround yourself with people you trust, who can take care of your children when you need relief.
 
@@ -90,7 +90,7 @@ Prior to adopting, we found it helpful to meet with other adoptive parents and f
 
 For those wanting to help: find out how you can help the adoptive and fostering families around you. When they bring home new children, throw adoption showers as you would throw a baby shower. Even for the families that have had their children for years, bring a meal or have a pizza delivered because they may still have a difficult family life on account of their adoption. Offer to babysit for free. To help foster families, you may have to fill out paperwork and go through a background check in order to be approved for babysitting—put forth the effort. These parents can’t have an evening away from the kids without approved babysitters. Form deep relationships with adoptive parents because adoptive parenting can be an extremely lonely experience, especially when home life is particularly difficult.
 
-### ​3. Realize that attachment may not come easily
+### 3. Realize that attachment may not come easily
 
 Attachment is a psychological term used to describe the emotional bond that exists between parent and child. When you conceive a child, mom and baby should have eight to nine months getting used to each other before the formal introduction. At birth, a host of verbal, tactile, and hormonal factors help a child and parents attach. Unfortunately, adoptive families don’t have many of these advantages. While biological attachment often comes easily, adoptive attachment is a process, for both child and parent. This doesn’t mean that the eventual emotional bond will be inherently weaker, but it will be more difficult to form and will require intentional effort to develop.
 
