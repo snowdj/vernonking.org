@@ -518,14 +518,19 @@ header.site-header nav {
     }
 }
 
+.metadata {
+    font: {
+        size: $fs5;
+        weight: bold;
+        family: $sans;
+        style: normal;
+    }
+    color: $grey-light;
+}
+
 ul.metadata {
     position: relative;
     margin: 0.5em 0;
-    font-size: $fs5;
-    font-weight: bold;
-    font-family: $sans;
-    font-style: normal;
-    color: $grey-light;
     text-transform: uppercase;
     vertical-align: middle;
     display: inline-block;
@@ -574,7 +579,10 @@ footer {
     width: 100%;
     background: $black;
     height: auto;
-    font-size: $fs_base;
+    font: {
+        family: $sans;
+        size: $fs_base;
+    }
     color: $white;
     position: relative;
 
@@ -585,7 +593,6 @@ footer {
     }
 
     aside.wrap {
-        padding-top: $fs3;
         width: 90vw;
         margin: {
             left: auto;
@@ -609,12 +616,13 @@ footer {
     }
 
     h2 {
+        padding-top: $fs3;
         margin-bottom: $lh/2;
         padding-bottom: $lh/4;
-        border-bottom: 2px solid $link;
-        font-style: italic;
+        border-bottom: 1px solid $link;
         font-size: $fs4;
-        font-family: $serif;
+        font-family: $sans;
+        font-weight: 300;
     }
 
     .prev-posts {
@@ -626,9 +634,6 @@ footer {
 
         li {
             margin-top: $lh/2;
-            .recent-title {
-                font-style: italic;
-            }
             span.date {
                 float: none;
                 color: transparentize($grey-light, .4);
@@ -636,7 +641,6 @@ footer {
                 font-size: $fs5;
                 font-family: $sans;
                 text-transform: uppercase;
-                text-align: right;
             }
         }
     }
@@ -647,24 +651,16 @@ footer {
         max-width: 600px;
         clear: none;
         margin-right: 5%;
-        font-style: italic;
 
         [data-icon]:before {
             font-size: $fs2;
+            display: inline-block;
+            vertical-align: -2px;
         }
 
         a {
             &:hover {
                 color: $white;
-            }
-        }
-
-        ul {
-            li {
-                margin-bottom: $lh/2;
-                &:last-child {
-                    margin-bottom: 0;
-                }
             }
         }
     }
