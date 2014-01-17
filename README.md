@@ -1,6 +1,8 @@
 # License
 
-This theme is forked from [balzac](http://jekyll.gtat.me/about/) and was modified by @chriskrycho for <http://www.vernonking.org>. The site theme is under the MIT license, however the site content (e.g., /files, /_posts, /pages) is (c) Vernon R. King, III and is not under the MIT license.
+This theme is forked from [balzac](http://jekyll.gtat.me/about/) and was modified by [Chris Krycho](//chriskrycho.com) for <http://www.vernonking.org>. The site theme is under the MIT license. 
+
+The site content (e.g., /files, /_posts, /pages) is &copy; Vernon R. King, III; all rights reserved.
 
 # Customization
 
@@ -10,7 +12,7 @@ Most of the variables found here are used in the .html files found in `_includes
 
 ### Owner/Author Information
 
-Change your name, bio, Twitter url, email, Dribbble URL, etc.
+Change your name, bio, Twitter url, email, etc.
 
 
 ### Top Navigation Links
