@@ -5,21 +5,22 @@
             <h2>Connect</h2>
             <ul>
                 {% if site.owner.email %}
-                <li><a id="mail" href="mailto:{{ site.owner.email }}">
-                    <span aria-hidden="true" data-icon="&#9993;"></span> Email
-                </a></li>
+                    <li><a id="mail" href="mailto:{{ site.owner.email }}">
+                        <span aria-hidden="true" data-icon="&#9993;"></span> Email
+                    </a></li>
                 {% endif %}
 
                 {% if site.owner.twitter %}
-                <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span> @{{site.owner.twitter}}
-                </a></li>
+                    <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
+                        <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span>
+                        @{{ site.owner.twitter }}
+                    </a></li>
                 {% endif %}
 
                 {% if site.owner.facebook %}
-                <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
-                </a></li>
+                    <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
+                        <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
+                    </a></li>
                 {% endif %}
             </ul>
         </div>
@@ -32,19 +33,21 @@
                     {% assign post_list = site.posts %}
                     {% assign list_title = "Recent Posts" %}
                 {% endif %}
-                <h2>{{list_title}}</h2>
+                <h2>{{ list_title }}</h2>
                 {% for post in post_list | limit:5 %} <!-- for1 -->
-                <li>
-                    <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
-                    <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
-                </li>
+                    <li>
+                        <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+                            {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
+                        <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+                    </li>
                 {% endfor %}
             </ul>
         </div>
     </aside>
     <small>
         &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br/>
-        Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.<br/>
+        Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a>
+        theme.<br/>
         Site design customized by <a href="http://chriskrycho.com/">Chris Krycho</a>.
     </small>
 </footer>
