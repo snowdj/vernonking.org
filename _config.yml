@@ -51,4 +51,4 @@ relative_permalinks: false
 archive:
     month_format: "%Y-%b"
 
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "LICENSE", "Gemfile", "CNAME", "*.sh", "*.pxm"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "LICENSE", "Gemfile", "CNAME", "*.sh", "*.pxm", "*.scss"]
