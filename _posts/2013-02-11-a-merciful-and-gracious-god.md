@@ -3,7 +3,7 @@ layout: post
 title: A Merciful and Gracious God
 category: posts
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 ---
 
 # Meaning of the Text
@@ -19,7 +19,7 @@ In <cite class="bibleref" title="Exodus 34:11-27">vv. 11-27</cite>, the LORD rep
 
 The LORD proclaims great truths about himself in <cite class="bibleref" title="Exodus 34:6-7">vv. 6-7</cite>, truths which are repeated throughout Scripture. <cite class="bibleref" title="Exodus 34:6">Verse 6</cite> proclaims his mercy, slowness to anger, and steadfast love, which are all clearly repeated in Numbers 14:18, 2 Chronicles 20:9, Nehemiah 9:17, Psalm 86:15, Psalm 103:8, Psalm 145:8, and Joel 2:13. His forgiveness toward the repentant is contrasted with his just treatment of the unrepentant in <cite class="bibleref" title="Exodus 34:7">v. 7</cite> which is echoed in Exodus 23:21, Deuteronomy 5:9-10, Jeremiah 32:18, Job 10:14, Nahum 1:3, and 1 John 1:9.
 
-Moses was fasting on Mount Sinai in the presence of the LORD for forty days and forty nights (<cite class="bibleref" title="Exodus 34:28">v. 28</cite>). A duration of forty (days or years) typically denotes a significant event in redemptive history. For forty years Israel wandered in the desert (Numbers 14:33), King David ruled over Israel (1 Kings 2:11), and King Solomon reigned in Jerusalem (1 Kings 11:42). For forty days rain fell on the earth (Genesis 7:4, 8:6), spies observed Canaan (Numbers 13:25), Goliath humiliated Israel (1 Samuel 17: 16), Elijah hid on Mount Horeb (1 Kings 19:1), Jonah warned Nineveh (Jonah 3:4), Jesus fasted in the wilderness (Matthew 4:2), and our resurrected Christ taught on earth (Acts 1:3). 
+Moses was fasting on Mount Sinai in the presence of the LORD for forty days and forty nights (<cite class="bibleref" title="Exodus 34:28">v. 28</cite>). A duration of forty (days or years) typically denotes a significant event in redemptive history. For forty years Israel wandered in the desert (Numbers 14:33), King David ruled over Israel (1 Kings 2:11), and King Solomon reigned in Jerusalem (1 Kings 11:42). For forty days rain fell on the earth (Genesis 7:4, 8:6), spies observed Canaan (Numbers 13:25), Goliath humiliated Israel (1 Samuel 17: 16), Elijah hid on Mount Horeb (1 Kings 19:1), Jonah warned Nineveh (Jonah 3:4), Jesus fasted in the wilderness (Matthew 4:2), and our resurrected Christ taught on earth (Acts 1:3).
 When Moses descended Mount Sinai, his face shone with the glory of God (<cite class="bibleref" title="Exodus 34:29">v. 29</cite>). In 2 Corinthians 3:7-11, Paul uses Moses’ fading reflection (representing God’s glory in the law) as a contrast to the greater, permanent glory shone through the ministry of the Spirit. In 2 Corinthians 3:12-18, Paul goes on to compare the veil of Moses to a metaphorical veil over the hearts of those now reading the old covenant without Christ. Only the LORD can remove that veil, and therefore offer the freedom to behold the glory of the Lord and while being transformed into the image of Christ.
 
 # Significance of the Text

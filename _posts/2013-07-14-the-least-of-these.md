@@ -3,7 +3,7 @@ layout: post
 title: The Least of These
 category: posts
 tag: personal
-tagline: I have a confession to make. I have sinned and it pierces my heart.
+context: I have a confession to make. I have sinned and it pierces my heart.
 ---
 
 On Memorial Day weekend my family and I were traveling to Washington D.C. to enjoy a break from the stresses of home, especially while we had help from my wonderful sister-in-law. After traveling a few hours (which is always a joy with 4 children) we stopped for dinner at Wendy's. Seth needed to feed, so he and Katie stayed in the car while I took Hannah and the kids into the "restaurant." As always, managing the chaos was "fun" and we had to stay extra-long because Seth was apparently a hungry bear. Oh, and this was after me trying to order gluten-free food at Wendy's. Awesome. Suffice it to say, I was pretty exhausted and tired of being in that blasted place when Seth finally finished and we were able to get back on the road. Woohoo. It was in that moment, as we were packing up, that a gentleman walked up to me and directly asked, "Could you please buy a meal for me?" In my tiredness, selfishness, and hardness of heart, I said, "No, It's time for us to go; we are leaving."
@@ -42,7 +42,7 @@ Lest you think this reading just doesn't understand Jesus properly, consider his
 
 > “You have heard that it was said, ‘Eye for eye, and tooth for tooth.’ But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also. And if anyone wants to sue you and take your shirt, hand over your coat as well. If anyone forces you to go one mile, go with them two miles. Give to the one who asks you, and do not turn away from the one who wants to borrow from you. (Matthew 5:38–42 [NIV])
 
-The very habit which resulted in my goat-like behavior was based in a denial of Jesus' simple teaching: "Give to the one who asks you," "Do not resist an evil person," "If anyone slaps you on the right cheek, turn to them the other cheek also." My behavior was rooted in an understanding of giving which sought to protect my assets and generosity from those who might abuse them by fueling their own addictions. 
+The very habit which resulted in my goat-like behavior was based in a denial of Jesus' simple teaching: "Give to the one who asks you," "Do not resist an evil person," "If anyone slaps you on the right cheek, turn to them the other cheek also." My behavior was rooted in an understanding of giving which sought to protect my assets and generosity from those who might abuse them by fueling their own addictions.
 
 Yet, Jesus says, "Give."
 

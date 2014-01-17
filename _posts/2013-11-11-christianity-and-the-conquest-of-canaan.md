@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christianity and the Conquest of Canaan
-tagline: The following partially satisfies the requirements for Dr. Moseley's Old Testament Introduction class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Moseley's Old Testament Introduction class at Southeastern Baptist Theological Seminary.
 category: papers
 tag: seminary
 ---
@@ -42,7 +42,7 @@ Indeed, the New Testament is filled with references to God’s destruction of hi
 
 By account of Scripture, those who reject God merit his wrath and punishment by the instrument of his choosing. The people of the land of Canaan wholly rejected God and were thereby subject to destruction by his wrath through the instrument of the nation of Israel. In the same way, God flooded the earth in Noah’s day to utterly destroy those who had rejected him. In the eschaton, God will totally destroy all of his enemies in the terrors of the lake of fire. God was not inconsistent with himself in his treatment of the Canaanites whose hearts where hardened before him. The Canaanites rebelled against God and received just punishment for their sin. All who have rejected God ought to shudder at the prospect of receiving their just dessert, as the Canaanites received millennia ago and as all the enemies of God will receive in the eschaton. Graciously, God has given sinners the opportunity to be transformed from objects of wrath into objects of pleasure, by the sacrifice of his Son, Jesus. May we all seize such a merciful opportunity offered to us by a holy, righteous, and just God.
 
---- 
+---
 
 # Bibliography
 

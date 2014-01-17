@@ -3,10 +3,10 @@ layout: post
 title: Sacramental Theology
 category: posts
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
-A minimalistic definition of sacrament is “a sacred thing.” This word has been used to describe many functions of the church throughout history. According to Peter Lombard (and ratified by the 4th Lateran Council in 1215AD), there are seven sacraments: Baptism, Confirmation, Eucharist, Penance, Marriage, Ordination, and Extreme Unction. However, the Reformers tended to agree that the only sacraments (ordinances) of Christ were Baptism and the Eucharist (Lord’s Supper). The other Catholic sacraments may have been considered aspects of the Christian life, but not direct commandments of Christ, and thus not sacramental. 
+A minimalistic definition of sacrament is “a sacred thing.” This word has been used to describe many functions of the church throughout history. According to Peter Lombard (and ratified by the 4th Lateran Council in 1215AD), there are seven sacraments: Baptism, Confirmation, Eucharist, Penance, Marriage, Ordination, and Extreme Unction. However, the Reformers tended to agree that the only sacraments (ordinances) of Christ were Baptism and the Eucharist (Lord’s Supper). The other Catholic sacraments may have been considered aspects of the Christian life, but not direct commandments of Christ, and thus not sacramental.
 
 An early dilemma regarding the Eucharist was in regard to who could administer the elements. Ignatius taught that apostolically ordained bishops were required to oversee the sacraments. Responding to the lapsed bishops in the Decian persecution, Cyprian contended that only morally upright bishops were permitted to oversee the sacraments. In a similar manner, the Donatists caused a controversy when they asserted that the power of the sacraments was based in the morality of the administrator (*ex opere operantis*). However, Augustine argued that the efficacy of the sacraments was in the act itself (*ex opere operato*) through the power of Christ. While the sacramental power was in Christ, only apostolically ordained priests were allowed to administer the sacraments. Augustine’s position won the debate and was also accepted as normative by the church.
 

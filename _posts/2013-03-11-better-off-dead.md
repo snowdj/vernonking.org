@@ -3,7 +3,7 @@ layout: post
 title: Better off Dead
 category: posts
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 ---
 
 The story of Jonah is a pitiful tale of a prophet who rightly understands God to be merciful, but so hates his enemies that he goes to great lengths to stop the mercy of God from going forth to them. The book concludes with God exposing Jonah's sinful disdain for the people of Nineveh via the life and death of a leafy plant. Indeed, Jonah's pity for a perished plant is strongly contrasted against his indignation about the salvation of a wicked city. Having received mercy from God, Jonah was grateful for his own life, but when the Ninevites received mercy, Jonah wished for his own death.

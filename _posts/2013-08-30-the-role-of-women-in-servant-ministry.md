@@ -3,7 +3,7 @@ layout: post
 title: The Role of Women in Servant Ministry
 category: papers
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction
@@ -20,7 +20,7 @@ This paper makes certain assumptions concerning church polity, including congreg
 
 # Historiography
 
-Historical evidence shows the early church had women in various servant ministry positions. Clement of Alexandria wrote of "ministering women," or "women deacons"[^H-1b] and John Chrysostom interpreted Paul as writing about "deaconesses."[^H-1c] Deaconesses ministered only to women; their responsibilities included administering baptism, instructing catechumens, and caring for the ill.[^H-1d] A deaconess ministered only to women because "for a deaconess of the early church to teach a man or to nurse him in sickness would have been an impossibility."[^H-1e] The ordination of women for servant-ministry began to fall out of favor in the West with the Council of Laodicea (363--364 AD). Eventually, the First Council of Orange (441 AD) ruled that no future deaconesses were to be ordained, "on account of the weakness of the sex."[^H-1f] 
+Historical evidence shows the early church had women in various servant ministry positions. Clement of Alexandria wrote of "ministering women," or "women deacons"[^H-1b] and John Chrysostom interpreted Paul as writing about "deaconesses."[^H-1c] Deaconesses ministered only to women; their responsibilities included administering baptism, instructing catechumens, and caring for the ill.[^H-1d] A deaconess ministered only to women because "for a deaconess of the early church to teach a man or to nurse him in sickness would have been an impossibility."[^H-1e] The ordination of women for servant-ministry began to fall out of favor in the West with the Council of Laodicea (363--364 AD). Eventually, the First Council of Orange (441 AD) ruled that no future deaconesses were to be ordained, "on account of the weakness of the sex."[^H-1f]
 
 [^H-1b]: Mounce, 211.
 
@@ -32,7 +32,7 @@ Historical evidence shows the early church had women in various servant ministry
 
 [^H-1f]: Ibid.
 
-Although William Mounce does not endorse a female diaconate, he considers it "helpful to look at the evidence from the early church for a description of this developing function."[^H-2a] After reviewing the historiography, M. V. Pereira agrees, "The preponderance of evidence powerfully testifies to the historical certainty that women served as deacons, in various capacities, from the earliest of church history---to this there can be no dispute."[^H-2b] Indeed, the International Theological Commission determined: 
+Although William Mounce does not endorse a female diaconate, he considers it "helpful to look at the evidence from the early church for a description of this developing function."[^H-2a] After reviewing the historiography, M. V. Pereira agrees, "The preponderance of evidence powerfully testifies to the historical certainty that women served as deacons, in various capacities, from the earliest of church history---to this there can be no dispute."[^H-2b] Indeed, the International Theological Commission determined:
 
 > [A] ministry of deaconesses did indeed exist, and … developed unevenly in the different parts of the Church. It seems clear that this ministry was not perceived as simply the feminine equivalent of the masculine diaconate. At the very least it was an ecclesial function, exercised by women, sometimes mentioned together with that of subdeacon in the lists of Church ministries.[^H-2c]
 
@@ -126,11 +126,11 @@ With female deacons in view for verse 11, it is possible to explain the similar 
 
 [^W-2-3a]: As mentioned above, Knight helpfully outlines the similarity between verse 8 and verse 11 (Knight, *The Pastoral Epistles*, 172).
 
-Marshall points out that arguing for "women" to be translated as "wives of deacons" brings with it another problem: there is a "conspicuous lack of a reference to the wives of overseers."[^W-2-4a] Indeed, the diaconate qualification in verse 12, "a deacon must be faithful to his wife and must manage his children and his household well," is equivalent to the elder’s familial qualifications in verse 2, he must be "faithful to his wife," and verse 4, "he must manage his own family well and see that his children obey him." Without verse 11, the familial requirements for a deacon and an elder are equivalent. Therefore, one must ask with Marshall, "Why should the wives of deacons, as opposed to overseers, need special qualifications?"[^W-2-4b] Mounce replies, "because a deacon presumably is more involved in activities such as visitation, it is more likely that his wife would be involved in his ministry than would the wife of an overseer."[^W-2-4c] Knight agrees that the qualification of the wife is especially important to male deacons because, "as spouses of the deacons they are to be involved with their husbands as their husbands seek to fulfill their diaconal service."[^W-2-4d] 
+Marshall points out that arguing for "women" to be translated as "wives of deacons" brings with it another problem: there is a "conspicuous lack of a reference to the wives of overseers."[^W-2-4a] Indeed, the diaconate qualification in verse 12, "a deacon must be faithful to his wife and must manage his children and his household well," is equivalent to the elder’s familial qualifications in verse 2, he must be "faithful to his wife," and verse 4, "he must manage his own family well and see that his children obey him." Without verse 11, the familial requirements for a deacon and an elder are equivalent. Therefore, one must ask with Marshall, "Why should the wives of deacons, as opposed to overseers, need special qualifications?"[^W-2-4b] Mounce replies, "because a deacon presumably is more involved in activities such as visitation, it is more likely that his wife would be involved in his ministry than would the wife of an overseer."[^W-2-4c] Knight agrees that the qualification of the wife is especially important to male deacons because, "as spouses of the deacons they are to be involved with their husbands as their husbands seek to fulfill their diaconal service."[^W-2-4d]
 
 These answers insist that certain women ought to participate in diaconal ministry, but only in an unofficial capacity. However, Knight correctly asserts, "Whichever position is adopted as to whether women are to be ‘deaconesses,’ there is still consensus that women should be involved in ‘diaconal’ or service ministries in the church, whether they are elected as ‘deaconesses’ or not."[^W-2-4e] Granting that this spousal involvement would be equivalent to an unofficial female diaconate consisting of deacon’s wives, Walter Liefeld uniquely argues that the "women" in verse 11 are both the wives of deacons and official deaconesses themselves.[^W-2-4f] Liefeld sees the problem rightly: Paul surely had at least some kind of diaconal office in mind for these women, even if an assumed qualification for that office is being the wife of a current deacon. It seems odd for Paul to have expected women to participate in diaconal service while also barring them from the diaconal office. Regardless, the fact that wives of elders receive no special attention, while these women in verse 11 do, is strong evidence that Paul had in view women who were not merely the wives of deacons.
 
-[^W-2-4a]: Marshall, 493. 
+[^W-2-4a]: Marshall, 493.
 
 [^W-2-4b]: Ibid. In a footnote, he continues, "The positioning makes it impossible that the wives of both overseers and deacons are in mind."
 
@@ -162,7 +162,7 @@ Now that the "women" in 1 Timothy 3:11 have been clearly cast as female deacons,
 
 [^A-1-1a]: Köstenberger, 11.
 
-In his salutation to the Roman church, Paul writes, "I commend to you our sister Phoebe, a deacon of the church in Cenchreae" (Rom. 16:1 [NIV]). While some interpret this use of "deacon" to be an unofficial designation, such as "servant," Paul’s description of Phoebe seems titular: "Phoebe, a deacon of the church in Cenchreae." If this passage were taken in isolation, perhaps Phoebe’s role would be an enigma. However, in light of the above evidence, Towner is right to conclude that Paul’s address to Phoebe clearly "demonstrates both the existence of women deacons and the use of the masculine term to refer to a female deacon."[^A-1-1b] 
+In his salutation to the Roman church, Paul writes, "I commend to you our sister Phoebe, a deacon of the church in Cenchreae" (Rom. 16:1 [NIV]). While some interpret this use of "deacon" to be an unofficial designation, such as "servant," Paul’s description of Phoebe seems titular: "Phoebe, a deacon of the church in Cenchreae." If this passage were taken in isolation, perhaps Phoebe’s role would be an enigma. However, in light of the above evidence, Towner is right to conclude that Paul’s address to Phoebe clearly "demonstrates both the existence of women deacons and the use of the masculine term to refer to a female deacon."[^A-1-1b]
 
 [^A-1-1b]: Towner, *The Letters to Timothy & Titus*, 266.
 
@@ -176,7 +176,7 @@ Biblically grounded polity is essential for the health of the local church. The 
 
 # Bibliography
 
-International Theological Commission. *From the Diakonia of Christ to the Diakonia of the Apostles*. Chicago: Hillenbrand, 2003. 
+International Theological Commission. *From the Diakonia of Christ to the Diakonia of the Apostles*. Chicago: Hillenbrand, 2003.
 
 Knight, George W., III. "The Family and the Church: How Should Biblical Manhood and Womanhood Work Out in Practice?". In *Recovering Biblical Manhood & Womanhood: A Response to Evangelical Feminism*, edited by John Piper and Wayne Grudem, 345--357. Wheaton: Crossway, 1991.
 
@@ -192,7 +192,7 @@ Montague, George T. *First and Second Timothy, Titus*. Catholic Commentary on Sa
 
 Mounce, William D. *Pastoral Epistles*. Word Biblical Commentary, vol. 46. Nashville: Thomas Nelson Publishers, 2000.
 
-Percival, Henry R. "Excursus on the Deaconess of the Early Church." In *The Seven Ecumenical Councils*, 41--42. *Nicene and Post-Nicene Fathers, Second Series* 14, Edited by Philip Schaff and Henry Wace. Peabody, MA: Hendrickson, 1999. 
+Percival, Henry R. "Excursus on the Deaconess of the Early Church." In *The Seven Ecumenical Councils*, 41--42. *Nicene and Post-Nicene Fathers, Second Series* 14, Edited by Philip Schaff and Henry Wace. Peabody, MA: Hendrickson, 1999.
 
 Pereira, M. V. *Should Women Serve as Deacons?*. Morgan Hill, CA: Trinity Bible Church, 2012. Accessed July 12, 2013. <http://www.trinitybiblechurch.org/resources/articles?download=17%3Adeaconesses>.
 

@@ -5,7 +5,7 @@ date: 2013-12-16
 comments: false
 category: papers
 tags: seminary
-tagline: The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction
@@ -14,7 +14,7 @@ Divorce and remarriage is a pastoral concern that has directly or indirectly aff
 
 # Historical Analysis
 
-The Gospel of Matthew is the only canonical Gospel to have a disputed original language. While there is common knowledge of the history and authenticity of the Greek version of Matthew’s Gospel, the early church fathers also referenced a Hebrew version. The earliest extant reference to a possible Hebrew Matthew comes from a quotation of Papias, a second-century bishop, as recorded by the early historian Eusebius.[^H-1a] Eusebius and the early church fathers believed the Gospel of Matthew was originally authored by the apostle in Hebrew or Aramaic and was subsequently translated into Greek.[^H-1b] However, modern scholars widely affirm that the Greek Matthew is an original writing, not a translation from another language.[^H-1c] 
+The Gospel of Matthew is the only canonical Gospel to have a disputed original language. While there is common knowledge of the history and authenticity of the Greek version of Matthew’s Gospel, the early church fathers also referenced a Hebrew version. The earliest extant reference to a possible Hebrew Matthew comes from a quotation of Papias, a second-century bishop, as recorded by the early historian Eusebius.[^H-1a] Eusebius and the early church fathers believed the Gospel of Matthew was originally authored by the apostle in Hebrew or Aramaic and was subsequently translated into Greek.[^H-1b] However, modern scholars widely affirm that the Greek Matthew is an original writing, not a translation from another language.[^H-1c]
 
 [^H-1a]: David K. Lowery, "The Gospel of Matthew according to a Primitive Hebrew Text," *Bibliotheca Sacra* 146, no. 584 (October 1, 1989): 470, accessed October 16, 2013, *ATLA Religion Database with ATLASerials,* EBSCO*host*.
 
@@ -22,7 +22,7 @@ The Gospel of Matthew is the only canonical Gospel to have a disputed original l
 
 [^H-1c]: Leon Morris, *The Gospel according to Matthew*, Pillar New Testament Commentary (Grand Rapids: Eerdmans, 1992), 13.
 
-Given the conflicting accounts from modern analysis and early church attestations, most contemporary scholars assert that Papias was either wrong or has been misinterpreted. However, these claims could be reconciled if the Greek Matthew were shown to be a newer edition of a Semitic version, not a direct translation of it.[^H-2a] Notably, Hebrew versions of the Gospel of Matthew exist today, including Shem-Tob’s Matthew, which is a complete Hebrew manuscript found within a fourteenth century Jewish polemical treatise.[^H-2b] George Howard profiled Shem-Tob’s Matthew and concluded, "Both the Hebrew and the Greek represent original compositions in their own respective languages with one serving as a literary model for the other."[^H-2c] 
+Given the conflicting accounts from modern analysis and early church attestations, most contemporary scholars assert that Papias was either wrong or has been misinterpreted. However, these claims could be reconciled if the Greek Matthew were shown to be a newer edition of a Semitic version, not a direct translation of it.[^H-2a] Notably, Hebrew versions of the Gospel of Matthew exist today, including Shem-Tob’s Matthew, which is a complete Hebrew manuscript found within a fourteenth century Jewish polemical treatise.[^H-2b] George Howard profiled Shem-Tob’s Matthew and concluded, "Both the Hebrew and the Greek represent original compositions in their own respective languages with one serving as a literary model for the other."[^H-2c]
 
 [^H-2a]: Morris, 13.
 
@@ -30,12 +30,12 @@ Given the conflicting accounts from modern analysis and early church attestation
 
 [^H-2c]: Ibid., 181.
 
-While Shem-Tob’s Matthew appears to have no direct relation to the Hebrew Matthew quoted by the church fathers,[^H-3a] the literary data allows for the possibility of an original Greek Matthew and an original Hebrew Matthew co-existing in antiquity. Therefore, the existence of an original Greek Matthew does not necessarily prove wrong the early church fathers’ reference to an original Hebrew Matthew. Regardless of the possible existence of an apocryphal Hebrew Matthew, the text of the Greek will continue to be that which the church did canonize. From this canonized text, one can know that Matthew, a Jewish Christian, wrote his Gospel to the Hebrews, in the style of the Hebrews, and for the sake of the Hebrews.[^H-3b] 
+While Shem-Tob’s Matthew appears to have no direct relation to the Hebrew Matthew quoted by the church fathers,[^H-3a] the literary data allows for the possibility of an original Greek Matthew and an original Hebrew Matthew co-existing in antiquity. Therefore, the existence of an original Greek Matthew does not necessarily prove wrong the early church fathers’ reference to an original Hebrew Matthew. Regardless of the possible existence of an apocryphal Hebrew Matthew, the text of the Greek will continue to be that which the church did canonize. From this canonized text, one can know that Matthew, a Jewish Christian, wrote his Gospel to the Hebrews, in the style of the Hebrews, and for the sake of the Hebrews.[^H-3b]
 
 [^H-3a]: Ibid., 160.
 
 [^H-3b]: Morris, 2.
- 
+
 # Lexical Analysis
 
 **ἀπολύω.** Various forms of ἀπολύω are used in this pericope and are translated, "to divorce" (v. 3, 8), "to send her away" (v. 7), and "divorces" (v. 9).[^L-a-1a] Robinson’s lexicon defines ἀπολύω simply as "I let loose, set free, release, permit to depart,"[^L-a-1b] while Louw & Nida adds "divorce" and "forgive."[^L-a-1c] More thoroughly, BDAG defines the Matthew 19 use of ἀπολύω as "to dissolve a marriage relationship, to divorce one’s wife or betrothed."[^L-a-1d] Significantly, the repeated use of ἀπολύω allows for a consistent view of divorce throughout the passage.
@@ -182,7 +182,7 @@ Ben Witherington argues that the use of πορνεία in both Matthew 5:32 and 
 
 [^M-O-1d]: Ibid., 572.
 
-[^M-O-1c]: Ibid., 573. 
+[^M-O-1c]: Ibid., 573.
 
 [^M-O-1a]: Ibid., 574.
 
@@ -210,7 +210,7 @@ May we not approach this passage in the same manner as the Pharisees, thereby se
 
 # Bibliography
 
-Bauer, Walter, Frederick W. Danker, William Arndt, and F. Wilbur Gingrich. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. 3rd ed. Chicago: University of Chicago Press, 2000. 
+Bauer, Walter, Frederick W. Danker, William Arndt, and F. Wilbur Gingrich. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. 3rd ed. Chicago: University of Chicago Press, 2000.
 
 Blomberg, Craig L. *Matthew*. New American Commentary 22. Nashville: Broadman, 1992.
 

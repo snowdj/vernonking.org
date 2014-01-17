@@ -3,16 +3,16 @@ layout: post
 title: Worship before the Throne
 category: papers
 tag: seminary
-tagline: The following partially satisfies the requirements for Joshua Waggener's Ministry of Worship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Joshua Waggener's Ministry of Worship class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction
 
-Everyone worships. Whether it be toward celebrities, money, nature, ourselves, or gods, we all worship with our hearts, minds, and bodies. Although the Christian knows whom to worship, he may still falter in how he worships. The holy, creator God has chosen to reveal not only himself, but also how we ought to respond to him in worship.  "Worship matters," Bob Kauflin writes, "It matters to God because he is the one ultimately worthy of all worship. It matters to us because worshiping God is the reason for which we were created."[^I-1a] 
+Everyone worships. Whether it be toward celebrities, money, nature, ourselves, or gods, we all worship with our hearts, minds, and bodies. Although the Christian knows whom to worship, he may still falter in how he worships. The holy, creator God has chosen to reveal not only himself, but also how we ought to respond to him in worship.  "Worship matters," Bob Kauflin writes, "It matters to God because he is the one ultimately worthy of all worship. It matters to us because worshiping God is the reason for which we were created."[^I-1a]
 
 [^I-1a]: Bob Kauflin, *Worship Matters: Leading Others to Encounter the Greatness of God*, (Wheaton: Crossway, 2008), 20.
 
-Scripture shows that well-intentioned people can still worship God wrongly. Second Samuel 6 portrays two separate accounts of individuals being punished by God for worshiping him incorrectly.[^I-2a] In 2 Samuel 6:1--8, David and his men carried the ark on a cart instead of on poles as prescribed by God. When the oxen stumbled, Uzzah tried to protect the ark from falling by grabbing hold of it. However, Uzzah died after touching the ark, as God had prohibited anyone from touching it. Then in 2 Samuel 6:16--23, Michal despised David for dancing before the Lord unashamed. Although she articulated her concern for David's honor and modesty, the Lord approved of David's worship and instead left Michal barren. These examples show the importance that God places on proper worship. Uzzah died and Michal was childless because each failed to worship God as he requires. 
+Scripture shows that well-intentioned people can still worship God wrongly. Second Samuel 6 portrays two separate accounts of individuals being punished by God for worshiping him incorrectly.[^I-2a] In 2 Samuel 6:1--8, David and his men carried the ark on a cart instead of on poles as prescribed by God. When the oxen stumbled, Uzzah tried to protect the ark from falling by grabbing hold of it. However, Uzzah died after touching the ark, as God had prohibited anyone from touching it. Then in 2 Samuel 6:16--23, Michal despised David for dancing before the Lord unashamed. Although she articulated her concern for David's honor and modesty, the Lord approved of David's worship and instead left Michal barren. These examples show the importance that God places on proper worship. Uzzah died and Michal was childless because each failed to worship God as he requires.
 
 God desires sincere and proper worship; therefore, Christians ought to seriously consider the nature and propriety of worship as revealed by God in Scripture. While the Christian has not received laws regarding worship, Scripture has surely revealed its nature. Isaiah’s commissioning provides a helpful model through which the Christian can better understand and practice both a corporate and personal life of worship. Even the whole of the corporate worship gathering can be structured around this model from Isaiah.
 
@@ -22,7 +22,7 @@ God desires sincere and proper worship; therefore, Christians ought to seriously
 
 [^A-0a]: I am indebted to Church of Christ the King in Fort Worth, TX for teaching and practicing an Isaiah 6 model.
 
-A holistic model for Christian worship can be discerned from Isaiah's commissioning. Isaiah 6:1--9a[^A-1a] reads: 
+A holistic model for Christian worship can be discerned from Isaiah's commissioning. Isaiah 6:1--9a[^A-1a] reads:
 
 [^A-1a]: Unless otherwise noted, all Scripture references are from the ESV.
 
@@ -66,7 +66,7 @@ Because the act of baptism identifies a believer with Christ and his church thro
 
 ## Proclamation
 
-Following the angel's proclamation of atonement, Isaiah "heard the voice of the Lord" (Isaiah 6:8). Christians must continually return to the voice of the Lord, primarily through the revelation of Scripture. This time of proclamation can center around a sermon, but it could also resemble 1 Corinthians 14 in which Paul allows two or three to give a prophetic word and two or three to offer interpreted tongues. Songs and prayers proclaiming the Word of God would also be appropriate. The focus of this time should not be on anyone's oratorical skills, funny stories, or topical teachings disjointed from Scripture. Instead, proclamation should allow the congregation to ruminate on God's Holy Word so that it can be applied to the life of the Christian and the church. 
+Following the angel's proclamation of atonement, Isaiah "heard the voice of the Lord" (Isaiah 6:8). Christians must continually return to the voice of the Lord, primarily through the revelation of Scripture. This time of proclamation can center around a sermon, but it could also resemble 1 Corinthians 14 in which Paul allows two or three to give a prophetic word and two or three to offer interpreted tongues. Songs and prayers proclaiming the Word of God would also be appropriate. The focus of this time should not be on anyone's oratorical skills, funny stories, or topical teachings disjointed from Scripture. Instead, proclamation should allow the congregation to ruminate on God's Holy Word so that it can be applied to the life of the Christian and the church.
 
 While enough time should be given to this portion of the gathering so that the Spirit can communicate what he desires to the Body of Christ, the worship gathering should not culminate with the proclamation, as that privilege should be given to the Lord's Supper. Instead, this time of proclamation should prepare the church to corporately meet with Christ through Communion. Proclamation is not an end; it is a means to knowing Christ intimately as his body.
 

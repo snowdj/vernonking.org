@@ -3,18 +3,18 @@ layout: post
 title: Citywide Revival through Local Church Revitalization
 category: papers
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction
 
-There is a growing movement today in which local churches are actively engaging and reaching their cities. Many of the exemplified churches in this movement are young, multi-campus mega-churches.[^I-1a] The reach, resources, and influence of these churches is unparalleled for smaller, established congregations. Unfortunately, this leaves a void of examples for a typical local church trying to reach its community. Models are lacking even more for a congregation which itself needs revitalizing; for it is one task to plant a church hoping to reach the city, but it is quite another to re-orient an existing church in order to emphasize reaching out to the hurt and lost. In light of this absence, this paper will present a long-term revitalization model beginning with a local church and ending with the city. What follows is a broad overview of a three-part, parallel approach to bring about citywide revival by revitalizing the local church so that it can join together with sister churches in order to reach the city with the gospel. 
+There is a growing movement today in which local churches are actively engaging and reaching their cities. Many of the exemplified churches in this movement are young, multi-campus mega-churches.[^I-1a] The reach, resources, and influence of these churches is unparalleled for smaller, established congregations. Unfortunately, this leaves a void of examples for a typical local church trying to reach its community. Models are lacking even more for a congregation which itself needs revitalizing; for it is one task to plant a church hoping to reach the city, but it is quite another to re-orient an existing church in order to emphasize reaching out to the hurt and lost. In light of this absence, this paper will present a long-term revitalization model beginning with a local church and ending with the city. What follows is a broad overview of a three-part, parallel approach to bring about citywide revival by revitalizing the local church so that it can join together with sister churches in order to reach the city with the gospel.
 
 [^I-1a]: E.g., Austin Stone Community Church and Journey Church. Darrin Patrick and Matt Carter, *For the City: Proclaiming and Living out the Gospel*, (Grand Rapids: Zondervan, 2010).
 
 # Prerequisites
 
-Before considering any practical steps toward revitalization, one must acknowledge important prerequisites for such a task. Prayer is essential to the Christian life and is especially significant for anyone wanting to see God move in a church or city. Attempting revitalization without continual prayer is arrogant and sure to fail. Any leader or laity hoping to see a movement of God must pray to the one God who made all and sustains all. Even the task of revitalization may draw one away from prayer and toward a self-reliant attitude; this must be resisted because prayer is of utmost importance to any revitalization effort.[^P-1a] 
+Before considering any practical steps toward revitalization, one must acknowledge important prerequisites for such a task. Prayer is essential to the Christian life and is especially significant for anyone wanting to see God move in a church or city. Attempting revitalization without continual prayer is arrogant and sure to fail. Any leader or laity hoping to see a movement of God must pray to the one God who made all and sustains all. Even the task of revitalization may draw one away from prayer and toward a self-reliant attitude; this must be resisted because prayer is of utmost importance to any revitalization effort.[^P-1a]
 
 [^P-1a]: Mike Dodson, "Comeback Churches" (class lecture, SEND North America Conference, Dallas, July 29, 2013).
 
@@ -26,7 +26,7 @@ After prayer, "revitalization is a leadership issue."[^P-2a] Revitalization requ
 
 [^P-2c]: Dodson, "Comeback Churches."
 
-Finally, revival requires a growing love for God and his Word. All authority is in God himself and he is supreme, but he has chosen to reveal himself through Scripture; one must believe his Word in order to know him. Any church which refuses to define God by his own revelation is not a Christian church. Therefore, prayerful leaders must teach and model the whole counsel of Scripture to those they hope to revive and revitalize. 
+Finally, revival requires a growing love for God and his Word. All authority is in God himself and he is supreme, but he has chosen to reveal himself through Scripture; one must believe his Word in order to know him. Any church which refuses to define God by his own revelation is not a Christian church. Therefore, prayerful leaders must teach and model the whole counsel of Scripture to those they hope to revive and revitalize.
 
 # Revitalize the Local Church
 
@@ -34,7 +34,7 @@ Citywide revival requires a healthy local church. The process outlined below wil
 
 ## Revive
 
-A dead church cannot be revitalized until it first has been revived with the gospel. Many in struggling congregations are lost and must be found by Christ. Even those who are active in the church building can be fooled "into thinking that simply being busy in church work automatically brings a fruitful and a faithful life. But this is not so."[^R-R-1a] Thankfully, God is "rich in mercy" and so loves his church that "even when we were dead in our trespasses, [he] made us alive together with Christ" (Ephesians 2:4--5).[^R-R-1b]  God will save his church, but his gospel message must be taught, lived, and modeled by leaders in order to affect change in those who are still dead in their trespasses. 
+A dead church cannot be revitalized until it first has been revived with the gospel. Many in struggling congregations are lost and must be found by Christ. Even those who are active in the church building can be fooled "into thinking that simply being busy in church work automatically brings a fruitful and a faithful life. But this is not so."[^R-R-1a] Thankfully, God is "rich in mercy" and so loves his church that "even when we were dead in our trespasses, [he] made us alive together with Christ" (Ephesians 2:4--5).[^R-R-1b]  God will save his church, but his gospel message must be taught, lived, and modeled by leaders in order to affect change in those who are still dead in their trespasses.
 
 [^R-R-1a]: Alvin L. Reid, *Revitalize Your Church through Gospel Recovery*, (Gospel Advance, 2013), 553, Kindle.
 
@@ -44,7 +44,7 @@ Before a church can focus on the lost outside of the building, it must reach and
 
 ## Reform
 
-While teaching and modeling the good news of Christ is an ongoing task, there will come a time when the regenerating church is ready for reform. Reforming a local church involves removing unhealthy structures, polity, activities, and programs and replacing them with those that are biblically sound. One can assume that any attempt to reform a church too early, especially prior to its own revival, will fail because people would still be holding to institutionalism and tradition over the God of the gospel.[^R-Ref-1a] 
+While teaching and modeling the good news of Christ is an ongoing task, there will come a time when the regenerating church is ready for reform. Reforming a local church involves removing unhealthy structures, polity, activities, and programs and replacing them with those that are biblically sound. One can assume that any attempt to reform a church too early, especially prior to its own revival, will fail because people would still be holding to institutionalism and tradition over the God of the gospel.[^R-Ref-1a]
 
 Reform in a traditional Southern Baptist church may require changes in many aspects of church life. Briefly noted, these reforms may include (1) returning to meaningful membership and church discipline, (2) eliminating certain programs, (3) moving toward a multiple-pastor/elder leadership model, (4) restructuring the diaconate to emphasize servant ministry, (5) unifying corporate worship,[^R-Ref-1b] and (6) frequently observing the Lord's Supper. A regenerate congregation that cherishes the revealed Word of God can patiently learn to reform any aspect of the church as biblical teaching demands. Teaching must precede change, often to the point that the church begins to demand the change which is being taught.
 
@@ -54,7 +54,7 @@ Reform in a traditional Southern Baptist church may require changes in many aspe
 
 ## Reproduce
 
-All aspects of Christianity ought to multiply: disciples, ministry, leaders, groups, and churches.[^R-Rep-1a] A church which believes the gospel, loves God, and is properly structured needs to prioritize reproduction through outreach and discipleship, leadership training, church planting, and revitalizing other churches. Every Christian should be multiplying his faith by reaching out to the lost around him. The Christian should not be sheltered from those who do not know God. Rather, the Christian ought to stand out in the world around him, offering something better than what the world has. Following, every believer ought to participate in discipleship, both as a learner and a teacher. Furthermore, discipleship should not be treated merely as the transmission of information, but as an intimate modeling of the Christian life in the home, workplace, marketplace, and church.[^R-Rep-1b] Through discipleship and leadership opportunities, leaders ought to be raised up and trained to be ministers of the gospel. The church needs biblically qualified leaders who have been trained by example and are ready to lead in the same manner.[^R-Rep-1c] Through leadership development, new churches ought to be started and dying churches revitalized. Churches cannot multiply without trained leaders ready to go out, reach an area with the gospel, and strengthen the Church of God. 
+All aspects of Christianity ought to multiply: disciples, ministry, leaders, groups, and churches.[^R-Rep-1a] A church which believes the gospel, loves God, and is properly structured needs to prioritize reproduction through outreach and discipleship, leadership training, church planting, and revitalizing other churches. Every Christian should be multiplying his faith by reaching out to the lost around him. The Christian should not be sheltered from those who do not know God. Rather, the Christian ought to stand out in the world around him, offering something better than what the world has. Following, every believer ought to participate in discipleship, both as a learner and a teacher. Furthermore, discipleship should not be treated merely as the transmission of information, but as an intimate modeling of the Christian life in the home, workplace, marketplace, and church.[^R-Rep-1b] Through discipleship and leadership opportunities, leaders ought to be raised up and trained to be ministers of the gospel. The church needs biblically qualified leaders who have been trained by example and are ready to lead in the same manner.[^R-Rep-1c] Through leadership development, new churches ought to be started and dying churches revitalized. Churches cannot multiply without trained leaders ready to go out, reach an area with the gospel, and strengthen the Church of God.
 
 [^R-Rep-1a]: Ed Stetzer, "Discover" (afternoon general session, SEND North America Conference, Dallas, July 30, 2013).
 
@@ -70,21 +70,21 @@ A local church that desires citywide revival must work in tandem with like-minde
 
 ## Assess
 
-An autonomous church should not associate with other churches without assessment. Obviously, associating with a church that does not believe the gospel will hurt, not help, the cause of Christ in the city. More hands do not necessarily lead to better work. Rather, if one church desires to partner with another local church, the one should assess the other in order to understand its fitness for reviving the city with the gospel of Christ. 
+An autonomous church should not associate with other churches without assessment. Obviously, associating with a church that does not believe the gospel will hurt, not help, the cause of Christ in the city. More hands do not necessarily lead to better work. Rather, if one church desires to partner with another local church, the one should assess the other in order to understand its fitness for reviving the city with the gospel of Christ.
 
 Doctrine ought to be of primary importance in choosing partners in ministry.[^J-A-1a] As a helpful measure, Christian doctrine is often systematized into three tiers of importance.[^J-A-1b] (1) Essential doctrines are those which are orthodox and requisite for the Christian faith, e.g., the bodily death and resurrection of Jesus. (2) Secondary doctrines are open to interpretation within Christian orthodoxy, yet are important enough to Christian life and practice that churches may choose to peacefully separate on their account, e.g., polity and baptism. (3) Tertiary doctrines are those that should not create a barrier to Christian fellowship, e.g., eschatological nuances and preferred Bible translations. Doctrinal assessment will enable one church to decide how to partner with other local churches, as will be discussed below.
 
 [^J-A-1a]: Josh Ellis, "Repaving the Road: Mapping the Future of Southern Baptist Associations" (breakout session, SEND North America Conference, Dallas, July 30, 2013).
 
-[^J-A-1b]: Bruce Ashford, "Nine Pointers on being a Student at a Great Commission Seminary" (lecture, Chapel, Southeastern Baptist Theological Seminary, March 5, 2013). 
+[^J-A-1b]: Bruce Ashford, "Nine Pointers on being a Student at a Great Commission Seminary" (lecture, Chapel, Southeastern Baptist Theological Seminary, March 5, 2013).
 
 A doctrinally like-minded church should also be assessed for distinctives and distinguishing factors, e.g., prioritized doctrines, polity, worship style, ministry, location, racial mix, socio-economic condition, generational integration, and size. Knowing these distinctives enables informed decisions regarding partnership, cost-sharing ability, expertise, and areas of focus. However, one must keep in mind that the ultimate goal of assessing another church is the promotion of the gospel, not bringing condemnation. Ideally, an assessment will lead a church into either assistance or association.
 
 ## Assist
 
-Through the assessment process, one should expect to find other local churches that need to be revitalized. If these churches can see their own need for strengthening, then one church has a great opportunity to assist another in revitalization. For the one church, this would be part of the reproduction phase of revitalization; for the other, this may be the beginning. Strengthening other churches requires time, resources, leadership, and possibly the transferal of members. However, it is worth the cost because a stronger sister church glorifies God and will be a helpful partner in future ministry. Again, one must not build up a personal kingdom, but must focus on God's kingdom. 
+Through the assessment process, one should expect to find other local churches that need to be revitalized. If these churches can see their own need for strengthening, then one church has a great opportunity to assist another in revitalization. For the one church, this would be part of the reproduction phase of revitalization; for the other, this may be the beginning. Strengthening other churches requires time, resources, leadership, and possibly the transferal of members. However, it is worth the cost because a stronger sister church glorifies God and will be a helpful partner in future ministry. Again, one must not build up a personal kingdom, but must focus on God's kingdom.
 
-Unfortunately, many churches that require revitalization will not acknowledge their own need. In these cases, one must continue in prayer that God would move hearts and raise up leaders to bring about a renewed focus on the gospel. One cannot force revitalization upon another church, but must be eager to help when the opportunity arises. 
+Unfortunately, many churches that require revitalization will not acknowledge their own need. In these cases, one must continue in prayer that God would move hearts and raise up leaders to bring about a renewed focus on the gospel. One cannot force revitalization upon another church, but must be eager to help when the opportunity arises.
 
 ## Associate
 
@@ -108,7 +108,7 @@ The congregants of a comfortable church must be trained to live sacrificially, g
 
 ## Serve
 
-Lives of service should flow out of sacrificial living. Sacrificing oneself through schedules, finances, and sense of comfort enables one to serve others. "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another" (Galatians 5:13). Indeed, "As each has received a gift, use it to serve one another, as good stewards of God’s varied grace" (1 Peter 4:10). Christians who are not sacrificially serving others should be concerned, for "faith by itself, if it does not have works, is dead" (James 2:17). 
+Lives of service should flow out of sacrificial living. Sacrificing oneself through schedules, finances, and sense of comfort enables one to serve others. "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another" (Galatians 5:13). Indeed, "As each has received a gift, use it to serve one another, as good stewards of God’s varied grace" (1 Peter 4:10). Christians who are not sacrificially serving others should be concerned, for "faith by itself, if it does not have works, is dead" (James 2:17).
 
 Scripture teaches the Christian both to serve the needs of his brothers and sisters in Christ[^R-Serve-2a] and to serve the disenfranchised he comes upon.[^R-Serve-2b] Such service will often meet a physical need, but one must never ignore the spiritual need. Service toward others must be gospel-focused, for it is only by sharing Christ that one can truly serve another.
 

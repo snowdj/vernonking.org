@@ -1,9 +1,9 @@
---- 
-layout: post 
-title: "The Chiastic Key to 1 Corinthians 11:2–16" 
-category: papers 
-tag: seminary 
-tagline: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+---
+layout: post
+title: "The Chiastic Key to 1 Corinthians 11:2–16"
+category: papers
+tag: seminary
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 ---
 
 Christians must concern themselves with obeying the Lord’s commandments. Do Christians disobey Scripture when they do not explicitly observe Paul’s exhortation to the Corinthians to observe the tradition of head-coverings? At first glance, the arguments Paul makes regarding headship, glory, angels, and nature makes it difficult to know if the head-covering tradition ought to be universally observed. Indeed, “this passage is full of notorious exegetical difficulties.”[^1] Despite the difficulties, this paper will demonstrate that Paul’s chiastic-structured argument uses universal truths and cultural mores to exhort the Corinthians to maintain the tradition of head-coverings within the church in order to honor headship, promote propriety, and reveal glory. His concern in this pericope is consistent with his broader concerns for the Corinthians: the church ought to be unified, loving, and mutually submissive to the glory of God.
@@ -50,7 +50,105 @@ Through an analysis of the chiastic structure of 1 Corinthians 11:2--16, the mea
 
 As can be discerned from this passage’s chiastic structure and its placement within the epistle, Paul’s expectation for the Corinthians to continue the head-covering tradition is based in his desire for them to promote unity in Christ by forgoing their rights for the sake of others. In the Corinthian context, breaking from the head-covering tradition brought shame and disgrace to oneself and to others. Not observing the traditional practice also communicated a denial of proper headship. Paul taught Christ is the head of man, man is the head of woman, and God is the head of Christ. Christians should strive to communicate this truth, and abstain from communicating any denial of it. Paul also affirmed that mankind is the image of God, man (male) is the glory of God, and woman is the glory of man. Men and women should each reveal the glory of their metaphorical heads in appropriate ways. Finally, Christians must continually seek the good of others, even giving up freedoms in order to do so. Perhaps Dachollom Datiri frames this passage best, writing, “The basic question is, what glorifies God within one’s local setting?”[^49] Indeed, the significance of this text is that Christians ought to affirm cultural expressions of eternal truths for the good of others to the glory of God.[^50]
 
-[^1]: Gordon Fee, *The First Epistle to the Corinthians*, New International Commentary on the New Testament (Grand Rapids: William B. Eerdmans, 1987), 492. [^2]: 1 Cor. 1:11, Chloe’s report; 7:1, written matters. [^3]: 1 Cor. 1:10, unity; 1:11--17, against apostolic sectarianism; 4:18, arrogance; 6:7, suffering wrong; 6:15, members of Christ, not prostitutes; 8:9, ensure rights are not a stumbling block; 9:12, Paul gave up his own rights; 10:24, seek the good of the neighbor; 10:32, give no offense; 11:33 wait for each other in the Lord’s supper; 12:4, the same spirit gives gifts; 13:13, love is required; 14:12, use gifts to build up the church; 16:1, collect money for the saints. [^4]: 1 Cor. 9 is Paul’s clearest demonstration of giving up his rights. [^5]: Anthony C. Thiselton, *The First Epistle to the Corinthians*, New International Greek Testament Commentary (Grand Rapids: William B. Eerdmans, 2000), 803. [^6]: 1 Cor. 10:31--11:1 is not merely a summary of what came before, but also point forward to 1 Cor. 11--14. [^7]: Gordon Fee provides an outline of the passage and articulates a chiasm in vv. 8--12 (Fee, 493--494).  [^8]: V. 10 is also the locus of Fee’s chiastic structure (Fee, 494). [^9]: E. Earle Ellis, “Traditions in 1 Corinthians,” *New Testament Studies* 32, no. 4 (October 1986): 493. [^10]: According to Thiselton that this is true praise, not irony, as is often interpreted (810). Contra Richard Oster, “When Men Wore Veils to Worship: the Historical Context of 1 Corinthians 11.4,” *New Testament Studies*, 34, no.4 (October 1988): 503. [^11]: Indeed, “The very nature of [Paul’s] argumentation reveals that it is not something over which he has great passion” (Fee, 530). [^12]: Some commentators agree that “no such practice” refers to head-coverings, e.g., Fee (525), while others contend that “no such practice” refers to being contentious, e.g., Calvin (John Calvin, *Commentary on the Epistles of Paul the Apostle to the Corinthians Vol. 1*, trans. John Pringle, Calvin’s Commentaries (Grand Rapids: Baker Book, 1973), 363). [^13]: Calvin, 352. Also, Paul’s lack of explanation of the received tradition is anecdotal evidence that the tradition is not expected for universal practice. “We simply do not know what the practice was that they were abusing. Thus literal ‘obedience’ to the text is often merely symbolic” (Fee, 512). [^14]: The NASB uses “man” and “woman” while the ESV uses “husband” and “wife.” While the view of man and woman here includes husband and wife, it is limited to a husband and wife. Could not the relationship of a daughter to her father be included as well? However, because Paul states that every man’s head is Christ, but a woman’s head is a/the man, he seems to be arguing that each woman has one man as her head, not that every woman has any man as her head. [^15]: Thiselton, 820; Cf. Fee, 499. [^16]: Fee, 504. [^17]: Thiselton, 812. [^18]: Grudem argues that “source” is never a valid interpretation for “head” in Greek literature (Wayne Grudem, “Does κεφαλὴ (‘Head’) Mean ‘Source’ or ‘Authority Over’ in Greek Literature? A Survey of 2,336 Examples,” *Trinity Journal*, ns 6.1 (Spring 1985): 58). However, Fee soundly disagrees with Grudem’s research and contends that interpreting “head” as “authority” is “rare in Greek literature” (Fee, 502). Unfortunately, the polemical arguments from both scholars show their bias in attempting to make this passage into a proof-text for their respective positions concerning the roles of men and women. Thiselton rightly wrote, “The simplistic solution of collapsing 11:2--16 into either bare egalitarianism or into an overstated ‘subordinationism’ does justice neither to Paul’s view of gender nor to his theology of God and Christ” (Thiselton, 803). [^19]: E.g., MacArthur’s language of authority and subordination seems too strong to apply to each relationship appropriately (John MacArthur, *1 Corinthians*, MacArthur New Testament Commentary (Chicago: Moody, 1984), 253). Kistemaker does well in his attempt to separate authority from superiority and inferiority (Simon J. Kistemaker, *1 Corinthians*, New Testament Commentary (Grand Rapids: Baker Books, 1993), 366). Thiselton’s interpretation of “preeminence” and “foremost” seems to take a moderate stance between the extreme interpretations presented by some from both the complementarian and egalitarian camps (804). [^20]: Ambrose used this verse in his argument against Arianism (*Exposition of the Christian Faith*, NPNF 10:265). [^21]: The nature of female praying and prophesying is not the point of this pericope. The practice itself does not seem to be condemned and can therefore serve as anecdotal evidence that Paul does not command actual silence from women in the church, but rather that they should be honorable, inoffensive, non-authoritative, and submissive to their husbands. Cf. 1 Corinthians 14:34, 1 Timothy 2:12. Consider also the mention of the prophetess Anna in Luke 2:36 and the prophetic daughters in Acts 21:9. Contra “He at the same time does not give them permission to prophesy in some other way, but rather delays his condemnation of that vice to another passage, namely in chapter xiv” (Calvin, 356). [^22]: Tertullian promotes universal practice by arguing that “every woman” includes “of every age, of every rank, of every condition” (*On Prayer*, ANF 3:688). Granted, he is in a cultural context in which the virgins, who would normally be covered in public, were removing their head-coverings at church. Indeed, the cultural custom of head-coverings for Tertullian’s church seems not so different from that of the Corinthian church, which is one explanation for Tertullian’s conclusion that the head-covering tradition should be universal; his reading of Paul’s arguments agree with his cultural views to the point that he applies it to all cultures, everywhere. [^23]: Re: male head-covering, “Almost certainly, therefore, by this idiom Paul is referring to an external cloth covering (Fee, 506). Fee also outlines three options for a female head-covering: 1) some kind of external covering, 2) long hair, or 3) loosed hair (Fee, 496). [^24]: Martin makes a medical argument that hair was considered part of the female genitalia at the time, and thus culturally subject to covering (Troy W. Martin, “Paul’s Argument from Nature for the Veil in 1 Corinthians 11:13--15: A Testicle Instead of a Head Covering,” *Journal of Biblical Literature* 123, no. 1 (2004): 82). [^25]: Fee, 508. [^26]: Oster makes an historical argument that some Corinthian men would have been covering their heads in worship (504). [^27]: This is a key to today’s abstention from the tradition of head-coverings. Paul’s overt concern was the effect of discarding the tradition, not the tradition itself. [^28]: “It is hardly possible for Paul, as a Hellenistic Jew, not to have known the far-reaching significance that ‘nature’ had in Greek thinking, especially in contemporary popular philosophy, Stoicism in particular” (Fee, 526--527). Also, “Paul appeals to their judgment about what behavior was considered natural, within the limits of the place and period in which he was writing” (Dachollom Datiri, “1 Corinthians,” in *Africa Bible Commentary*, ed. Tokunboh Adeyemo (Grand Rapids: Zondervan, 2006), 1391). [^29]: “For her hair is given to her for a covering” (1 Cor. 11:15b [NASB]), should not be interpreted as antithetical to Paul’s prior argument; the force of the chiasm is too strong. Paul’s intention here must be to support his argument that a woman ought to cover her hair. Cf. Fee, 528. Cf. There is one creative interpretation promoted by Martin which argues for “covering” to be interpreted as “testicle” (84). However, this was refuted strongly by Mark Goodacre (“Does περιβόλαιον Mean ‘Testicle’ in 1 Corinthians 11:15?” *Journal of Biblical Literature,*130, no. 2 (2011): 391--396). Nonetheless, Martin’s historical account of hair as genitalia is intriguing. [^30]: John Cassian used this verse to argue for the immaterial soul (*First Conference of Abbot Moses*, NPNF 11:302). This verse was also important in the debate with the Eusebians (Athanasius, *Defence of the Nicene Definition*, NPNF 4:163; Theodoret, *The Ecclesiastical History*, NPNF 3:45). [^31]: Genesis 1:26--27 clearly demonstrates that mankind (הָֽאָדָם֙) was created in the image of God as both male (זָכָ֥ר) and female (נְקֵבָ֖ה). [^32]: Heb. 2:6--8, 1 Cor. 15:27. [^33]: Cf. Kistemaker, 374. [^34]: 1 Cor. 11:8--9. Cf. Fee makes an interesting point regarding the creation narrative, “When the man in the OT narrative sees the woman, he ‘glories’ in her by bursting into song” (Fee, 517). [^35]: “The two sentences together are reflections of Gen. 2:23 and 18--20.” (Fee, 517). [^36]: Kistemaker, 378; Datiri, 1390. [^37]: Cf. Ephesians 5:21; Calvin, 353--354. [^38]: Cf. “In the early Roman imperial period, it was men, rather than women, on whom a woman’s clothing most reflected… The usual purpose of honoring women was to exalt the men to whom they were mothers, wives, or sisters” (Thiselton, 802). [^39]: Cf. Kistemaker, 376; Fee, 522. [^40]: An alternative translation of “messengers” would allow for simpler hermeneutics, however, the usage seems unlikely due to the number of times Paul uses ἀγγέλος as “angel” (four times in 1 Corinthians alone). Indeed, he seems to never use ἀγγέλος as “messenger.” The view that ἀγγέλος referred to priests, however, was held by Ephrem of Syria, Ambrosiaster, and Cajetan (Thiselton, 839). [^41]: Tertullian, *On Prayer*, ANF 3:688; cf. Genesis 6:1--2 [^42]: If the angels can see all things, then they would always be able to find immodestly dressed women. [^43]: 1 Timothy 5:2, cf. Ephesians 3:10 [^44]: Cf. Datiri, 1390. [^45]: Specifically, this is from the 2011 edition of the NIV, which changed the translation from “the woman ought to have a sign of authority on her head” (NIV 1984). [^46]: Kistemaker 375--376. [^47]: As do many translations and commentators, e.g., ESV, NASB, NKJV, NET, Calvin (358). [^48]: The NIV 2011 translation seems to follow Fee’s commentary (519--520). [^49]: Datiri, 1390. [^50]: Cf. Calvin, 355; MacArthur, 255; Fee, 530; Kistemaker, 371. 
+[^1]: Gordon Fee, *The First Epistle to the Corinthians*, New International Commentary on the New Testament (Grand Rapids: William B. Eerdmans, 1987), 492.
+
+[^2]: 1 Cor. 1:11, Chloe’s report; 7:1, written matters.
+
+[^3]: 1 Cor. 1:10, unity; 1:11--17, against apostolic sectarianism; 4:18, arrogance; 6:7, suffering wrong; 6:15, members of Christ, not prostitutes; 8:9, ensure rights are not a stumbling block; 9:12, Paul gave up his own rights; 10:24, seek the good of the neighbor; 10:32, give no offense; 11:33 wait for each other in the Lord’s supper; 12:4, the same spirit gives gifts; 13:13, love is required; 14:12, use gifts to build up the church; 16:1, collect money for the saints.
+
+[^4]: 1 Cor. 9 is Paul’s clearest demonstration of giving up his rights.
+
+[^5]: Anthony C. Thiselton, *The First Epistle to the Corinthians*, New International Greek Testament Commentary (Grand Rapids: William B. Eerdmans, 2000), 803.
+
+[^6]: 1 Cor. 10:31--11:1 is not merely a summary of what came before, but also point forward to 1 Cor. 11--14.
+
+[^7]: Gordon Fee provides an outline of the passage and articulates a chiasm in vv. 8--12 (Fee, 493--494). 
+
+[^8]: V. 10 is also the locus of Fee’s chiastic structure (Fee, 494).
+
+[^9]: E. Earle Ellis, “Traditions in 1 Corinthians,” *New Testament Studies* 32, no. 4 (October 1986): 493.
+
+[^10]: According to Thiselton that this is true praise, not irony, as is often interpreted (810). Contra Richard Oster, “When Men Wore Veils to Worship: the Historical Context of 1 Corinthians 11.4,” *New Testament Studies*, 34, no.4 (October 1988): 503.
+
+[^11]: Indeed, “The very nature of [Paul’s] argumentation reveals that it is not something over which he has great passion” (Fee, 530).
+
+[^12]: Some commentators agree that “no such practice” refers to head-coverings, e.g., Fee (525), while others contend that “no such practice” refers to being contentious, e.g., Calvin (John Calvin, *Commentary on the Epistles of Paul the Apostle to the Corinthians Vol. 1*, trans. John Pringle, Calvin’s Commentaries (Grand Rapids: Baker Book, 1973), 363).
+
+[^13]: Calvin, 352. Also, Paul’s lack of explanation of the received tradition is anecdotal evidence that the tradition is not expected for universal practice. “We simply do not know what the practice was that they were abusing. Thus literal ‘obedience’ to the text is often merely symbolic” (Fee, 512).
+
+[^14]: The NASB uses “man” and “woman” while the ESV uses “husband” and “wife.” While the view of man and woman here includes husband and wife, it is limited to a husband and wife. Could not the relationship of a daughter to her father be included as well? However, because Paul states that every man’s head is Christ, but a woman’s head is a/the man, he seems to be arguing that each woman has one man as her head, not that every woman has any man as her head.
+
+[^15]: Thiselton, 820; Cf. Fee, 499.
+
+[^16]: Fee, 504.
+
+[^17]: Thiselton, 812.
+
+[^18]: Grudem argues that “source” is never a valid interpretation for “head” in Greek literature (Wayne Grudem, “Does κεφαλὴ (‘Head’) Mean ‘Source’ or ‘Authority Over’ in Greek Literature? A Survey of 2,336 Examples,” *Trinity Journal*, ns 6.1 (Spring 1985): 58). However, Fee soundly disagrees with Grudem’s research and contends that interpreting “head” as “authority” is “rare in Greek literature” (Fee, 502). Unfortunately, the polemical arguments from both scholars show their bias in attempting to make this passage into a proof-text for their respective positions concerning the roles of men and women. Thiselton rightly wrote, “The simplistic solution of collapsing 11:2--16 into either bare egalitarianism or into an overstated ‘subordinationism’ does justice neither to Paul’s view of gender nor to his theology of God and Christ” (Thiselton, 803).
+
+[^19]: E.g., MacArthur’s language of authority and subordination seems too strong to apply to each relationship appropriately (John MacArthur, *1 Corinthians*, MacArthur New Testament Commentary (Chicago: Moody, 1984), 253). Kistemaker does well in his attempt to separate authority from superiority and inferiority (Simon J. Kistemaker, *1 Corinthians*, New Testament Commentary (Grand Rapids: Baker Books, 1993), 366). Thiselton’s interpretation of “preeminence” and “foremost” seems to take a moderate stance between the extreme interpretations presented by some from both the complementarian and egalitarian camps (804).
+
+[^20]: Ambrose used this verse in his argument against Arianism (*Exposition of the Christian Faith*, NPNF 10:265).
+
+[^21]: The nature of female praying and prophesying is not the point of this pericope. The practice itself does not seem to be condemned and can therefore serve as anecdotal evidence that Paul does not command actual silence from women in the church, but rather that they should be honorable, inoffensive, non-authoritative, and submissive to their husbands. Cf. 1 Corinthians 14:34, 1 Timothy 2:12. Consider also the mention of the prophetess Anna in Luke 2:36 and the prophetic daughters in Acts 21:9. Contra “He at the same time does not give them permission to prophesy in some other way, but rather delays his condemnation of that vice to another passage, namely in chapter xiv” (Calvin, 356).
+
+[^22]: Tertullian promotes universal practice by arguing that “every woman” includes “of every age, of every rank, of every condition” (*On Prayer*, ANF 3:688). Granted, he is in a cultural context in which the virgins, who would normally be covered in public, were removing their head-coverings at church. Indeed, the cultural custom of head-coverings for Tertullian’s church seems not so different from that of the Corinthian church, which is one explanation for Tertullian’s conclusion that the head-covering tradition should be universal; his reading of Paul’s arguments agree with his cultural views to the point that he applies it to all cultures, everywhere.
+
+[^23]: Re: male head-covering, “Almost certainly, therefore, by this idiom Paul is referring to an external cloth covering (Fee, 506). Fee also outlines three options for a female head-covering: 1) some kind of external covering, 2) long hair, or 3) loosed hair (Fee, 496).
+
+[^24]: Martin makes a medical argument that hair was considered part of the female genitalia at the time, and thus culturally subject to covering (Troy W. Martin, “Paul’s Argument from Nature for the Veil in 1 Corinthians 11:13--15: A Testicle Instead of a Head Covering,” *Journal of Biblical Literature* 123, no. 1 (2004): 82).
+
+[^25]: Fee, 508.
+
+[^26]: Oster makes an historical argument that some Corinthian men would have been covering their heads in worship (504).
+
+[^27]: This is a key to today’s abstention from the tradition of head-coverings. Paul’s overt concern was the effect of discarding the tradition, not the tradition itself.
+
+[^28]: “It is hardly possible for Paul, as a Hellenistic Jew, not to have known the far-reaching significance that ‘nature’ had in Greek thinking, especially in contemporary popular philosophy, Stoicism in particular” (Fee, 526--527). Also, “Paul appeals to their judgment about what behavior was considered natural, within the limits of the place and period in which he was writing” (Dachollom Datiri, “1 Corinthians,” in *Africa Bible Commentary*, ed. Tokunboh Adeyemo (Grand Rapids: Zondervan, 2006), 1391).
+
+[^29]: “For her hair is given to her for a covering” (1 Cor. 11:15b [NASB]), should not be interpreted as antithetical to Paul’s prior argument; the force of the chiasm is too strong. Paul’s intention here must be to support his argument that a woman ought to cover her hair. Cf. Fee, 528. Cf. There is one creative interpretation promoted by Martin which argues for “covering” to be interpreted as “testicle” (84). However, this was refuted strongly by Mark Goodacre (“Does περιβόλαιον Mean ‘Testicle’ in 1 Corinthians 11:15?” *Journal of Biblical Literature,*130, no. 2 (2011): 391--396). Nonetheless, Martin’s historical account of hair as genitalia is intriguing.
+
+[^30]: John Cassian used this verse to argue for the immaterial soul (*First Conference of Abbot Moses*, NPNF 11:302). This verse was also important in the debate with the Eusebians (Athanasius, *Defence of the Nicene Definition*, NPNF 4:163; Theodoret, *The Ecclesiastical History*, NPNF 3:45).
+
+[^31]: Genesis 1:26--27 clearly demonstrates that mankind (הָֽאָדָם֙) was created in the image of God as both male (זָכָ֥ר) and female (נְקֵבָ֖ה).
+
+[^32]: Heb. 2:6--8, 1 Cor. 15:27.
+
+[^33]: Cf. Kistemaker, 374.
+
+[^34]: 1 Cor. 11:8--9. Cf. Fee makes an interesting point regarding the creation narrative, “When the man in the OT narrative sees the woman, he ‘glories’ in her by bursting into song” (Fee, 517).
+
+[^35]: “The two sentences together are reflections of Gen. 2:23 and 18--20.” (Fee, 517).
+
+[^36]: Kistemaker, 378; Datiri, 1390.
+
+[^37]: Cf. Ephesians 5:21; Calvin, 353--354.
+
+[^38]: Cf. “In the early Roman imperial period, it was men, rather than women, on whom a woman’s clothing most reflected… The usual purpose of honoring women was to exalt the men to whom they were mothers, wives, or sisters” (Thiselton, 802).
+
+[^39]: Cf. Kistemaker, 376; Fee, 522.
+
+[^40]: An alternative translation of “messengers” would allow for simpler hermeneutics, however, the usage seems unlikely due to the number of times Paul uses ἀγγέλος as “angel” (four times in 1 Corinthians alone). Indeed, he seems to never use ἀγγέλος as “messenger.” The view that ἀγγέλος referred to priests, however, was held by Ephrem of Syria, Ambrosiaster, and Cajetan (Thiselton, 839).
+
+[^41]: Tertullian, *On Prayer*, ANF 3:688; cf. Genesis 6:1--2
+
+[^42]: If the angels can see all things, then they would always be able to find immodestly dressed women.
+
+[^43]: 1 Timothy 5:2, cf. Ephesians 3:10
+
+[^44]: Cf. Datiri, 1390.
+
+[^45]: Specifically, this is from the 2011 edition of the NIV, which changed the translation from “the woman ought to have a sign of authority on her head” (NIV 1984).
+
+[^46]: Kistemaker 375--376.
+
+[^47]: As do many translations and commentators, e.g., ESV, NASB, NKJV, NET, Calvin (358).
+
+[^48]: The NIV 2011 translation seems to follow Fee’s commentary (519--520).
+
+[^49]: Datiri, 1390.
+
+[^50]: Cf. Calvin, 355; MacArthur, 255; Fee, 530; Kistemaker, 371.
 
 ---
 
@@ -114,4 +212,4 @@ Theodoret. *The Ecclesiastical History*. Translated by Blomfield Jackson. In *Ni
 
 Thiselton, Anthony C. *The First Epistle to the Corinthians*. New International Greek Testament Commentary. Grand Rapids: William B. Eerdmans, 2000.
 
-Wallace, Daniel B. *Greek Grammar: Beyond the Basics*. Grand Rapids: Zondervan, 1996. 
+Wallace, Daniel B. *Greek Grammar: Beyond the Basics*. Grand Rapids: Zondervan, 1996.

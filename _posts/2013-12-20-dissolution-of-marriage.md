@@ -4,8 +4,8 @@ title: The Dissolution of Marriage
 date: 2013-12-20
 comments: false
 categories: papers
-tags: seminary 
-tagline: The following partially satisfies the requirements for Dr. Heimbach's Introduction to Christian Ethics class at Southeastern Baptist Theological Seminary.
+tags: seminary
+context: The following partially satisfies the requirements for Dr. Heimbach's Introduction to Christian Ethics class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction
@@ -130,7 +130,7 @@ especially adultery, intrinsically dissolves marriage.[^10] Despite the
 sinfulness of sexual immorality, the biblical evidence demonstrates that
 "infidelity does not by itself dissolve a marriage."[^11]
 
-[^10]: James M. Weibling, "Reconciling Matthew and Mark on Divorce," *Trinity Journal* 22, no. 2 (September 1, 2001): 227, accessed October 7, 2013, *ATLA Religion Database with ATLASerials,* EBSCO*host*. Weibling writes against the view that sexual immorality alone dissolves a marriage. 
+[^10]: James M. Weibling, "Reconciling Matthew and Mark on Divorce," *Trinity Journal* 22, no. 2 (September 1, 2001): 227, accessed October 7, 2013, *ATLA Religion Database with ATLASerials,* EBSCO*host*. Weibling writes against the view that sexual immorality alone dissolves a marriage.
 
 [^11]: Craig L. Blomberg, "Marriage, Divorce, Remarriage, and Celibacy: An Exegesis of Matthew 19:3-12," *Trinity Journal* 11, no. 2 (September 1, 1990): 168, accessed December 2, 2013, *ATLA Religion Database with ATLASerials,* EBSCO*host*.
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Earnestly I Seek You
-tagline: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 category: lessons
 tag: seminary
 ---
 
 # Opener
 
-As you turn to Psalm 63, contemplate with me the state of David as he pens this psalm. This was likely written during the time of Absalom’s pursuit of his father David. Do you know the story of Absalom? You can read a full account in 2 Samuel 13--17. Out of vengeance and hatred, Absalom murdered his brother Amnon and therefore fled. After three years, Absalom returned to his father David and was permitted to live in his house. However, David refused to see his murderous son, until two years later when he relented. Wickedly, Absalom resented his father David and conspired against him and overtook the throne in Jerusalem. As a result, David fled in order to keep his own life. While fleeing, he discovered just how deep his son's conspiracy went. 
+As you turn to Psalm 63, contemplate with me the state of David as he pens this psalm. This was likely written during the time of Absalom’s pursuit of his father David. Do you know the story of Absalom? You can read a full account in 2 Samuel 13--17. Out of vengeance and hatred, Absalom murdered his brother Amnon and therefore fled. After three years, Absalom returned to his father David and was permitted to live in his house. However, David refused to see his murderous son, until two years later when he relented. Wickedly, Absalom resented his father David and conspired against him and overtook the throne in Jerusalem. As a result, David fled in order to keep his own life. While fleeing, he discovered just how deep his son's conspiracy went.
 
 While he was fleeing, David encountered Shimei who cursed David as a worthless man, claiming, "The LORD has avenged on you all the blood of the house of Saul, in whose place you have reigned, and the LORD has given the kingdom into the hand of your son Absalom. See your evil is on you, for you are a man of blood" (2 Sam. 16:7--8). When his men requested to kill Shimei for his cursing, David responded, "Behold, my own son seeks my life; how much more now may this Benjaminite! Leave him alone and let him curse, for the LORD has told him to. It may be that the LORD will look on the wrong done to me, and that the LORD will repay me with good for his cursing today" (2 Sam. 16:11--12). Following this, David the king and the people with him "arrived weary at the Jordan. And there he refreshed himself" (2 Sam. 16:14).[^1]
 
@@ -24,34 +24,34 @@ Let's read Psalm 63:
 
 > A Psalm of David, when he was in the wilderness of Judah.
 
-> O God, you are my God;  
-earnestly I seek you;  
-my soul thirsts for you;  
-my flesh faints for you,  
-as in a dry and weary land where there is no water.  
-So I have looked upon you in the sanctuary,  
-beholding your power and glory.  
-Because your steadfast love is better than life,  
-my lips will praise you.  
+> O God, you are my God;
+earnestly I seek you;
+my soul thirsts for you;
+my flesh faints for you,
+as in a dry and weary land where there is no water.
+So I have looked upon you in the sanctuary,
+beholding your power and glory.
+Because your steadfast love is better than life,
+my lips will praise you.
 
-> So I will bless you as long as I live;  
-in your name I will lift up my hands.  
-My soul will be satisfied as with fat and rich food,  
-and my mouth will praise you with joyful lips,  
-when I remember you upon my bed,  
-and meditate on you in the watches of the night;  
-for you have been my help,  
-and in the shadow of your wings I will sing for joy.  
-My soul clings to you;  
-your right hand upholds me.  
+> So I will bless you as long as I live;
+in your name I will lift up my hands.
+My soul will be satisfied as with fat and rich food,
+and my mouth will praise you with joyful lips,
+when I remember you upon my bed,
+and meditate on you in the watches of the night;
+for you have been my help,
+and in the shadow of your wings I will sing for joy.
+My soul clings to you;
+your right hand upholds me.
 
-> But those who seek to destroy my life  
-shall go down into the depths of the earth;  
-they shall be given over to the power of the sword;  
-they shall be a portion for jackals.  
-But the king shall rejoice in God;  
-all who swear by him shall exult,  
-for the mouths of liars will be stopped.  
+> But those who seek to destroy my life
+shall go down into the depths of the earth;
+they shall be given over to the power of the sword;
+they shall be a portion for jackals.
+But the king shall rejoice in God;
+all who swear by him shall exult,
+for the mouths of liars will be stopped.
 
 ## I. Earnestly seek God (vv. 1--2)
 
@@ -79,24 +79,24 @@ Always remember, though you be weary and heavy laden, seek God, praise him, clin
 
 ## II. Earnestly praise God (vv. 3--4)
 
-Moving to verse 3, David writes, "Because your steadfast love is better than life, my lips will praise you. So I will bless you as long as I live; in your name I will lift up my hands." David claims to praise God, bless God, and lift up his hands to God as long as he lives *because* God's steadfast love is better than life. God, your love is better than life. Does this truth from David resonate in your heart? His love is better than life. Out of his love he grants life. Out of his love he sent his Son. Out of his love he is merciful to us and has adopted us into his kingdom so that we may live and reign with him forever in the eschaton. Do you praise God out of the abundance of his love? Do you know this love? For those of you who do not know God, hear this: His love is better than life itself. Whatever good you can consider in life, God's love is better, greater, mightier, more effective, and everlasting. As we read earlier in Exodus 34, the LORD is abounding in steadfast love. Do you count yourself a recipient of God's love? Do you praise him on account of his love for you? 
+Moving to verse 3, David writes, "Because your steadfast love is better than life, my lips will praise you. So I will bless you as long as I live; in your name I will lift up my hands." David claims to praise God, bless God, and lift up his hands to God as long as he lives *because* God's steadfast love is better than life. God, your love is better than life. Does this truth from David resonate in your heart? His love is better than life. Out of his love he grants life. Out of his love he sent his Son. Out of his love he is merciful to us and has adopted us into his kingdom so that we may live and reign with him forever in the eschaton. Do you praise God out of the abundance of his love? Do you know this love? For those of you who do not know God, hear this: His love is better than life itself. Whatever good you can consider in life, God's love is better, greater, mightier, more effective, and everlasting. As we read earlier in Exodus 34, the LORD is abounding in steadfast love. Do you count yourself a recipient of God's love? Do you praise him on account of his love for you?
 
 Consider some lyrics from Steve Fee's song, *Your Love is Better than Life*:
 
-> It’s too high to measure  
-It’s too great a treasure  
-Longer than forever  
-It’s inconceivable  
+> It’s too high to measure
+It’s too great a treasure
+Longer than forever
+It’s inconceivable
 
-> It’s big enough to live in  
-It’s deep enough to swim in  
-I’m breathing out just to breath it in  
-It’s overtaken my soul  
+> It’s big enough to live in
+It’s deep enough to swim in
+I’m breathing out just to breath it in
+It’s overtaken my soul
 
-> How high  
-How deep  
-How great is Your love for me  
-It’s making my heart sing  
+> How high
+How deep
+How great is Your love for me
+It’s making my heart sing
 
 Dear Christian, earnestly praise God because his love is better than life.
 
@@ -106,33 +106,33 @@ Always remember, though you be weary and heavy laden, seek God, praise him, clin
 
 In the next section, David revels in being satisfied in all the works of God and therefore clings to the God who upholds him. Starting in verse 5: "My soul will be satisfied as with fat and rich food, and my mouth will praise you with joyful lips." Back in verse one we read of David's thirst for God, here we read of David's assurance of what God will do. "My soul *will be satisfied* as with fat and rich food." David knows what the LORD will do for him. Friend, do you trust your God as David did? For those who follow the LORD, he will ultimately deliver us from all sin, all wickedness, all strife, and pain. He will draw us unto himself and create a new heaven and a new earth where there will be no more tears, no more shame, no more sin, death, or pain!
 
-David continues, "And my mouth will praise you with joyful lips, when I remember you upon my bed, and meditate on you in the watches of the night; for you have been my help." David knows what God will do because he knows what God has done! This God who saved Noah from a worldwide flood, who miraculously rescued the Hebrews out of Egypt, who delivered to the Israelites their inheritance in the land of Canaan, who did many acts in the life of David---David knows and trusts this God because of what he has already done. In the same way, we can further trust God knowing what he has done for us in Christ Jesus. Trust God. Turn to Jesus. Meditate and remember the good works of the LORD. 
+David continues, "And my mouth will praise you with joyful lips, when I remember you upon my bed, and meditate on you in the watches of the night; for you have been my help." David knows what God will do because he knows what God has done! This God who saved Noah from a worldwide flood, who miraculously rescued the Hebrews out of Egypt, who delivered to the Israelites their inheritance in the land of Canaan, who did many acts in the life of David---David knows and trusts this God because of what he has already done. In the same way, we can further trust God knowing what he has done for us in Christ Jesus. Trust God. Turn to Jesus. Meditate and remember the good works of the LORD.
 
 Picking up in the middle of verse 7: "And in the shadow of your wings I will sing for joy. My soul clings to you; your right hand upholds me." David knows that the wings of God will cover and comfort him. This is not so different from his sentiment in Psalm 23:
 
-> The Lord is my shepherd; I shall not want.  
-He makes me lie down in green pastures.  
-He leads me beside still waters.  
-He restores my soul.  
-He leads me in paths of righteousness  
+> The Lord is my shepherd; I shall not want.
+He makes me lie down in green pastures.
+He leads me beside still waters.
+He restores my soul.
+He leads me in paths of righteousness
 for his name's sake.
 
-> Even though I walk through the valley of the shadow of death,  
-I will fear no evil,  
-for you are with me;  
-your rod and your staff,  
-they comfort me.  
+> Even though I walk through the valley of the shadow of death,
+I will fear no evil,
+for you are with me;
+your rod and your staff,
+they comfort me.
 
-> You prepare a table before me  
-in the presence of my enemies;  
-you anoint my head with oil;  
-my cup overflows.  
-Surely goodness and mercy shall follow me  
-all the days of my life,  
+> You prepare a table before me
+in the presence of my enemies;
+you anoint my head with oil;
+my cup overflows.
+Surely goodness and mercy shall follow me
+all the days of my life,
 and I shall dwell in the house of the Lord
 forever.
 
-Returning to Psalm 63:8, "My soul clings to you; your right hand upholds me." This is a beautiful picture of the bidirectional relationship we have with God. We must cling to God, however, our clinging is and will always be insufficient. God must uphold us in this relationship. We cling, but he holds. Let me reuse the common metaphor of a child holding her father's hand. When I walk with my 3 year old across the street, she places her hand in mine and clings to me. However, her own grip is insufficient to hold on should she fall. Only by my grip, the holding of a father, can she be safe from falling. Within my hand, she clings, but by my hand, she is secure. In the same way, you must cling to God. You must pursue him. You must love him. You must turn to him. You must use your own effort in your relationship with him. But God is in control. He is the one who upholds you. He gives you life. He gives you breath. He empowers you by the Holy Spirit. He saves. He delivers. He keeps his covenant promises. Cling to God. He will hold you. 
+Returning to Psalm 63:8, "My soul clings to you; your right hand upholds me." This is a beautiful picture of the bidirectional relationship we have with God. We must cling to God, however, our clinging is and will always be insufficient. God must uphold us in this relationship. We cling, but he holds. Let me reuse the common metaphor of a child holding her father's hand. When I walk with my 3 year old across the street, she places her hand in mine and clings to me. However, her own grip is insufficient to hold on should she fall. Only by my grip, the holding of a father, can she be safe from falling. Within my hand, she clings, but by my hand, she is secure. In the same way, you must cling to God. You must pursue him. You must love him. You must turn to him. You must use your own effort in your relationship with him. But God is in control. He is the one who upholds you. He gives you life. He gives you breath. He empowers you by the Holy Spirit. He saves. He delivers. He keeps his covenant promises. Cling to God. He will hold you.
 
 Dear Christian, cling to God; remember, and be satisfied in all his works.
 
@@ -140,18 +140,18 @@ Always remember, though you be weary and heavy laden, seek God, praise him, clin
 
 ## IV. Earnestly trust God for deliverance  (vv. 9--11)
 
-Starting at verse 9: 
+Starting at verse 9:
 
-> But those who seek to destroy my life  
-shall go down into the depths of the earth;  
-they shall be given over to the power of the sword;  
-they shall be a portion for jackals.  
+> But those who seek to destroy my life
+shall go down into the depths of the earth;
+they shall be given over to the power of the sword;
+they shall be a portion for jackals.
 
-Because God appointed David to be King of Israel, all who seek to destroy David are therein enemies of God. If we once more consider God's description of himself in Exodus 36, we know that he is "slow to anger," but "will by no means clear the guilty." Even though he will forgive "iniquity and transgression and sin" he will visit "the iniquity of the fathers on the children and the children's children, to the third and the fourth generation." How is it that he forgives the iniquity of some, but punishes the iniquity of others? Ultimately, by his mercy, God has chosen to forgive his people who trust in his covenant promises as fulfilled in Christ Jesus. Though all of us deserve punishment for our iniquities, Christ's blood has paid the ransom for sin as realized by all who believe.  Despite this offer of salvation, many, nay most, choose to remain as enemies of God. Read with me, soberly, Paul's account of the fate of the enemies of God. Reading from 2 Thessalonians 2:5--10: 
+Because God appointed David to be King of Israel, all who seek to destroy David are therein enemies of God. If we once more consider God's description of himself in Exodus 36, we know that he is "slow to anger," but "will by no means clear the guilty." Even though he will forgive "iniquity and transgression and sin" he will visit "the iniquity of the fathers on the children and the children's children, to the third and the fourth generation." How is it that he forgives the iniquity of some, but punishes the iniquity of others? Ultimately, by his mercy, God has chosen to forgive his people who trust in his covenant promises as fulfilled in Christ Jesus. Though all of us deserve punishment for our iniquities, Christ's blood has paid the ransom for sin as realized by all who believe.  Despite this offer of salvation, many, nay most, choose to remain as enemies of God. Read with me, soberly, Paul's account of the fate of the enemies of God. Reading from 2 Thessalonians 2:5--10:
 
 > This is evidence of the righteous judgment of God, that you may be considered worthy of the kingdom of God, for which you are also suffering—since indeed God considers it just to repay with affliction those who afflict you, and to grant relief to you who are afflicted as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus. They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might, when he comes on that day to be glorified in his saints, and to be marveled at among all who have believed, because our testimony to you was believed.
 
-Closing in verse 11, David writes, "But the king shall rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped." David can pray this imprecatory ending to his psalm because his enemies are God's enemies. Ultimately, all of God's enemies will "suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might." Friend, will you suffer that eternal punishment, or will you know God and obey the gospel of our Lord Jesus? Become a friend of God. Receive his mercy and forgiveness. 
+Closing in verse 11, David writes, "But the king shall rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped." David can pray this imprecatory ending to his psalm because his enemies are God's enemies. Ultimately, all of God's enemies will "suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might." Friend, will you suffer that eternal punishment, or will you know God and obey the gospel of our Lord Jesus? Become a friend of God. Receive his mercy and forgiveness.
 
 Exult the God who will destroy his enemies and stop the mouths of liars. As Moses wrote after the Shema, "It is the LORD your God you shall fear. Him you shall serve and by his name you shall swear" (Deut. 6:13). In the same way, Paul wrote in Romans 14:10--11: "We will all stand before the judgment seat of God; for it is written, 'As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.' So then each of us will give an account of himself to God." When your knee is bowed down before God who will represent you as you give an account? Will it be your imperfect self who deserves nothing but utter destruction in hell? Or will it be Jesus Christ, the Son of God, your Lord, whose righteousness will represent you?
 

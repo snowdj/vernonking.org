@@ -3,7 +3,7 @@ layout: post
 title: Adoptive Parenting
 category: lessons
 tag: fbc-durham
-tagline: The following was prepared for an Adoptive Parenting class at FBC Durham. Much of the following is rooted in our experience from adopting older children through the state foster system.
+context: The following was prepared for an Adoptive Parenting class at FBC Durham. Much of the following is rooted in our experience from adopting older children through the state foster system.
 ---
 
 You can find printable copies of this lesson ([pdf]({{site.files}}/lessons/adoptive-parenting.pdf), [docx]({{site.files}}/lessons/adoptive-parenting.docx)) and outline ([pdf]({{site.files}}/lessons/adoptive-parenting-outline.pdf), [docx]({{site.files}}/lessons/adoptive-parenting-outline.docx)).
@@ -146,4 +146,4 @@ Some of the best advice we received about talking about adoption was to just tal
 
 **[*Adopting the Hurt Child*](http://www.amazon.com/dp/160006289X/?tag=pja-20) by Gregory Keck and Regina Kupecky.** This book discusses a number of issues related to adopting troubled kids, including attachment, bonding, international adoption, finding effective therapy, and practical advice.
 
-**[*Give Them Grace*](http://www.amazon.com/dp/1433520095/?tag=pja-20) by Elyse Fitzpatrick and Jessica Thompson.** This is not adoption-specific, but it is my favorite book on parenting! It discusses both the theology and practice of parenting from a gospel-centered perspective. I love that the practical sections include help for correcting both believing and non-believing children—in both situations, the gospel is the central message, but the implications are different for those who claim Christ and those who don’t. Katie re-reads this book every couple of months for parenting encouragement and advice. 
+**[*Give Them Grace*](http://www.amazon.com/dp/1433520095/?tag=pja-20) by Elyse Fitzpatrick and Jessica Thompson.** This is not adoption-specific, but it is my favorite book on parenting! It discusses both the theology and practice of parenting from a gospel-centered perspective. I love that the practical sections include help for correcting both believing and non-believing children—in both situations, the gospel is the central message, but the implications are different for those who claim Christ and those who don’t. Katie re-reads this book every couple of months for parenting encouragement and advice.

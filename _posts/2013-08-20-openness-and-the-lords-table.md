@@ -3,10 +3,10 @@ layout: post
 title: Openness and the Lord's Table
 category: posts
 tag: seminary
-tagline: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
-There is an ongoing debate about who can properly participate in the Lord's Supper. The first concern is the relationship between the universal and local church in regard to the administration of the Supper. The second concern is the relationship between a Christian's baptism and his ability to participate in the Supper. 
+There is an ongoing debate about who can properly participate in the Lord's Supper. The first concern is the relationship between the universal and local church in regard to the administration of the Supper. The second concern is the relationship between a Christian's baptism and his ability to participate in the Supper.
 
 An open view of the Lord's Supper allows for any Christian to participate regardless of his baptismal background. For example, a Presbyterian paedo-baptized Christian would be allowed to partake of the Supper in a Baptist church. This position views the Lord's Supper as "belonging to the Lord" in such a way that no local church should exclude members of the universal church. Although the minority view historically, Charles Spurgeon and John Bunyan both affirmed an open table. This position views the unity of the universal church as a primary concern at the table.
 

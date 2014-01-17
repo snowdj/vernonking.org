@@ -5,7 +5,7 @@ date: 2013-12-03
 comments: false
 category: reviews
 tags: seminary
-tagline: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *The Master Plan of Evangelism*. By Robert E. Coleman. 2nd Ed. Abridged. Grand Rapids: Revell, 2010, 154 pp., $5.12 Kindle. Reviewed by Vernon R. King, III.
@@ -16,12 +16,12 @@ Robert Coleman’s *The Master Plan of Evangelism* is a little book that has mad
 
 The author reduces Jesus’ "master plan of evangelism" into eight interdependent components that Christians and the church today can emulate:
 
-1.	*Selection*. Jesus selected his disciples, concentrating on the few men willing to learn, while not neglecting the masses. 
-2.	*Association*. Jesus associated with his disciples, teaching them through a shared life experience. 
-3.	*Consecration*. Jesus expected obedience from his disciples, counting the cost of discipleship, so that they could know the truth and do it. 
-4.	*Impartation*. Jesus gave up himself for the sake of his disciples. 
-5.	*Demonstration*. Jesus showed his disciples how to live by his commands through prayer, Scripture, and natural teaching. 
-6.	*Delegation*. Jesus assigned tasks to the disciples so they could "put into practice what they had seen their Master do" (p. 80). 
+1.	*Selection*. Jesus selected his disciples, concentrating on the few men willing to learn, while not neglecting the masses.
+2.	*Association*. Jesus associated with his disciples, teaching them through a shared life experience.
+3.	*Consecration*. Jesus expected obedience from his disciples, counting the cost of discipleship, so that they could know the truth and do it.
+4.	*Impartation*. Jesus gave up himself for the sake of his disciples.
+5.	*Demonstration*. Jesus showed his disciples how to live by his commands through prayer, Scripture, and natural teaching.
+6.	*Delegation*. Jesus assigned tasks to the disciples so they could "put into practice what they had seen their Master do" (p. 80).
 7.	*Supervision*. Jesus supervised his disciples’ growth through questions and observation and continued to teach them in light of their experience.
 8.	*Reproduction*. Jesus expected his disciples to make their own disciples, following his methodology.
 
@@ -33,7 +33,7 @@ Despite its age, Coleman’s work continues to make significant contributions to
 
 # Author’s Argumentation
 
-Coleman argued each of his eight components of evangelism by walking through the example of Jesus, extracting a principle, and applying the principle for the local church. Unfortunately, Coleman’s interpretation of Jesus’ ministry is found lacking at times. For instance, the author consistently imposes thoughts and motivations upon Jesus based on his actions, e.g., "[Jesus] knew that they could master these defects as they grew in grace and knowledge" (p. 55). Furthermore, Coleman often emphasized Jesus’ humanity at the expense of his divinity. Finally, the author sometimes fell prey to hyperbole and the poor use of statistics, e.g., "[Jesus] actually spent more time with his disciples than with everybody else in the world put together" (p. 42) and "there are actually more unevangelized people on the earth today than before the invention of the horseless carriage" (p. 34). 
+Coleman argued each of his eight components of evangelism by walking through the example of Jesus, extracting a principle, and applying the principle for the local church. Unfortunately, Coleman’s interpretation of Jesus’ ministry is found lacking at times. For instance, the author consistently imposes thoughts and motivations upon Jesus based on his actions, e.g., "[Jesus] knew that they could master these defects as they grew in grace and knowledge" (p. 55). Furthermore, Coleman often emphasized Jesus’ humanity at the expense of his divinity. Finally, the author sometimes fell prey to hyperbole and the poor use of statistics, e.g., "[Jesus] actually spent more time with his disciples than with everybody else in the world put together" (p. 42) and "there are actually more unevangelized people on the earth today than before the invention of the horseless carriage" (p. 34).
 
 Despite the problems sometimes found in Coleman’s interpretation, his application is consistently appropriate and applicable for the church today. The author rightly addresses the areas in which the church (still) consistently fails in evangelism and discipleship while providing helpful, implementable correctives. Coleman’s most helpful contributions come through his "Principle in Focus" and "Principle Applied Today" sections in each chapter.
 
