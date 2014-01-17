@@ -173,11 +173,13 @@
         }
     }
 
-    ul.metadata {
+    .post ul.metadata {
         text-align: center;
 
         li, .date {
-            font-size: $fs6;
+            line-height: 1;
+            padding-bottom: 0;
+            margin-bottom: 0;
         }
     }
 
