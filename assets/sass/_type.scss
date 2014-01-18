@@ -8,13 +8,14 @@
 /* Meat
    ========================================================================== */
 
-html {
-    text-rendering: optimizelegibility;
-}
-
 p {
     font-size: $fsp;
     line-height: $lh;
+    font-feature-settings: "liga";
+        -webkit-font-feature-settings: "liga";
+        -moz-font-feature-settings: "liga";
+        -ms-font-feature-settings: "liga";
+        -o-font-feature-settings: "liga";
 }
 
 .intro {
