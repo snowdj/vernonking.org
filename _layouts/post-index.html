@@ -32,8 +32,8 @@ layout: default
                 {% if month_index != month %}
                     {% assign month_index = month %}
                     {% unless forloop.first %}
-                            </ul>
-                        </li>
+                        </ul>
+                    </li>
                     {% endunless %}
                     {% if year_index != year %}
                         {% assign year_index = year %}
@@ -45,12 +45,18 @@ layout: default
                 <h2>{{year}}</h2>
                 <ul class="months">
                     {% endif %}
-                        <li id="{{month}}">
-                            <h3>{{ date | date: "%B" }}</h3>
-                            <ul>
+                    <li id="{{month}}">
+                        <h3>{{ date | date: "%B" }}</h3>
+                        <ul>
                 {% endif %}
-                                <li>{% include post-entry.html %}</li>
+                            <li>{% include post-entry.html %}</li>
             {% endfor %}
+            {% if post_list.size > 0 %}
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            {% endif %}
         </ul>
     </article>
 </section>
