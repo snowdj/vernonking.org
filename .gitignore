@@ -1,7 +1,7 @@
 _site/
 Gemfile.lock
 .bundle
-assets/.sass-cache
+.sass-cache
 
 # IntelliJ Idea project info
 .idea
