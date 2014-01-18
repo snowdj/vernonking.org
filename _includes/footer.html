@@ -11,14 +11,14 @@
                 {% endif %}
 
                 {% if site.owner.twitter %}
-                    <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
+                    <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}/" target="_blank">
                         <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span>
                         @{{ site.owner.twitter }}
                     </a></li>
                 {% endif %}
 
                 {% if site.owner.facebook %}
-                    <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}" target="_blank">
+                    <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}/" target="_blank">
                         <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
                     </a></li>
                 {% endif %}
@@ -26,15 +26,8 @@
         </div>
         <div>
             <ul class="prev-posts">
-                {% if site.related_posts.size > 0 %}
-                    {% assign post_list = site.related_posts %}
-                    {% assign list_title = "Related Posts" %}
-                {% else %}
-                    {% assign post_list = site.posts %}
-                    {% assign list_title = "Recent Posts" %}
-                {% endif %}
-                <h2>{{ list_title }}</h2>
-                {% for post in post_list | limit:5 %} <!-- for1 -->
+                <h2>Recent Posts</h2>
+                {% for post in site.posts | limit:5 %}
                     <li>
                         <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
                             {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
@@ -46,10 +39,11 @@
         </div>
     </aside>
     <small>
-        &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br/>
-        Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a>
-        theme.<br/>
-        Site design customized by <a href="http://chriskrycho.com/">Chris Krycho</a>.
+        &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. <a href="{{site.url}}/license/">All rights reserved.</a>
+        <br/>Powered by <a href="http://jekyllrb.com/">Jekyll</a> using the <a href="http://jekyll.gtat.me/about/">Balzac</a>
+        theme.
+        <br/>Site design customized by <a href="http://chriskrycho.com/">Chris Krycho</a>.
+        <br/><a href="{{site.url}}/privacy/">Privacy Policy.</a>
     </small>
 </footer>
 

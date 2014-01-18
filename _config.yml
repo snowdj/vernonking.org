@@ -15,17 +15,17 @@ owner:
 # For external links add external: true
 links:
   - title: CV
-    url: /cv
+    url: /cv/
   - title: Papers
-    url: /papers
+    url: /papers/
   - title: Reviews
-    url: /reviews
+    url: /reviews/
   - title: Archives
-    url: /archives
+    url: /archives/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
-lsi:         true
+#lsi:         true
 future:      false
 pygments:    true
 markdown:    kramdown
@@ -45,7 +45,7 @@ kramdown:
     coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:title/
 relative_permalinks: false
 
 archive:
