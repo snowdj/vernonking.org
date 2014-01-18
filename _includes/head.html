@@ -1,21 +1,32 @@
 <meta charset="utf-8">
-<title>{% unless page.url == '/' %}{% if page.title %}{{ page.title }} &#8211; {% endif %}{% endunless %}{{ site.title }}</title>
-{% if page.description %}
-<meta name="description" content="{{ page.description }}">
-{% else %}
-<meta name="description" content="{{ site.description }}">
-{% endif %}
-<meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
-<meta property="og:locale" content="en_US">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
-{% if page.description %}
-<meta property="og:description" content="{{ page.description | strip_html | strip_newlines | truncate: 170 }}">
-{% elsif page.intro %}
-<meta property="og:description" content="{{ page.intro | strip_html | strip_newlines | truncate: 170 }}">
-{% elsif site.description %}
-<meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 170 }}">
+{% assign title={{site.title}} %}
+{% if page.url != '/' %}
+    {% assign title={{page.title | append:' &#8211; ' | append:title }} %}
 {% endif %}
+
+{% if page.description %}
+    {% assign description={{page.description}} %}
+{% elsif page.intro %}
+    {% assign description={{page.intro}} %}
+{% else %}
+    {% assign description={{site.description}} %}
+{% endif %}
+
+{% if page.keywords.size > 0 %}
+    {% assign keywords={{page.keywords}} %}
+{% elsif page.tags.size > 0  %}
+    {% assign keywords={{page.tags}} %}
+{% else %}
+    {% assign keywords={{site.keywords}} %}
+{% endif %}
+
+<title>{{title}}</title> 
+<meta name="description" content="{{ description }}">
+<meta name="keywords" content="{{ keywords | join: ', ' }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{ description | strip_html | strip_newlines | truncate: 170 }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
