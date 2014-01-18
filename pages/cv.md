@@ -48,7 +48,7 @@ Coursework toward *Master of Divinity in Missions*
 
 ### [Texas A&M University](http://www.tamu.edu)
 
-#### Bachelor of Science in Computer Engineering
+*Bachelor of Science in Computer Engineering*
 
 - GPA: 4.0
 - *summa cum laude*
@@ -137,31 +137,30 @@ Raised by my parents to be a faithful member:
 
 ### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
 
-#### Software Developer (May 2013 – present)
+*Software Developer (May 2013 – present)*
 
 ### FTS International (Fort Worth, Texas)
 
-#### Lead Software Developer (May 2011 – January 2013)
+*Lead Software Developer (May 2011 – January 2013)*
 
 Led a team of five engineers and served as a point of contact with management.
 
 ### Deloitte Consulting (Dallas, Texas)
 
-####Software Consultant, Homeland Security (January 2011 – May 2011)
+*Software Consultant, Homeland Security (January 2011 – May 2011)*
 
 ### FIS (Oklahoma City, Oklahoma)
 
-#### Senior Programmer Analyst (October 2009 – November 2010)
-
-#### Programmer Analyst II (September 2007 – October 2009)
+*Senior Programmer Analyst (October 2009 – November 2010)*  
+*Programmer Analyst II (September 2007 – October 2009)*
 
 ### Hewlett-Packard (College Station, Texas)
 
-#### ASIC Intern (May 2006 – May 2007)
+*ASIC Intern (May 2006 – May 2007)*
 
 ### Texas A&M University (College Station, Texas)
 
-#### Peer Teacher, Department of Computer Science (September 2004 – May 2006)
+*Peer Teacher, Department of Computer Science (September 2004 – May 2006)*
 
 ## References
 
