@@ -54,7 +54,7 @@ Children are a heritage from the Lord and we must not treat them as if their exi
 
 Those of you who are parents know this is true. We don’t have to teach our children to bite and fight to get what they want: they do this by their own nature. Somehow, Christians still debate this teaching, but as G. K. Chesterton noted in *Orthodoxy*, original sin “is the only part of Christian theology which can really be proved.” As Proverbs 22:15 reads, “Folly is bound up in the heart of a child.” We all came into this world with a sinful, rebellious nature—so did our children, so have all children. We cannot parent by merely focusing on self-esteem and positive attitudes—parents must address sin in their children head on.
 
-​## 4. Christian parents do not guarantee Christian children
+## 4. Christian parents do not guarantee Christian children
 
 The most important task we have as parents is to proclaim and live the gospel of Christ. Our Christian faith is not passed to our children by mere association. Adopting children into a Christian home will not auto-magically make Christian children. A child only becomes a Christian by hearing and believing the Gospel and proclaiming Christ as Lord. While much of our parenting deals with the mundane, the material needs, and training for daily living, we must also love our children in such a way as to help them work through the sin in their heart. We want to see them come to faith in Jesus and turn from their sin.
 
