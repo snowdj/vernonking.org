@@ -31,16 +31,16 @@
             </ul>
             <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
         </div>
-        <div>
+        <div class="recent-posts">
+            <h2>Recent Posts</h2>
             <ul class="prev-posts">
-                <h2>Recent Posts</h2>
                 {% for post in site.posts | limit:5 %}
-                    <li>
-                        <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-                            {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
-                        {% assign meta_links = false %}
-                        {% include post-meta.html %}
-                    </li>
+                <li>
+                    <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+                        {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
+                    {% assign meta_links = false %}
+                    {% include post-meta.html %}
+                </li>
                 {% endfor %}
             </ul>
         </div>

@@ -43,11 +43,25 @@
             margin: 0 auto;
         }
 
-        .social {
-            clear: both;
+        .recent-posts, .social {
             width: 57%;
+            clear: both;
             float: none;
             margin: auto;
+        }
+
+        .social {
+            overflow: hidden;
+
+            .social-links {
+                text-align: left;
+            }
+
+            .social-photo img {
+                height: 6.5em;
+                width: 6.5em;
+                margin-top: 5px;
+            }
         }
 
         .prev-posts {
@@ -55,6 +69,8 @@
             float: none;
             margin: 0 auto;
             display: block;
+            width: 100%;
+
             li {
                 margin-top: $lh/2;
             }
@@ -64,6 +80,12 @@
             }
         }
 
+        small {
+            padding-top: 1em;
+            margin-top: -1em;
+            border-top: 1px solid $link;
+        }
+
         [data-icon]:before {
             font-size: $fs_base;
         }
@@ -71,20 +93,7 @@
         ol {
             list-style: none;
         }
-
-        .social {
-            clear: both;
-            overflow: hidden;
-            text-align: left;
-
-            .social-photo img {
-                height: 6.5em;
-                width: 6.5em;
-                margin-top: 5px;
-            }
-        }
     }
-
 }
 
 /* Mobile
@@ -215,8 +224,14 @@
     }
 
     footer {
-        .social, .prev-posts {
-            width: 90%;
+        padding-bottom: 2em;
+
+        .social, .recent-posts {
+            width: 87%;
+        }
+
+        small {
+            width: 87%;
         }
     }
 }
