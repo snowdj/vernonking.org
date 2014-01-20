@@ -5,23 +5,29 @@
             <h2>Connect</h2>
             <ul>
                 {% if site.owner.email %}
-                    <li><a id="mail" href="mailto:{{ site.owner.email }}">
-                        <span aria-hidden="true" data-icon="&#9993;"></span> Email
-                    </a></li>
+                <li><a href="mailto:{{ site.owner.email }}">
+                    <span aria-hidden="true" data-icon="&#9993;"></span>
+                    Email
+                </a></li>
                 {% endif %}
 
                 {% if site.owner.twitter %}
-                    <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}/" target="_blank">
-                        <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span>
-                        @{{ site.owner.twitter }}
-                    </a></li>
+                <li><a href="http://twitter.com/{{ site.owner.twitter }}/">
+                    <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span>
+                    @{{ site.owner.twitter }}
+                </a></li>
                 {% endif %}
 
                 {% if site.owner.facebook %}
-                    <li><a id="face" href="http://facebook.com/{{ site.owner.facebook }}/" target="_blank">
-                        <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span> Facebook
-                    </a></li>
+                <li><a href="http://facebook.com/{{ site.owner.facebook }}/">
+                    <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span>
+                    Facebook
+                </a></li>
                 {% endif %}
+                <li><a href="{{site.url}}/feed.xml">
+                    <span aria-hidden="true" data-icon="&#59194;"></span>
+                    Feed
+                </a></li>
             </ul>
         </div>
         <div>
