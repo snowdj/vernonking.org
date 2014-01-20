@@ -213,7 +213,7 @@
     }
 
     .post header.post-header {
-        margin-top: $fs1;
+        margin-top: $fs4;
         margin-bottom: 0;
 
         hgroup {
@@ -251,10 +251,13 @@
             margin-bottom: 0;
         }
 
-        header.post-header hgroup {
-            h1 {
-                margin-bottom: 0;
-                font-size: $fs2;
+        header.post-header {
+            margin-top: $fs6;
+            hgroup {
+                h1 {
+                    margin-bottom: 1rem;
+                    font-size: $fs2;
+                }
             }
         }
 
@@ -290,5 +293,17 @@
 
     .article header {
         margin-bottom: 0;
+    }
+}
+
+@media only screen and (min-height: 700px) {
+    .article .featured-image {
+        max-height: 400px;
+    }
+}
+
+@media only screen and (min-height: 1000px) {
+    .article .featured-image {
+        max-height: 640px;
     }
 }

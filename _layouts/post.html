@@ -4,7 +4,9 @@ layout: default
 
 <section class="article">
     {% if page.image.feature %}
-    <div class="featured-image" style="background-image: url({{site.files}}/{{page.image.feature}})"></div>
+    <div class="featured-image">
+        <img src="{{site.files}}/{{page.image.feature}}" alt="featured image" />
+    </div>
     {% endif %}
     {% include article.html %}
 </section>
