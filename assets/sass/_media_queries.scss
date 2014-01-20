@@ -71,6 +71,18 @@
         ol {
             list-style: none;
         }
+
+        .social {
+            clear: both;
+            overflow: hidden;
+            text-align: left;
+
+            .social-photo img {
+                height: 6.5em;
+                width: 6.5em;
+                margin-top: 5px;
+            }
+        }
     }
 
 }
