@@ -689,6 +689,22 @@ footer {
                 color: $white;
             }
         }
+
+        .social-links {
+            float: left;
+            clear: none;
+        }
+
+        .social-photo {
+            float: right;
+            clear: none;
+
+            img {
+                height: 4.75em;
+                width: 4.75em;
+                border-radius: 50%;
+            }
+        }
     }
 }
 

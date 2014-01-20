@@ -3,7 +3,7 @@
     <aside class="wrap">
         <div class="social">
             <h2>Connect</h2>
-            <ul>
+            <ul class="social-links">
                 {% if site.owner.email %}
                 <li><a href="mailto:{{ site.owner.email }}">
                     <span aria-hidden="true" data-icon="&#9993;"></span>
@@ -29,6 +29,7 @@
                     Feed
                 </a></li>
             </ul>
+            <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
         </div>
         <div>
             <ul class="prev-posts">
