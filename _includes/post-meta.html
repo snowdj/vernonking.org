@@ -4,6 +4,7 @@
 
 {% unless meta_links == false %}{% assign meta_links = true %}{% endunless %}
 
+{% if post.date ||  post.categories.size > 0 ||  post.tags.size > 0 %}
 <ul class="metadata">
     {% if !post.date %}
         <li><span aria-hidden="true" data-icon="&#128197;"></span>
@@ -40,5 +41,6 @@
         </li>
     {% endif %}
 </ul>
+{% endif %}
 
 {% assign meta_links = true %}
