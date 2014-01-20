@@ -16,7 +16,7 @@ You can find printable copies of this lesson ([pdf]({{site.files}}/lessons/adopt
 
 Welcome to week 5 of our class on adoption. This morning we are going to discuss adoptive parenting. A few weeks ago, many of you were in the Christian parenting class, therefore, we are going to try to highlight challenges and strategies for adoptive parenting that are fairly distinct from what we all might consider typical Christian parenting.
 
-Next week, we will conclude with a panel discussion on adoption. If you’d like to submit a question, write one down and hand it to Ashok or me after class, or email ____________ at _______________________. Otherwise, you can come to class next Sunday with questions in mind.
+Next week, we will conclude with a panel discussion on adoption. If you’d like to submit a question, write one down and hand it to Ashok or me after class, or email \_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Otherwise, you can come to class next Sunday with questions in mind.
 
 ## Family Background
 
