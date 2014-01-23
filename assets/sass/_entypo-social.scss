@@ -15,6 +15,7 @@
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 .social-media[data-icon]:before {
+    width: auto;
     font-family: 'SocialIcons';
     content: attr(data-icon);
     speak: none;
