@@ -23,7 +23,7 @@ If you come away with only one thought from this sermon, I want you to know this
 Let's read Psalm 63:
 
 > A Psalm of David, when he was in the wilderness of Judah.
-
+>
 > O God, you are my God;
 earnestly I seek you;
 my soul thirsts for you;
@@ -33,7 +33,7 @@ So I have looked upon you in the sanctuary,
 beholding your power and glory.
 Because your steadfast love is better than life,
 my lips will praise you.
-
+>
 > So I will bless you as long as I live;
 in your name I will lift up my hands.
 My soul will be satisfied as with fat and rich food,
@@ -44,7 +44,7 @@ for you have been my help,
 and in the shadow of your wings I will sing for joy.
 My soul clings to you;
 your right hand upholds me.
-
+>
 > But those who seek to destroy my life
 shall go down into the depths of the earth;
 they shall be given over to the power of the sword;
@@ -87,12 +87,12 @@ Consider some lyrics from Steve Fee's song, *Your Love is Better than Life*:
 It’s too great a treasure
 Longer than forever
 It’s inconceivable
-
+>
 > It’s big enough to live in
 It’s deep enough to swim in
 I’m breathing out just to breath it in
 It’s overtaken my soul
-
+>
 > How high
 How deep
 How great is Your love for me
@@ -116,13 +116,13 @@ He leads me beside still waters.
 He restores my soul.
 He leads me in paths of righteousness
 for his name's sake.
-
+>
 > Even though I walk through the valley of the shadow of death,
 I will fear no evil,
 for you are with me;
 your rod and your staff,
 they comfort me.
-
+>
 > You prepare a table before me
 in the presence of my enemies;
 you anoint my head with oil;
