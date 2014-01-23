@@ -112,7 +112,7 @@
     header.site-header {
         height: auto;
         min-height: 39x;  // actual rendered value; set for old Android browser
-        padding: 10px 0 5px;
+        padding: 10px 0;
 
         hgroup {
             padding-left: 3vw;
@@ -121,12 +121,13 @@
         a.menu {
             display: block;
             float: right;
-            margin-right: 2vw;
+            margin-right: 3%;
             width: 1em;
             height: 1em;
             color: white;
             .icons {
-                font-size: 32px;
+                font-size: 48px;
+                line-height: 24px;
             }
 
             img {
@@ -296,14 +297,17 @@
     }
 }
 
-@media only screen and (min-height: 700px) {
+@media only screen and (min-width: 680px) {
     .article .featured-image {
         max-height: 400px;
+        height: 400px;
     }
 }
 
 @media only screen and (min-height: 1000px) {
     .article .featured-image {
         max-height: 640px;
+        height: 640px;
     }
 }
+
