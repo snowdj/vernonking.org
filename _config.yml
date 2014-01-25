@@ -9,7 +9,9 @@ owner:
   name:           Vernon R. King, III
   email:          mail@vernonking.org
   twitter:        vrking3
-  github:         pjking07
+  github:         
+    user:         pjking07
+    repo:         vernonking.org
   facebook:       pjking07
 
 # Links to include in top navigation

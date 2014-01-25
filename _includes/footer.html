@@ -28,6 +28,12 @@
                     <span aria-hidden="true" data-icon="&#59194;"></span>
                     Feed
                 </a></li>
+                {% if site.owner.github.user && site.owner.github.repo %}
+                <li><a href="https://github.com/{{ site.owner.github.user }}/{{ site.owner.github.repo }}">
+                    <span class="social-media" aria-hidden="true" data-icon="&#62208;"></span>
+                    GitHub
+                </a></li>
+                {% endif %}
             </ul>
             <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
         </div>
