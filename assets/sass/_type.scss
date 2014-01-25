@@ -18,9 +18,9 @@ p {
         -o-font-feature-settings: "liga";
 }
 
-.intro {
+.context, .intro {
     font-size: ($fs3 + $fs4) / 2;
-    line-height: 1.4em;
+    line-height: 1.4;
 }
 
 .post ul li {
@@ -80,9 +80,9 @@ blockquote, blockquote p {
         padding-bottom: $lhsmall;
     }
 
-    .intro {
+    .context, .intro {
         font-size: $fs_base;
-        line-height: 1.4em;
+        line-height: 1.4;
     }
 
     .post ul li, .post ol li{
