@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Intended End of Theology
-date: 2014-01-27
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
