@@ -8,4 +8,4 @@ permalink: /license/
 
 Beyond fair use, I welcome all requests for republishing content. Please email any inquiries to [{{site.owner.email}}](mailto:{{site.owner.email}}).
 
-The theme and structure of this website is available under an [MIT license](https://raw.github.com/pjking07/vernonking.org/gh-pages/LICENSE) and is available to fork at [GitHub](https://github.com/pjking07/vernonking.org/).
+The theme and structure of this website is available under an [MIT license](https://raw.github.com/{{site.owner.github.user}}/{{site.owner.github.repo}}/gh-pages/LICENSE) and is available to fork at [GitHub](https://github.com/{{site.owner.github.user}}/{{site.owner.github.repo}}/).
