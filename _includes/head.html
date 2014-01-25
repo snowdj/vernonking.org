@@ -21,15 +21,30 @@
     {% assign keywords={{site.keywords}} %}
 {% endif %}
 
+{% if page.image.feature %}
+    {% assign image={{page.image.feature}} %}
+{% else %}
+    {% assign image={{site.files | append:'/layout/squareface.jpg' }} %}
+{% endif %}
+
+<!-- HTML head -->
 <title>{{title}}</title>
 <meta name="description" content="{{ description }}">
 <meta name="keywords" content="{{ keywords | join: ', ' }}">
+<!-- Facebook Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{{title}}">
-<meta property="og:description" content="{{ description | strip_html | strip_newlines | truncate: 170 }}">
+<meta property="og:description" content="{{ description }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
-
+<meta property="og:image" content="{{ image }}">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary"> 
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:site" content="{{ site.owner.twitter }}">
+<meta name="twitter:owner" content="{{ site.owner.twitter }}">
+<meta name="twitter:image" content="{{ image }}">
 
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
