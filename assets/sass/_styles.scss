@@ -479,7 +479,7 @@ header.site-header nav {
         font-weight: bold;
         letter-spacing: 1px;
 
-        a.social-media {
+        a {
             cursor: pointer;
             color: $grey-light;
             border: 2px solid transparentize($grey-light, .3);
@@ -524,6 +524,14 @@ header.site-header nav {
                 color: $github_black;
                 &[data-icon]:before {
                     color: $github_black;
+                }
+            }
+
+            &.email:hover {
+                border-color: transparentize($email_red, .3);
+                color: $email_red;
+                &[data-icon]:before {
+                    color: $email_red;
                 }
             }
         }
