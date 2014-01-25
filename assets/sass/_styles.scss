@@ -518,6 +518,14 @@ header.site-header nav {
                     color: $twitter_blue;
                 }
             }
+
+            &.github:hover {
+                border-color: transparentize($github_black, .3);
+                color: $github_black;
+                &[data-icon]:before {
+                    color: $github_black;
+                }
+            }
         }
     }
 
