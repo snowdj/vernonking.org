@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Eating the Forbidden Fruit
-date: 2014-01-29
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
