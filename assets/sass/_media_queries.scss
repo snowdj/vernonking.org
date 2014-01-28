@@ -278,6 +278,14 @@
                 margin-bottom: $fs5;
             }
         }
+
+        .share {
+            font-size: $fs6;
+
+            a[data-icon]:before {
+                font-size: 28px;
+            }
+        }
     }
 
     blockquote, blockquote p {
