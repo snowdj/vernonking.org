@@ -282,8 +282,11 @@
         .share {
             font-size: $fs6;
 
-            a[data-icon]:before {
-                font-size: 28px;
+            a {
+                margin-top: 0.25em;
+                &[data-icon]:before {
+                    font-size: 28px;
+                }
             }
         }
     }
