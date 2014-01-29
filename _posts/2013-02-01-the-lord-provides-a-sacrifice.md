@@ -3,7 +3,10 @@ layout: post
 title: The Lord Provides a Sacrifice
 category: posts
 tag: seminary
+date: 2013-02-01T08:00-05:00
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+description: The narrative of Abraham nearly sacrificing his son Isaac foreshadows the substitutionary sacrifice of Jesus Christ, the Lamb of God.
+keywords: [Sacrifice, Abraham, God, Genesis, Isaac, Jesus]
 ---
 
 <cite class='bibleref' title='Genesis 22'>Genesis 22</cite> narrates the story of Abraham obeying God by nearly sacrificing his son Isaac. After Abraham’s faith was tested true, the Lord provided Abraham with a ram as a substitutionary sacrifice. This narrative also foreshadows God the Father providing and sacrificing his own Son as a substitutionary sacrifice for all believers.
@@ -16,4 +19,4 @@ After preparing his son for sacrifice, Abraham raises his hand to slaughter his 
 
 Because Abraham did not withhold his only son, the angel of the Lord declares temporal blessings for Abraham and eternal blessings for the whole world through his offspring (verses 15-18). In verse 17, God promises to multiply his offspring who “shall possess the gate of *his* enemies” (emphasis mine), singularly referencing one man. It can be assumed then, that v18 continues to refer to this one man (who is Jesus) through whom “shall all the nations of the earth be blessed,” (ESV) which Acts 3:25-26 confirms.
 
-As a prophetic narrative, Genesis 22 has two overlapping meanings: 1) the story of the testing of Abraham by his near sacrifice of Isaac and God’s providing a substitutionary ram on his behalf, and 2) the prophesying and foreshadowing of God the Father providing, through his beloved Son, a future substitutionary sacrifice on behalf of mankind. The significance of this text is not merely to trust God and his promises by having the faith of Abraham, but also to rejoice in God in light of his redemptive story, that from the beginning, God has worked throughout history to provide a perfect substitutionary sacrifice for all who believe.
+As a prophetic narrative, Genesis 22 has two overlapping meanings: (1) the story of the testing of Abraham by his near sacrifice of Isaac and God’s providing a substitutionary ram on his behalf, and (2) the prophesying and foreshadowing of God the Father providing, through his beloved Son, a future substitutionary sacrifice on behalf of mankind. The significance of this text is not merely to trust God and his promises by having the faith of Abraham, but also to rejoice in God in light of his redemptive story, that from the beginning, God has worked throughout history to provide a perfect substitutionary sacrifice for all who believe.
