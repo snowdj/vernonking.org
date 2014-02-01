@@ -15,7 +15,8 @@ owner:
   facebook:       pjking07
 
 analytics:
-#    gosquared:  GSN-467829-L
+    google:     UA-47683767-1
+    #gosquared:  GSN-467829-L
 
 # Links to include in top navigation
 # For external links add external: true
