@@ -4,6 +4,8 @@ layout: post
 permalink: /cv/
 image:
     feature: cv/header.jpg
+description: Vernon King is a pastoral candidate with a passion to build healthy local churches via revitalization and planting.
+keywords: ["Southeastern Baptist Theological Seminary", "SEBTS", "Southwestern Baptist Theological Seminary", "SWBTS", "Texas A&M University", "Master of Divinity", "M.Div.", "Bachelor of Computer Engineering", "seminary", "adopt", "pastor", "minister", "Waco Texas", "Wake Forest North Carolina", "Fort Worth Texas", "Norman Oklahoma", "Oklahoma City Oklahoma", "College Station Texas", "Bryan Texas", "Windhoek Namibia"]
 ---
 
 *You can download this CV in [pdf]({{site.files}}/cv/vernonking-ministry-cv.pdf) or [docx]({{site.files}}/cv/vernonking-ministry-cv.docx) formats.*

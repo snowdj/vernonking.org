@@ -13,12 +13,14 @@
     {% assign description={{site.description}} %}
 {% endif %}
 
+{% if site.keywords.size > 0 %}
+    {% assign keywords={{site.keywords | join: ', ' | append: ', ' | append: keywords}} %}
+{% endif %}
 {% if page.keywords.size > 0 %}
-    {% assign keywords={{page.keywords}} %}
-{% elsif page.tags.size > 0  %}
-    {% assign keywords={{page.tags}} %}
-{% else %}
-    {% assign keywords={{site.keywords}} %}
+    {% assign keywords={{page.keywords | join: ', ' | append: ', ' | append: keywords}} %}
+{% endif %}
+{% if page.tags.size > 0 %}
+    {% assign keywords={{page.tags | join: ', ' | append: ', ' | append: keywords}} %}
 {% endif %}
 
 {% if page.image.feature %}
@@ -30,7 +32,7 @@
 <!-- HTML head -->
 <title>{{title}}</title>
 <meta name="description" content="{{ description }}">
-<meta name="keywords" content="{{ keywords | join: ', ' }}">
+<meta name="keywords" content="{{ keywords }}">
 <!-- Facebook Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{{title}}">
