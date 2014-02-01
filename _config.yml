@@ -15,7 +15,9 @@ owner:
   facebook:       pjking07
 
 analytics:
-    google:     UA-47683767-1
+    google:
+        code:     UA-47683767-1
+        name:     vernonking.org
     #gosquared:  GSN-467829-L
 
 # Links to include in top navigation
