@@ -5,6 +5,7 @@ category: posts
 tag: seminary
 description: The beginning of theology is participation in the faith handed down through the ages.
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+intro: "Are people born guilty of sin?"
 keywords: [theology, sin, birth, conception, guilt, child, faith, save, salvation, born]
 date: 2014-02-05T08:00-05:00
 published: false
