@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    category: posts
+category: posts
 title: "Posts"
 permalink: /posts/
 ---

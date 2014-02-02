@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    category: papers
+category: papers
 title: "Papers"
 permalink: /papers/
 ---

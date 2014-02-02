@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    category: lessons
+category: lessons
 title: "Lessons"
 permalink: /lessons/
 ---

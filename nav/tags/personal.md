@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    tag: personal
+tag: personal
 title: "Personal"
 permalink: /tags/personal/
 ---

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% if page.index.category %}
-    {% assign post_list = site.categories[page.index.category] %}
+{% if page.category %}
+    {% assign post_list = site.categories[page.category] %}
     {% assign data_icon = "&#59392;" %}
     {% assign screader = "Category" %}
-{% elsif page.index.tag %}
-    {% assign post_list = site.tags[page.index.tag] %}
+{% elsif page.tag %}
+    {% assign post_list = site.tags[page.tag] %}
     {% assign data_icon = "&#128278;" %}
     {% assign screader = "Tag" %}
 {% else %}

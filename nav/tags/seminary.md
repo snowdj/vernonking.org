@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    tag: seminary
+tag: seminary
 title: "Seminary"
 permalink: /tags/seminary/
 ---

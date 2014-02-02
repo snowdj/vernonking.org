@@ -1,7 +1,6 @@
 ---
 layout: post-index
-index: 
-    category: reviews
+category: reviews
 title: "Reviews"
 permalink: /reviews/
 ---

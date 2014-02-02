@@ -3,7 +3,7 @@ layout: post
 title: The Dissolution of Marriage
 date: 2013-12-20
 comments: false
-categories: papers
+category: papers
 tags: seminary
 context: The following partially satisfies the requirements for Dr. Heimbach's Introduction to Christian Ethics class at Southeastern Baptist Theological Seminary.
 ---
