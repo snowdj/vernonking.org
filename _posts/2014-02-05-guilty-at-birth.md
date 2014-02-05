@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Were You Guilty At Birth?"
+title: "Were You Guilty at Birth?"
 category: posts
 tag: seminary
 description: The beginning of theology is participation in the faith handed down through the ages.
@@ -8,7 +8,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKin
 intro: "Are people born guilty of sin?"
 keywords: [theology, sin, birth, conception, guilt, child, faith, save, salvation, born]
 date: 2014-02-05T08:00-05:00
-published: false
+published: true
 ---
 
 The question, “Are people born guilty of sin?”, possesses a great deal of theological baggage. First, there is the doctrine of original sin, which implies that everyone is guilty before God, even prior to sinning, because of the sin of the common father, Adam. However, if people are conceived without guilt before God, the question becomes, “When might a person become guilty of sin?” But even that question ought to be preceeded by another question, namely, “At what point may a person be saved by grace through the gift of faith?” By answering these questions, we might have a better picture of the origins of sin and guilt.
