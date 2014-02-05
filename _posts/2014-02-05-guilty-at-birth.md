@@ -3,7 +3,7 @@ layout: post
 title: "Were You Guilty at Birth?"
 category: posts
 tag: seminary
-description: The beginning of theology is participation in the faith handed down through the ages.
+description: We are not born guilty because of Adam's sin; we're born guilty because of our own.
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "Are people born guilty of sin?"
 keywords: [theology, sin, birth, conception, guilt, child, faith, save, salvation, born]
