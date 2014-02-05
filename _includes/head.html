@@ -24,7 +24,7 @@
 {% endif %}
 
 {% if page.image.feature %}
-    {% assign image={{page.image.feature}} %}
+    {% assign image={{site.files}}{{page.image.feature}} %}
 {% else %}
     {% assign image={{site.files | append:'/layout/squareface.jpg' }} %}
 {% endif %}
@@ -39,14 +39,14 @@
 <meta property="og:description" content="{{ description }}">
 <meta property="og:url" content="http:{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:image" content="{{ image }}">
+<meta property="og:image" content="http:{{ image }}">
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary"> 
 <meta name="twitter:title" content="{{ title }}">
 <meta name="twitter:description" content="{{ description }}" />
 <meta name="twitter:site" content="{{ site.owner.twitter }}">
 <meta name="twitter:owner" content="{{ site.owner.twitter }}">
-<meta name="twitter:image" content="{{ image }}">
+<meta name="twitter:image" content="http:{{ image }}">
 
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
