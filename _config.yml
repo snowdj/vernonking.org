@@ -6,13 +6,14 @@ files: http://www.vernonking.org/files
 
 # Owner/author information
 owner:
-  name:           Vernon R. King, III
+  name:           Vernon King
   email:          mail@vernonking.org
   twitter:        vrking3
+  facebook:       pjking07
+  broadcast:      "http://broadcast.app.net/44043/vernonkingorg/"
   github:         
     user:         pjking07
     repo:         vernonking.org
-  facebook:       pjking07
 
 analytics:
     google:

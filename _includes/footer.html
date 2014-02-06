@@ -22,6 +22,11 @@
                     Facebook
                 </a></li>
                 {% endif %}
+                {% if site.owner.broadcast %}
+                <li><a onclick="window.open('{{site.owner.broadcast}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email" data-icon="&#128227;">
+                    Subscribe
+                </a></li>
+                {% endif %}
                 <li><a href="{{site.url}}/feed.xml">
                     <span aria-hidden="true" data-icon="&#59194;"></span>
                     Feed
