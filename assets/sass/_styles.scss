@@ -542,6 +542,14 @@ header.site-header nav {
                     color: $email_red;
                 }
             }
+
+            &.amazon:hover {
+                border-color: transparentize($amazon_gold, .3);
+                color: $amazon_gold;
+                &[data-icon]:before {
+                    color: $amazon_gold;
+                }
+            }
         }
     }
 
