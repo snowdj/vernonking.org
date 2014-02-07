@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
@@ -31,8 +31,8 @@ layout: none
     <email>{{ site.owner.email }}</email>
   </author>
   <content type="html">
-      &lt;p&gt;{{ post.context | xml_escape }}&lt;/p&gt;
-      &lt;p&gt;{{ post.intro | xml_escape }}&lt;/p&gt;
+      {% if post.context %}&lt;p&gt;{{ post.context | xml_escape }}&lt;/p&gt;{% endif %}
+      {% if post.intro %}&lt;p&gt;{{ post.intro | xml_escape }}&lt;/p&gt;{% endif %}
       {{ post.content | xml_escape }}
       &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt; was originally published by {{ site.owner.name }} at &lt;a href=&quot;{{ site.url }}&quot;&gt;{{ site.title }}&lt;/a&gt; on {{ post.date | date: "%B %d, %Y" }}.&lt;/p&gt;
   </content>
