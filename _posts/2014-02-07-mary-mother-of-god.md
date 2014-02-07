@@ -8,7 +8,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKin
 intro: "Is it appropriate to call Mary the “Mother of God”?"
 keywords: [theology, Mary, mother, birth, conception, child, save, salvation, born]
 date: 2014-02-07T08:00-05:00
-published: false
+published: true
 ---
 
 When a Protestant hears Mary referred to as the “Mother of God”, he might immediately think of the veneration (or even worship) of Mary. While most who use the term “Mother of God” would insist they do not worship Mary, one must consider whether the title is appropriate to describe a mere mortal. For such an endeavor, one ought to turn first to Scripture for an analysis of Mary and her role as mother.
