@@ -3,9 +3,9 @@
     {% assign looper = "1 2 3 4 5 6 7 8 9 10" | split: ' ' %}
     {% for i in looper | limit: rating[1] %}
         {% if rating[0] > i %}
-            <span aria-hidden="true" data-icon="&#9733;"></span>
-        {% else %}
-            <span aria-hidden="true" data-icon="&#9734;"></span>
+            <i class="fa fa-star"></i>
+        {% else %}        
+            <i class="fa fa-star-o"></i>
         {% endif %}
     {% endfor %}
 </div>
