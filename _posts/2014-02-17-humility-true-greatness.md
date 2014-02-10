@@ -9,7 +9,7 @@ intro: "<i>Humility: True Greatness</i>. By C. J. Mahaney. Multnomah, 2005, 176 
 category: reviews
 tags: [seminary, fbc-durham]
 keywords: ["C. J. Mahaney", Humilty, "book review", practical, correction, criticism, struggle]
-rating: "5 / 5"
+rating: "4 / 5"
 buy:
     amazon: 1590523261
 published: false
