@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Could Jesus Sin?"
 category: posts
 tag: seminary
