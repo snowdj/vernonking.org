@@ -6,7 +6,6 @@ description: "Jesus did not sin; Jesus would not sin; Jesus refused to sin; and,
 keywords: [Jesus, sin, tempt, opportunity]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Could Jesus have sinned?
-published: false
 ---
 
 While all Christian theologians affirm that Jesus did not sin, the question remains, "Was it possible for Jesus to sin?" While this question may seem esoteric, the manner in which one articulates Jesus' relationship to sin has implications on Jesus' very nature. Although Jesus did not sin, would it have been possible to do so? Could Jesus have rebelled against the will of the Father?
