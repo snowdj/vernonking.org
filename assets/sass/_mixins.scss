@@ -169,11 +169,11 @@
 }
 
 /* TRANSITION */
-@mixin transit($what: all, $length: 1s, $easing: ease-in-out) {
-    -moz-transition: $what $length $easing;
-    -o-transition: $what $length $easing;
-    -webkit-transition: $what $length $easing;
-    -ms-transition: $what $length $easing;
-    transition: $what $length $easing;
+@mixin transit($values...) {
+    -moz-transition: $values;
+    -o-transition: $values;
+    -webkit-transition: $values;
+    -ms-transition: $values;
+    transition: $values;
 
 }
