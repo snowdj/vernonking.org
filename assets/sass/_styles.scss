@@ -587,7 +587,7 @@ header.site-header nav {
     color: $grey-light;
 }
 
-ul.metadata {
+@mixin metadata() {
     position: relative;
     margin: 0.5em 0;
     text-transform: uppercase;
@@ -628,6 +628,10 @@ ul.metadata {
             font-style: italic;
         }
     }
+}
+
+ul.metadata {
+    @include metadata();
 }
 
 /* Footer Stuff */
