@@ -3,6 +3,7 @@
     <aside class="wrap">
         <div class="social">
             <h2>Connect</h2>
+            <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
             <ul class="social-links">
                 {% if site.owner.email %}
                 <li><a href="mailto:{{ site.owner.email }}">
@@ -22,6 +23,17 @@
                     Facebook
                 </a></li>
                 {% endif %}
+                {% if site.owner.github.user && site.owner.github.repo %}
+                <li><a href="https://github.com/{{ site.owner.github.user }}/{{ site.owner.github.repo }}">
+                    <span class="social-media" aria-hidden="true" data-icon="&#62208;"></span>
+                    GitHub
+                </a></li>
+                {% endif %}
+            </ul>
+        </div>
+        <div class="social">
+            <h2>Subscribe</h2>
+            <ul class="social-links">
                 {% if site.owner.broadcast %}
                 <li><a onclick="window.open('{{site.owner.broadcast}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email" data-icon="&#128227;">
                     Subscribe
@@ -31,14 +43,7 @@
                     <span aria-hidden="true" data-icon="&#59194;"></span>
                     Feed
                 </a></li>
-                {% if site.owner.github.user && site.owner.github.repo %}
-                <li><a href="https://github.com/{{ site.owner.github.user }}/{{ site.owner.github.repo }}">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62208;"></span>
-                    GitHub
-                </a></li>
-                {% endif %}
             </ul>
-            <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
         </div>
         <div class="recent-posts">
             {% assign post_list = site.categories[page.categories.first] %}
