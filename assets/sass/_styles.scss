@@ -332,7 +332,7 @@ header.site-header nav {
             font-weight: 400;
             margin-bottom: $lh*1.5;
 
-            [data-icon]:before {
+            .fa {
                 font-size: $fs1;
             }
         }
@@ -496,25 +496,14 @@ header.site-header nav {
 
             @include br(4px);
 
-            &[data-icon]:before {
-                vertical-align: -3px;
-                font-size: $fs2;
-                @include transit(all, 0.25s, ease-in-out);
-            }
-
-            &:hover {
-                @include transit(all, .2s, ease);
-
-                &[data-icon]:before {
-                    color: $link;
-                    @include transit(all, .2s, ease);
-                }
+            &:hover .fa {
+                color: $link;
             }
 
             &.facebook:hover {
                 border-color: transparentize($facebook_blue, .3);
                 color: $facebook_blue;
-                &[data-icon]:before {
+                .fa {
                     color: $facebook_blue;
                 }
             }
@@ -522,7 +511,7 @@ header.site-header nav {
             &.twitter:hover {
                 border-color: transparentize($twitter_blue, .3);
                 color: $twitter_blue;
-                &[data-icon]:before {
+                .fa {
                     color: $twitter_blue;
                 }
             }
@@ -530,7 +519,7 @@ header.site-header nav {
             &.github:hover {
                 border-color: transparentize($github_black, .3);
                 color: $github_black;
-                &[data-icon]:before {
+                .fa {
                     color: $github_black;
                 }
             }
@@ -538,7 +527,7 @@ header.site-header nav {
             &.email:hover {
                 border-color: transparentize($email_red, .3);
                 color: $email_red;
-                &[data-icon]:before {
+                .fa {
                     color: $email_red;
                 }
             }
@@ -546,7 +535,7 @@ header.site-header nav {
             &.amazon:hover {
                 border-color: transparentize($amazon_gold, .3);
                 color: $amazon_gold;
-                &[data-icon]:before {
+                .fa {
                     color: $amazon_gold;
                 }
             }
@@ -616,9 +605,6 @@ ul.metadata {
             }
             &:hover, &:active {
                 color: #3b3b3b;
-            }
-            &:hover {
-                @include transit;
             }
         }
 
@@ -700,7 +686,7 @@ footer {
             }
 
             li {
-                margin-top: 0;
+                margin-top: 0.25em;
                 font-size: $fs6;
             }
 
@@ -710,7 +696,7 @@ footer {
         }
 
         li {
-            margin-top: $lh/2;
+            margin-bottom: 0.5em;
             span.date {
                 float: none;
                 color: transparentize($grey-light, .4);
@@ -734,15 +720,14 @@ footer {
         clear: none;
         margin-right: 5%;
 
-        [data-icon]:before {
-            font-size: $fs2;
+        .fa {
             display: inline-block;
-            vertical-align: -2px;
+            font-size: 0.8em;
         }
 
         a {
             cursor: pointer;
-            
+
             &:hover {
                 color: $white;
             }
@@ -751,6 +736,10 @@ footer {
         .social-links {
             float: left;
             clear: none;
+
+            li {
+                padding-bottom: 0.5em;
+            }
         }
 
         .social-photo {
