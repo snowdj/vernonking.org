@@ -4,15 +4,15 @@ layout: default
 
 {% if page.category %}
     {% assign post_list = site.categories[page.category] %}
-    {% assign data_icon = "&#59392;" %}
+    {% assign icon_class = "fa-folder-open" %}
     {% assign screader = "Category" %}
 {% elsif page.tag %}
     {% assign post_list = site.tags[page.tag] %}
-    {% assign data_icon = "&#128278;" %}
+    {% assign icon_class = "fa-tag" %}
     {% assign screader = "Tag" %}
 {% else %}
     {% assign post_list = site.posts %}
-    {% assign data_icon = "&#128197;" %}
+    {% assign icon_class = "fa-calendar" %}
     {% assign screader = "Date" %}
 {% endif %}
 
@@ -20,8 +20,7 @@ layout: default
     <article class="archive-wrap">
         <ul class="post-list">
             <h1>
-                <span aria-hidden="true" data-icon="{{ data_icon }}"></span>
-                <span class="screen-reader-text">{{ screader }}</span>
+                <i class="fa {{ icon_class }}"></i>
                 <span id="{{ page.title }}"class="bb">{{ page.title }}</span>
             </h1>
             {% for post in post_list %}

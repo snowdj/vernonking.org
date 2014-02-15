@@ -6,34 +6,35 @@
             <ul class="social-links">
                 {% if site.owner.email %}
                 <li><a href="mailto:{{ site.owner.email }}">
-                    <span aria-hidden="true" data-icon="&#9993;"></span>
+                    <i class="fa fa-fw fa-envelope"></i>
                     Email
                 </a></li>
                 {% endif %}
                 {% if site.owner.twitter %}
                 <li><a href="http://twitter.com/{{ site.owner.twitter }}/">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62217;"></span>
+                    <i class="fa fa-fw fa-twitter"></i>
                     @{{ site.owner.twitter }}
                 </a></li>
                 {% endif %}
                 {% if site.owner.facebook %}
                 <li><a href="http://facebook.com/{{ site.owner.facebook }}/">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62222;"></span>
+                    <i class="fa fa-fw fa-facebook-square"></i>
                     Facebook
                 </a></li>
                 {% endif %}
                 {% if site.owner.broadcast %}
-                <li><a onclick="window.open('{{site.owner.broadcast}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email" data-icon="&#128227;">
+                <li><a onclick="window.open('{{site.owner.broadcast}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email">
+                    <i class="fa fa-fw fa-bullhorn"></i>
                     Subscribe
                 </a></li>
                 {% endif %}
                 <li><a href="{{site.url}}/feed.xml">
-                    <span aria-hidden="true" data-icon="&#59194;"></span>
+                    <i class="fa fa-fw fa-rss"></i>
                     Feed
                 </a></li>
                 {% if site.owner.github.user && site.owner.github.repo %}
                 <li><a href="https://github.com/{{ site.owner.github.user }}/{{ site.owner.github.repo }}">
-                    <span class="social-media" aria-hidden="true" data-icon="&#62208;"></span>
+                    <i class="fa fa-fw fa-github-alt"></i>
                     GitHub
                 </a></li>
                 {% endif %}
