@@ -89,8 +89,11 @@ blockquote {
     border-left: 2px solid #8ab9d1;
 }
 
-/*   Code Formatting    */
+i, cite {
+   font-style: italic;
+}
 
+/*   Code Formatting    */
 code {
     color: $accent;
     font-family: "Monaco", "Courier New", "Courier";
@@ -296,10 +299,18 @@ header.site-header nav {
 
         .context {
             font-style: italic;
+
+           i, em, cite {
+              font-style: normal;
+           }
         }
 
         .intro {
             text-align: left;
+
+            i, em, cite {
+               font-style: italic;
+            }
         }
     }
 }
