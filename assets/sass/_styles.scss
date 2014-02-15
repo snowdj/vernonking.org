@@ -651,6 +651,14 @@ header.site-header nav {
             font-size: $fs3;
             font-style: italic;
         }
+
+        &.tag:after {
+            content: '\00B7';
+        }
+
+        &.tag:last-child:after {
+            content: none;
+        }
     }
 }
 

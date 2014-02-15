@@ -33,7 +33,6 @@
             <ul>
                 {% for tag in post.tags %}
                     <li class="tag">
-                        {% unless forloop.first %}·{% endunless %}
                         {% if meta_links %}<a href="{{ site.url }}/tags/{{ tag }}/">{% endif %}{{ tag }}{% if meta_links %}</a>{% endif %}
                     </li>
                 {% endfor %}
