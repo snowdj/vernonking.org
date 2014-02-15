@@ -19,6 +19,7 @@ p {
         right: 1px;
         left: 1px;
     }
+   @include hyphens(auto);
 }
 
 a, a:visited, a:active {

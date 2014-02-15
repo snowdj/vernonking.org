@@ -63,6 +63,15 @@
     border-bottom-left-radius: $bottomRightRadius;
 }
 
+/* Hyphens */
+@mixin hyphens($value) {
+   -webkit-hyphens: $value;
+   -moz-hyphens: $value;
+   -ms-hyphens: $value;
+   -o-hyphens: $value;
+   hyphens: $value;
+}
+
 /* BOX */
 @mixin box($orient: horizontal, $pack: center, $align: center) {
     display: -webkit-box;
