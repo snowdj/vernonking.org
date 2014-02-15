@@ -40,7 +40,7 @@
 }
 
 // BORDER RADIUS
-@mixin br($radius: 5px) {
+@mixin border-radius($radius: 5px) {
     -moz-border-radius: $radius;
     -webkit-border-radius: $radius;
     border-radius: $radius;
@@ -164,12 +164,12 @@
 }
 
 /* TEXT SHADOW */
-@mixin tshd($x: 2px, $y: 2px, $blur: 5px, $color: rgba(0, 0, 0, .4)) {
+@mixin text-shadow($x: 2px, $y: 2px, $blur: 5px, $color: rgba(0, 0, 0, .4)) {
     text-shadow: $x $y $blur $color;
 }
 
 /* TRANSITION */
-@mixin transit($values...) {
+@mixin transition($values...) {
     -moz-transition: $values;
     -o-transition: $values;
     -webkit-transition: $values;
