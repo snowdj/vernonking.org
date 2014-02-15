@@ -380,7 +380,7 @@ header.site-header nav {
 
             .metadata {
                 margin: {
-                    top: 0;
+                    top: 0.5em;
                     bottom: 0;
                 }
 
@@ -720,16 +720,21 @@ footer {
         clear: none;
         margin-right: 5%;
 
-        .fa {
-            display: inline-block;
-            font-size: 0.8em;
-        }
-
         a {
             cursor: pointer;
 
+            .fa {
+                display: inline-block;
+                font-size: 0.8em;
+                color: $grey-medium;
+            }
+
             &:hover {
                 color: $white;
+
+                .fa {
+                    color: $grey-medium;
+                }
             }
         }
 
