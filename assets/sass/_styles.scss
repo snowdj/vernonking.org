@@ -86,6 +86,11 @@ code {
     font-weight: bold;
 }
 
+.test {
+    font-weight: bold;
+    font-style: italic;
+}
+
 .highlight {
     background: $black;
     padding: 12px;
@@ -583,7 +588,7 @@ header.site-header nav {
     color: $grey-light;
 }
 
-ul.metadata {
+@mixin metadata() {
     position: relative;
     margin: 0.5em 0;
     text-transform: uppercase;
@@ -627,6 +632,10 @@ ul.metadata {
             font-style: italic;
         }
     }
+}
+
+ul.metadata {
+    @include metadata();
 }
 
 /* Footer Stuff */
@@ -742,7 +751,7 @@ footer {
 
         a {
             cursor: pointer;
-            
+
             &:hover {
                 color: $white;
             }

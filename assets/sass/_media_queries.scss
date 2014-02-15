@@ -219,7 +219,7 @@
 
         hgroup {
             ul.metadata {
-                @extend ul.metadata;
+                @include metadata();
             }
         }
     }
