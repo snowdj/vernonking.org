@@ -7,7 +7,7 @@ description: Any Pauline letter we may discover today would not be considered Sc
 keywords: [Paul, letter, epistle, discover, authority, Scripture]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: If someone found another letter written by Paul to a church, would we read it as authoritative?
-published: false
+published: true
 ---
 
 Paul’s conversion on the road to Damascus was particularly miraculous. Despite his own persecution of the early church, Paul was chosen by God to be an apostle. Speaking to Ananias, the Lord described Paul as “a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel” (Acts 9:15 [ESV]). From there, Paul went on to serially plant churches with other apostolic helpers and maintained relationships with such churches via the medium of the day: letters. In these letters, Paul exhorts, instructs, encourages, and disciplines the flock and leaders of his beloved churches.
