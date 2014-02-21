@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Humility: True Greatness"
+category: reviews
+tags: [seminary, fbc-durham]
 image:
     feature: /reviews/humility.jpg
 description: "C. J. Mahaney's <i>Humility</i> offers practical advice that can be utilized by every Christian to do the hard work of moving toward humility."
 context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<i>Humility: True Greatness</i>. By C. J. Mahaney. Multnomah, 2005, 176 pp., $11.85."
-category: reviews
-tags: [seminary, fbc-durham]
 keywords: ["C. J. Mahaney", Humilty, "book review", practical, correction, criticism, struggle]
 rating: "4 / 5"
 buy:
     amazon: 1590523261
-published: false
+date: 2014-02-21T8:00-5:00
+published: true
 ---
 
 Reading C. J. Mahaney’s *Humility* felt like a timely, providential endeavor, because every chapter in this approachable book contained direct application for my personal life. Mahaney focuses the majority of his work on practical advice for growing in humility, preceded by a short theological examination of the importance and significance of humility. According to Mahaney, “Humility is honestly assessing ourselves in light of God’s holiness and our sinfulness” (p. 22). The opposite of humility is the sin of pride, which is “when sinful human beings aspire to the status and position of God and refuse to acknowledge their dependence upon Him” (p. 31). Therefore, Mahaney’s work is devoted to turning his readers (and himself) from the sin of pride to the virtue of humility.
