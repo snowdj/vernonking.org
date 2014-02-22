@@ -4,6 +4,7 @@ title: Christ is First
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of Colossians 1:13–23?"
 ---
 
 The theme of Paul's letter to Colossae is that Jesus Christ, the Son of God, is Lord over all and he shares his power with his followers. In Colossians 1:13-23, Paul begins the theme of his epistle by arguing that Christ is firstborn, creator, sustainer, and reconciler, and thus preeminent over all creation in every way. The meaning of this text is that Christ is Lord over all and can reconcile all creation to himself by his blood; each man may be reconciled if he continues in the faith and hope of the gospel.

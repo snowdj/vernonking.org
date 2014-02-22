@@ -4,6 +4,7 @@ title: Yet without Sin
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of Matthew 4:1–11?"
 ---
 
 <cite class='bibleref' title='Matthew 4'>Matthew 4</cite> is an account of Jesus' trial in the wilderness. After forty days of fasting, Jesus is tempted by the devil to rule an earthly kingdom by making much of himself as the Son of God, rather than ruling a heavenly kingdom through his own lowly sacrifice. However, Jesus resists the devil while quoting from Deuteronomy. The meaning of the text is that Jesus is the sinless Son of God who is able to resist temptation by the power of the Spirit and the Word of God while fulfilling the will of the Father.

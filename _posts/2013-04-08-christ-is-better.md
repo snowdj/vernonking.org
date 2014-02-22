@@ -4,6 +4,7 @@ title: Christ is Better
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of Hebrews 7?"
 ---
 
 Throughout the book of Hebrews, the author argues for the supremacy of Christ over every aspect of the old covenant. The first six chapters argue that Christ is superior to the angels, mankind, and even Moses because he is the Son of God and the great high priest. The meaning of Hebrews 7 is that Christ is superior to Abraham and the Levitical priests because he is "a priest forever, after the order of Melchizedek", "the guarantor of a better covenant", and "able to save to the uttermost" (Hebrews 7:17, 22, 25).

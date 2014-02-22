@@ -3,7 +3,11 @@ layout: post
 title: The Perfect Law
 category: posts
 tag: seminary
+description: "Psalm 19 shows that the glory of God in creation has revealed the knowledge of God to all people who are thus required to fulfill God's good and perfect law."
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of Psalm 19?"
+keywords: [righteous, law, Psalm, Romans, "knowledge of God", knowledge]
+date: 2013-02-18T08:00-05:00
 ---
 
 <cite class="bibleref" title="Psalm 19">Psalm 19</cite> is a Psalm of David intended to be sung in community for the ages. The Psalmist first marvels at the creation of God, reveling in its revelation of God to man. The Psalmist wonders at the majesty of law of the LORD and God's self-revelation through his precepts. The Psalmist ends with an expression of need for forgiveness and a plea for help in keeping from sin.

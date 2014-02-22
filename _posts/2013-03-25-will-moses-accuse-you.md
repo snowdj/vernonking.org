@@ -4,6 +4,7 @@ title: Will Moses Accuse You?
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of John 5?"
 ---
 
 <cite class='bibleref' title='John 5'>John 5</cite> covers multiple pericopes which convey an overarching meaning: Jesus is the foretold Son of God who does the will of the Father under the authority of the Father, even in matters of forgiveness, life, and death. Jesus demonstrates his authority through his healing at Bethesda, his recounting of his other works, and the testimony of John and the Father.

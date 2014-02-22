@@ -4,6 +4,7 @@ title: Live Free or Die Hard
 category: posts
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+intro: "What is the meaning and significance of Nahum 1?"
 ---
 
 The Book of Nahum is the recorded prophesy of Nahum regarding God's wrath toward Assyria, specifically the capital of Nineveh, which turned from repentance in the time of Jonah toward wickedly waging war. The whole of the passage is a threat to Nineveh and the enemies of the LORD. The proclamations in <cite class='bibleref' title='Nahum 1'>Nahum 1</cite> are a detailed expounding both of God's wrath toward his enemies and his protection of his people (cf. Exodus 34:6-7).
