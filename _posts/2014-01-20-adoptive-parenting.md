@@ -3,7 +3,8 @@ layout: post
 title: Adoptive Parenting
 category: lessons
 tag: fbc-durham
-context: The following was prepared for an Adoptive Parenting class at FBC Durham. Much of the following is rooted in our experience from adopting older children through the state foster system. This lesson is derived from Flynn Cratty's original work.
+context: The following was prepared for an Adoptive Parenting class at FBC Durham. This lesson is derived from Flynn Cratty's original work.
+intro: Much of the following is rooted in our experience from adopting older children through the state foster system.
 ---
 
 *You can find printable copies of this lesson ([pdf]({{site.files}}/lessons/adoptive-parenting.pdf), [docx]({{site.files}}/lessons/adoptive-parenting.docx)) and outline ([pdf]({{site.files}}/lessons/adoptive-parenting-outline.pdf), [docx]({{site.files}}/lessons/adoptive-parenting-outline.docx)).*
