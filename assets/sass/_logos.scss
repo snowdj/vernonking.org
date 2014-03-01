@@ -27,7 +27,7 @@
 	border: 0;
 }
 
-.lbsTooltipBody 
+.lbsTooltipBody
 {
 	padding: 4px 8px 0 8px;
 	margin: 0;
@@ -58,7 +58,7 @@
 	letter-spacing: normal;
 }
 
-.lbsTooltipFooter a:link, .lbsTooltipFooter a:visited, .lbsTooltipFooter a:hover 
+.lbsTooltipFooter a:link, .lbsTooltipFooter a:visited, .lbsTooltipFooter a:hover
 {
 	color: $blue-dark;
 	text-decoration: none;
@@ -85,7 +85,7 @@
 }
 
 .lbsTooltipBody .verse-ref
-{	
+{
     font-size: 90%;
     color: $grey-medium;
 }
@@ -100,4 +100,13 @@
 .lbsLibronix img
 {
 	float: none !important;
+}
+
+// Custom tweaks relative to the main stylesheet, etc.
+cite.bibleref {
+    font-style: normal;
+}
+
+.lbsBibleRef, .rtBibleRef {
+    white-space: nowrap;
 }
