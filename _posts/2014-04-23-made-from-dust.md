@@ -10,7 +10,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKin
 published: false
 ---
 
-In Genesis 2:7, we find that "the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature." To one unfamiliar with the Christian creation narrative, it might see odd that we claim the first man was created out of dust. Odd though it may seem to the uninitiated, Adam's beginning from the dust of the earth is significant for Christian theology and for us and our salvation. 
+In Genesis 2:7, we find that "the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature." To one unfamiliar with the Christian creation narrative, it might see odd that we claim the first man was created out of dust. Even so, Adam's beginning from the dust of the earth is significant for Christian theology and for our salvation. 
 
 As one created from the dust, Adam was a special, new creation; Adam had no physical father. No creature begat Adam. Adam is not descended from any primate or "pre-human". Indeed, God made Adam from the dust in order to distinguish him from the other animals. Because of this special creation, we know that all humans are descended from the one man Adam. Our common descent from Adam is theologically significant for establishing the effect of original sin and for laying a foundation for the Son of God to become the second Adam.
 
