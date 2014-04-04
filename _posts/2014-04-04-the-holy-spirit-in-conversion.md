@@ -3,7 +3,7 @@ layout: post
 title: The Holy Spirit in Conversion
 category: posts
 tag: seminary
-description: "The Holy Spirit is at work through every stage of our salvation: justification, glorification, and sanctification."
+description: "The Holy Spirit is at work through every stage of our salvation: justification, sanctification, and glorification."
 keywords: [holy spirit, work, God, salvation, justification, sanctification, glorification]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: What role does the Holy Spirit play in conversion?
@@ -22,4 +22,4 @@ God promised Ezekiel, "And I will give you a new heart, and a new spirit I will 
 
 Furthermore, God's work of salvation cannot be completed without God's presence within us through the Spirit. Without the working of the Spirit in our mind, will, and heart, we would not be able to receive the gift of faith, for it is only by our own transformation that we may believe and be united with Christ by the Spirit. This very transformation is the work of the Spirit. By the will of the Father and the sacrifice of Christ, the Spirit effectively completes our justification by the transformative gift of faith. 
 
-The Holy Spirit is at work through every stage of our salvation: justification, glorification, and sanctification. The same Spirit who effects the gift of faith in our hearts also guides us along the path of sanctification (1 Pet. 1:2). Surely, then, he will also bring to completion our very resurrection so that we may obtain our glorious inheritance for which we are sealed by the Spirit.
+The Holy Spirit is at work through every stage of our salvation: justification, sanctification, and glorification. The same Spirit who effects the gift of faith in our hearts also guides us along the path of sanctification (1 Pet. 1:2). Surely, then, he will also bring to completion our very resurrection so that we may obtain our glorious inheritance for which we are sealed by the Spirit.
