@@ -347,7 +347,7 @@ wife, and the latter man hates her and writes her a certificate of
 divorce and puts it in her hand and sends her out of his house" (Deut.
 24:2--3, ESV). While this divorce also follows the legal divorce process,
 the language ("hates her") describes an unjustified divorce.[^24] Therefore,
-the two divorces, justified an unjustified, were both legally effective
+the two divorces, justified and unjustified, were both legally effective
 at ending the marriage of the woman, regardless of the supposed morality
 of each.[^25]
 
