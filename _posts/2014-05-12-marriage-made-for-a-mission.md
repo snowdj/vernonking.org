@@ -133,6 +133,8 @@ The purpose of marriage is to promote the universal mission of mankind; therefor
 
 The purpose of marriage is to promote mankind's mission to "be fruitful and multiply and fill the earth and subdue it" (Gen. 1:28). As a result, the definition of marriage is universal and immutable. Although marriage is optional for individuals, it is the only proper context for human sexuality. Furthermore, marriage for all people ought to promote the universal mission of mankind and Christian marriage ought also to promote the Great Commission. As culture continues to protest the Christian conception of marriage, may Christians everywhere hold firm to their convictions, substantiated by the text of Scripture and the creation narrative. However, rather than waging a culture war, Christians ought to show love to their neighbors while proclaiming the Good News of Jesus Christ. The gospel of grace must be ever on the lips of those serving as ambassadors for the God who is reconciling the world to himself through Jesus Christ.
 
+---
+
 # Bibliography
 
 Anderson, Douglas. "Marriage as Sacred Mystery: Some Theological Reflections on the Purposes of Marriage." *Word & World* 5, no. 4 (September 1, 1985): 364-369.
