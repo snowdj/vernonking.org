@@ -7,7 +7,6 @@ description: "The purpose of marriage is to promote mankind's mission to 'be fru
 keywords: [marriage, creation, mission]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 date: 2014-05-12T08:00-4:00
-published: false
 ---
 
 # Introduction
