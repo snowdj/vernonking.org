@@ -31,7 +31,7 @@ In the Genesis 2 narrative, God creates the man out of the dust and places him i
 
 [^mmc-mnw-1]: John H. Sailhamer, "Genesis," in *The Expositor's Bible Commentary*, Rev. ed., vol. 5 (Grand Rapids: Zondervan, 2008), 79. Sailhamer argues that "to work it and keep it" ought to be translated as "to worship and to obey." 
 
-[^manneeds-1]: Cf. Andreas J. Köstenberger and David W. Jones, *God, Marriage, and Family: Rebuilding the Biblical Foundation*, 2^nd^ ed. (Wheaton: Crossway, 2010), 25.
+[^manneeds-1]: Cf. Andreas J. Köstenberger and David W. Jones, *God, Marriage, and Family: Rebuilding the Biblical Foundation*, 2^nd ed. (Wheaton: Crossway, 2010), 25.
 
 [^manneeds-2]: Cf. Alice P. Mathews and M. Gay Hubbard, *Marriage Made in Eden: A Pre-Modern Perspective for a Post-Christian World* (Eugene, OR: Wipf & Stock, 2004), 20.
 
@@ -149,7 +149,7 @@ Gracey, Celeste, and Jeremy Weber. "World Vision: Why We're Hiring Gay Christian
 
 Keller, Timothy and Kathy Keller. *The Meaning of Marriage: Facing Complexities of Commitment with the Wisdom of God*. New York: Dutton, 2011.
 
-Köstenberger, Andreas J., and David W. Jones. *God, Marriage, and Family: Rebuilding the Biblical Foundation*. 2^nd^ ed. Wheaton: Crossway, 2010.
+Köstenberger, Andreas J., and David W. Jones. *God, Marriage, and Family: Rebuilding the Biblical Foundation*. 2^nd ed. Wheaton: Crossway, 2010.
 
 Luck, William F. *Divorce and Remarriage: Recovering the Biblical View*. San Francisco: Harper & Row, 1987.
 

@@ -38,11 +38,12 @@ links:
 timezone:    America/New_York
 #lsi:         true
 future:      true
-pygments:    true
-markdown:    kramdown
+highlighter: pygments
+markdown:    redcarpet
 redcarpet:
-  extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink']
+  extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink', 'footnotes', 'superscript']
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char

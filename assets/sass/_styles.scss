@@ -328,11 +328,11 @@ header.site-header nav {
 }
 
 // Footnotes
-[href^="#fn:"]:before {
+[href^="#fn"]:before {
     content: "[";
 }
 
-[href^="#fn:"]:after {
+[href^="#fn"]:after {
     content: "]";
 }
 

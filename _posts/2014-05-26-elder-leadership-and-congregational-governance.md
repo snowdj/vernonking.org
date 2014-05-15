@@ -22,7 +22,7 @@ Disparate views on church polity abound across the catholic church. Books addres
 
 In past centuries, many Baptist churches installed multiple elders; however, the practice fell out of favor during the eighteenth century. Thankfully, today, "there is a growing trend to go back to this biblical office."[^el-1a] As will be established below, the New Testament paradigm of church leadership is that of multiple elders in a local church.
 
-[^el-1a]: Mark Dever, *Nine Marks of a Healthy Church*, 2^nd^ ed. (Wheaton: Crossway, 2004), 229.
+[^el-1a]: Mark Dever, *Nine Marks of a Healthy Church*, 2^nd ed. (Wheaton: Crossway, 2004), 229.
 
 ## One Office
 
@@ -196,7 +196,7 @@ Cowan, Steven B., ed. *Who Runs the Church: 4 Views on Church Government*. Count
 
 Dever, Mark. "The Church." In *A Theology for the Church*, edited by Daniel L. Akin, 766--856. Nashville: B&H, 2007.
 
----------. *Nine Marks of a Healthy Church*. 2^nd^ ed. Wheaton: Crossway, 2004.
+---------. *Nine Marks of a Healthy Church*. 2^nd ed. Wheaton: Crossway, 2004.
 
 Garrett, James Leo, Jr. "The Congregation-Led Church: Congregational Polity." In Brand and Norman, 157--194.
 
