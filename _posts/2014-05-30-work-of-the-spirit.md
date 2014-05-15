@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKin
 intro: Describe the Holy Spirit's work in conversion.
 description: "The Spirit brings to completion all stages of conversion in an individual believer's life. This Spirit, who brought to effect both justification and sanctification, will also bring about future glorification—the resurrection of the dead to newness of life."
 keywords: [faith, indwelling, spirit, work, God, ]
-date: 2014-05-16T08:00-4:00
+date: 2014-05-30T08:00-4:00
 published: false
 ---
 
