@@ -582,15 +582,6 @@ header.site-header nav {
     }
 
     .footnotes {
-        &:before {
-            display: block;
-            height: 1px;
-            width: 35%;
-            background: #999;
-            margin: 0 0 $lh;
-            content: "";
-        }
-
         ol, ul {
             margin-left: 1em;
             li {
