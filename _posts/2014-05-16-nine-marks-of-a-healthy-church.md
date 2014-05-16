@@ -4,7 +4,7 @@ layout: post
 category: reviews
 tag: [seminary, fbc-durham]
 context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
-intro: "<cite>Nine Marks of a Healthy Church</cite>. By Mark Dever. Crossway, 2004, 287 pp., $15.99."
+intro: "<cite>Nine Marks of a Healthy Church</cite>. New Expanded Edition. By Mark Dever. Crossway, 2004, 287 pp., $15.99."
 rating: "3 / 5"
 buy:
     amazon: B00EHMMHWG
@@ -13,7 +13,6 @@ image:
 description: "The following is a collection of weekly, chapter-by-chapter reflection essays interacting with this influential book. Despite any quibbling, I continue to be blessed by the work of Mark Dever and the ministry of 9Marks."
 keywords: [9Marks, "Nine Marks of a Healthy Church", "Mark Dever",  evangelism, gospel, polity, church]
 date: 2014-05-16T8:00-4:00
-published: false
 ---
 
 *The following is a collection of weekly, chapter-by-chapter reflection essays interacting with this influential book.*
