@@ -24,10 +24,10 @@ Kathryn Rose, married December 22, 2007
 
 #### Children
 
-1. Vernon Ray, IV (10)  
-2. Brooklyn Leigh (7)  
-3. Emma Grace (3)  
-4. Seth Christopher (infant)
+1. Vernon Ray, IV (11)  
+2. Brooklyn Leigh (8)  
+3. Emma Grace (4)  
+4. Seth Christopher (1)
 
 Our three eldest were adopted into the family in 2011.
 
