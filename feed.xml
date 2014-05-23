@@ -15,7 +15,7 @@ layout: nil
   <uri>{{ site.url }}/</uri>
   <email>{{ site.owner.email }}</email>
 </author>
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
 
 <entry>
   <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
