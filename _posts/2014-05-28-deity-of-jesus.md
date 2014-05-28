@@ -8,7 +8,6 @@ intro: Why is the deity of Jesus so important to our understanding of salvation?
 description: The deity and humanity of Jesus is essential to our understanding of salvation. Without both natures united in one Person, humanity will die and have no hope of future resurrection. 
 keywords: [deity, divine, human, salvation, Jesus, God, standing, incarnate, work]
 date: 2014-05-28T08:00-4:00
-published: false
 ---
 
 If Jesus was not God, then we have no salvation in him. Our salvation is given in right standing before God; only God can give such right standing. Jesus, who is the Son of God incarnate, is the Person of God with whom we participate in right standing before God. If Jesus was not God, or did not remain God, then we would not be united with God.
