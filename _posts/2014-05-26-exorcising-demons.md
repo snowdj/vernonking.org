@@ -4,7 +4,7 @@ layout: post
 category: papers
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
-decription: Demons today continue to torment and control individuals through demonization just as they did in the New Testament; as a result, the Church must continue the biblical practice of exorcism.
+description: Demons today continue to torment and control individuals through demonization just as they did in the New Testament; as a result, the Church must continue the biblical practice of exorcism.
 tags: [spirit, demon, warfare, cast, exorcism, demonization]
 date: 2014-05-26T08:00-4:00
 ---
