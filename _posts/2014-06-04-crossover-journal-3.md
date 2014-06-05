@@ -21,10 +21,10 @@ Derek answered the door of his friends' house and loved to mess around. After so
 
 He replied, "I've never met him face to face." 
 
-"Would you like to hear about him?", I asked.  
+"Would you like to hear about him?" I asked.  
 
 "No, I wouldn't." And he stopped the joking, turned around, and went inside.
 
-We also spoke with Jesse, a working man with a young family who has claimed to have faith for many years. Although he reads his Bible and confesses that "God is in charge of my life", he has never attended church. Thankfully, he had already been feeling convicted about his lack of involvement with a church, especially as his children get older. Michelle and I were given the opportunity to exhort him to unite with a local church, encourage him to walk in the life of God, and to pray for him and his family.
+We also spoke with Jesse, a working man with a young family who has claimed to have faith for many years. Although he reads his Bible and confesses, "God is in charge of my life," he has never attended church. Thankfully, he had already been feeling convicted about his lack of involvement with a church, especially as his children get older. Michelle and I were given the opportunity to exhort him to unite with a local church, encourage him to walk in the life of God, and to pray for him and his family.
 
 We also met with a number of other individuals. Thankfully, we completed our mapped area before the sun went down. Our team finished the day eating dinner at [Chaps Pit Beef](http://www.chapspitbeef.com) where I purchased an inordinately sized box of chicken tenders. 
