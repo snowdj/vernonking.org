@@ -166,26 +166,26 @@ Led a team of five engineers and served as a point of contact with management.
 
 ## References
 
-*Additional contact information available upon request.*
+*Contact information available upon request.*
 
-### [Nathan Finn](http://www.nathanfinn.com/)
+### [Nathan Finn](http://www.nathanfinn.com/), Ph.D.
 
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Associate Professor, Historical Theology and Baptist Studies*, Southeastern Baptist Theological Seminary
 
-### [Ryan Hutchinson](http://about.me/rrhutch)
+### [Ryan Hutchinson](http://about.me/rrhutch), M.Div.
 
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Executive Vice President for Operations*, Southeastern Baptist Theological Seminary
 
-### [Benjamin H. Arbour](http://www.benarbour.com/)
+### Benjamin H. Arbour, Ph.D.
 
 - Mentor and Friend 
 
-### [Jonathan Dent](http://dcdents.org/)
+### David Jacks, M.Div.
 
 - *Elder*, Church of Christ the King, Fort Worth, Texas
 
-### David Jacks
+### [Jonathan Dent](http://dcdents.org/), M.Div.
 
-- *Elder*, Church of Christ the King, Fort Worth, Texas
+- *Elder* (formerly), Church of Christ the King, Fort Worth, Texas
