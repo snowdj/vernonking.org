@@ -8,7 +8,7 @@ keywords: [poor, gospel, justice, mercy, Tim Keller]
 context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite><a href='http://www.togetherforadoption.org/wp-content/media/thegospelandthepooroutline.pdf/'>The Gospel and the Poor</a></cite>. By Tim Keller. Summer, 2009, 19 pp., PDF."
 date: 2014-07-14T08:00-4:00
-published: false
+published: true
 ---
 
 Keller's work on the gospel and the poor offers a thorough biblical overview of ministry to the poor followed by points of application for Christians and local churches. Notably, Keller makes a proper distinction between justice and mercy. Extending mercy is acting out of compassion for those in need; doing justice addresses issues behind social inequality. Keller argues that the church must serve the poor in both mercy and justice.
