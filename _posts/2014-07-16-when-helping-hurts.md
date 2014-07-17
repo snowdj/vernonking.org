@@ -10,7 +10,7 @@ buy:
 context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>When Helping Hurts: How to Alleviate Poverty without Hurting the Poor and Yourself</cite>. By Steven Corbett and Brian Fikkert. Chicago: Moody, 2012, 274 pp., $15.99 paperback."
 date: 2014-07-16T08:00-4:00
-published: false
+published: true
 ---
 
 According to Corbett and Fikkert, "Poverty is the result of relationships that do not work, that are not just, that are not for life, that are not harmonious or enjoyable. Poverty is the absence of shalom in all its meanings" (p. 59). Furthermore, material poverty often results in inferiority-complexes; material wealth results in god-complexes. As the authors write, "One of the biggest problems in many poverty-alleviation efforts is that their design and implementation exacerbates the poverty of being of the economically rich---their god-complexes---and the poverty of being of the economically poor---their feelings of inferiority and shame" (p. 62).  Indeed, "It is this lack of freedom to be able to make meaningful choices---to have an ability to affect one's situation---that is the distinguishing feature of poverty" (p. 67).
