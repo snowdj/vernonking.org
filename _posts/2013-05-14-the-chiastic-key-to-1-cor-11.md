@@ -94,7 +94,7 @@ As can be discerned from this passage’s chiastic structure and its placement w
 
 [^22]: Tertullian promotes universal practice by arguing that “every woman” includes “of every age, of every rank, of every condition” (*On Prayer*, ANF 3:688). Granted, he is in a cultural context in which the virgins, who would normally be covered in public, were removing their head-coverings at church. Indeed, the cultural custom of head-coverings for Tertullian’s church seems not so different from that of the Corinthian church, which is one explanation for Tertullian’s conclusion that the head-covering tradition should be universal; his reading of Paul’s arguments agree with his cultural views to the point that he applies it to all cultures, everywhere.
 
-[^23]: Re: male head-covering, “Almost certainly, therefore, by this idiom Paul is referring to an external cloth covering (Fee, 506). Fee also outlines three options for a female head-covering: 1) some kind of external covering, 2) long hair, or 3) loosed hair (Fee, 496).
+[^23]: Re: male head-covering, “Almost certainly, therefore, by this idiom Paul is referring to an external cloth covering" (Fee, 506). Fee also outlines three options for a female head-covering: 1) some kind of external covering, 2) long hair, or 3) loosed hair (Fee, 496).
 
 [^24]: Martin makes a medical argument that hair was considered part of the female genitalia at the time, and thus culturally subject to covering (Troy W. Martin, “Paul’s Argument from Nature for the Veil in 1 Corinthians 11:13--15: A Testicle Instead of a Head Covering,” *Journal of Biblical Literature* 123, no. 1 (2004): 82).
 
