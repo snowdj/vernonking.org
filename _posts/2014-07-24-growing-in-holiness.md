@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Growing in Holiness (1&nbsp;Thess.&nbsp;4:1–8)"
+title: "Growing in Holiness (1 Thess. 4:1–8)"
 category: sermons
 tag: seminary
 context: "The following partially satisfies the requirements for Dr. John Bohannon's Sermon Delivery class at Southeastern Baptist Theological Seminary."
