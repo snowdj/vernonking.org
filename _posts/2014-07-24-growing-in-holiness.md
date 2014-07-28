@@ -119,9 +119,9 @@ Bock, Darrell L. and Buist M. Fanning. *Interpreting the New Testament Text*. Wh
 
 Bruce, F. F. *1 & 2 Thessalonians*. Word Biblical Commentary 45. Waco, TX: Word, 1982.
 
-Daubney, Martin. "Experiment that convinced me online porn is the most pernicious threat facing children today." *Daily Mail*, September 25, 2013. Accessed October 21, 2013. http://www.dailymail.co.uk/femail/article-2432591.
+Daubney, Martin. "Experiment that convinced me online porn is the most pernicious threat facing children today." *Daily Mail*, September 25, 2013. Accessed October 21, 2013. <http://www.dailymail.co.uk/femail/article-2432591>.
 
-Dever, Mark. "What You Won't Hear on Oprah" (audio). Sermon, Capitol Hill Baptist Church, Washington, D.C., March 5, 1995. Accessed September 7, 2013. http://www.capitolhillbaptist.org/audio/1995/03/what-you-wont-hear-on-oprah-1-thessalonians-41-12/.
+Dever, Mark. "What You Won't Hear on Oprah" (audio). Sermon, Capitol Hill Baptist Church, Washington, D.C., March 5, 1995. Accessed September 7, 2013. <http://www.capitolhillbaptist.org/audio/1995/03/what-you-wont-hear-on-oprah-1-thessalonians-41-12/>.
 
 DeYoung, Kevin. *The Hole in Our Holiness*. Good News Publishers. Kindle Edition. 
 
@@ -135,7 +135,7 @@ Grant, James H., Jr. *1 & 2 Thessalonians: The Hope of Salvation*. Preaching the
 
 Green, Gene L. *The Letters to the Thessalonians*. Pillar New Testament Commentary. Grand Rapids: William B. Eerdmans, 2002.
 
-Piper, John. “A Model of Covenant Exhortation” (transcript and audio). Sermon, Bethlehem Baptist Church, Minneapolis, MN, February 21, 1993. Accessed September 7, 2013. http://www.desiringgod.org/resource-library/sermons/a-model-of-covenant-exhortation.
+Piper, John. “A Model of Covenant Exhortation” (transcript and audio). Sermon, Bethlehem Baptist Church, Minneapolis, MN, February 21, 1993. Accessed September 7, 2013. <http://www.desiringgod.org/resource-library/sermons/a-model-of-covenant-exhortation>.
 
 Stott, John R. W. *The Message of Thessalonians*. Bible Speaks Today. Downers Grove: IVP, 1994.
 
