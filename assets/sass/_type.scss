@@ -8,7 +8,7 @@
 /* Meat
    ========================================================================== */
 
-p {
+p, iframe {
     font-size: $fsp;
     line-height: $lh;
     font-feature-settings: "liga";
@@ -74,7 +74,7 @@ blockquote, blockquote p {
 
 @media only screen and (max-width: $breakpoint-1-max-width) {
 
-    p {
+    p, iframe {
         font-size: $fs5;
         line-height: $lhsmall;
         padding-bottom: $lhsmall;
