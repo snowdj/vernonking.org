@@ -20,7 +20,7 @@ I affirm the [Abstract of Principles](http://www.founders.org/abstract.html), th
 
 #### Spouse
 
-Kathryn Rose, married December 22, 2007
+Kathryn Rose
 
 #### Children
 
@@ -29,7 +29,7 @@ Kathryn Rose, married December 22, 2007
 3. Emma Grace (4)  
 4. Seth Christopher (1)
 
-Our three eldest were adopted into the family in 2011.
+Some of our children were adopted in 2011.
 
 ## Education
 
@@ -37,7 +37,7 @@ Our three eldest were adopted into the family in 2011.
 
 Currently pursuing *Master of Divinity in Christian Ministry*
 
-- Expected graduation: December 2014  
+- Anticipated graduation: December 2014  
 - GPA: 4.0
 - 2012 -- present
 
@@ -58,15 +58,14 @@ Coursework toward *Master of Divinity in Missions*
 
 ## Relevant Experience
 
-### [New Song Church](http://www.newsong.org.na/) (Windhoek, Namibia)
+### [First Baptist Church](http://www.fbcdurham.org) (Durham, North Carolina)
 
-#### Missionary Intern (May--August 2007)
+#### Pastoral Intern (January 2014--May 2014)
 
-Residential intern with an IMB missionary church and youth ministry:
+Met weekly with pastors to discuss ministry in a healthy church.
 
-- Assisted in the leadership and administration of a 150+ youth outreach program 
-- Helped host two American youth mission teams for two weeks each
-- Provided technical support for church, youth ministries, and camp
+- Attended elders and members meetings.
+- Read and reported weekly on eccesiological texts.
 
 ### [Pillar on the Rock](http://www.pillarontherock.com) | an ecclesiological online magazine
 
@@ -79,16 +78,27 @@ Wrote and edited articles promoting healthy local churches:
 - Wrote major series on divorce and remarriage, race, membership, and church discipline
 - Grew the writing team to include six authors
 
+### [New Song Church](http://www.newsong.org.na/) (Windhoek, Namibia)
+
+#### Missionary Intern (May--August 2007)
+
+Residential intern with an IMB missionary church and youth ministry:
+
+- Assisted in the leadership and administration of a 150+ youth outreach program 
+- Helped host two American youth mission teams for two weeks each
+- Provided technical support for church, youth ministries, and camp
+
 ## Church Background
 
 ### [First Baptist Church](http://www.fbcdurham.org) (Durham, North Carolina)
 
 #### Member (2013 -- present)
 
-Although a new member, I am scheduled to serve in the following ways:
+Serving in the church in a variety of teaching roles:
 
-- Rotating Children’s Sunday School and home group teacher
-- Pastoral internship through Southeastern in Spring 2014
+- Home Fellowship (small group) co-leader and teacher (Fall 2014)
+- Bible for Life teacher, fifth grade boys (Fall 2014)
+- Bible for Life teacher, two year-olds (Fall 2013)
 
 ### [Church of Christ the King](http://www.christthekingfortworth.org) (Fort Worth, Texas)
 
@@ -106,7 +116,7 @@ Considered faithful to the community and participated in ad hoc duties:
 
 Sacrificially served while discerning future ministry goals:
 
-- Interim Sunday School teacher for College and Career class
+- Interim College and Career Director
 - Break-out teacher for youth ministry
 - Assumed temporary guardianship for twin teenage girls from the youth group
 
@@ -173,19 +183,19 @@ Led a team of five engineers and served as a point of contact with management.
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Associate Professor, Historical Theology and Baptist Studies*, Southeastern Baptist Theological Seminary
 
+### Benjamin H. Arbour, Ph.D.
+
+- Mentor and Friend 
+
+### Andy Winn, M.Div.
+
+- *Associate Pastor*, First Baptist Church, Durham
+
 ### [Ryan Hutchinson](http://about.me/rrhutch), M.Div.
 
 - *Elder*, First Baptist Church, Durham, North Carolina
 - *Executive Vice President for Operations*, Southeastern Baptist Theological Seminary
 
-### Benjamin H. Arbour, Ph.D.
-
-- Mentor and Friend 
-
 ### David Jacks, M.Div.
 
-- *Elder*, Church of Christ the King, Fort Worth, Texas
-
-### [Jonathan Dent](http://dcdents.org/), M.Div.
-
-- *Elder* (formerly), Church of Christ the King, Fort Worth, Texas
+- *Lead Pastor*, Church of Christ the King, Fort Worth, Texas
