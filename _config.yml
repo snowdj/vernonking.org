@@ -66,3 +66,7 @@ archive:
     month_format: "%Y-%b"
 
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "LICENSE", "Gemfile", "CNAME", "*.sh", "*.pxm", "*.scss"]
+
+color:
+  darkblue:  24536b
+  lightblue: 8AB9D1

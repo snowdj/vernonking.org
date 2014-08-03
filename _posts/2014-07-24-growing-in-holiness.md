@@ -9,9 +9,9 @@ description: "Regarding all matters of holiness, but especially sexual morality,
 keywords: [holiness, sanctification, "sexual immorality", "sexual morality", chastity, obedience]
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/160315040&amp;color=24536b&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+{% include media/vimeo.html id="101795667" %}
 
-<iframe src="//player.vimeo.com/video/101795667?color=24536b" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{% include media/soundcloud.html user="vrking3" track="growing-in-holiness" %}
 
 # Opener
 
