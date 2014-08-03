@@ -153,7 +153,7 @@ Led a team of five engineers and served as a point of contact with management.
 
 ### FIS (Oklahoma City, Oklahoma)
 
-*Senior Programmer Analyst (October 2009 – November 2010)*  
+*Senior Programmer Analyst (October 2009 – November 2010)*<br/>
 *Programmer Analyst II (September 2007 – October 2009)*
 
 ### Hewlett-Packard (College Station, Texas)
