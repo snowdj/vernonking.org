@@ -83,6 +83,10 @@ blockquote, blockquote p {
     margin-bottom: $lh;
 }
 
+blockquote i, blockquote em {
+    font-style: normal;
+}
+
 blockquote {
     margin: 1em 0.25em;
     padding: 0 1em;
