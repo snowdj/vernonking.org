@@ -492,6 +492,9 @@ header.site-header nav {
             margin-left: $lh*2;
             padding-left: $lh/3;
         }
+        ul, ol {
+            margin-bottom: 0;
+        }
     }
 
     ul {
