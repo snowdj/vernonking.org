@@ -7,7 +7,7 @@
                 {% if site.owner.email %}
                 <li><a href="mailto:{{ site.owner.email }}">
                     <i class="fa fa-fw fa-envelope"></i>
-                    Email
+                    Email me
                 </a></li>
                 {% endif %}
                 {% if site.owner.twitter %}
@@ -20,6 +20,12 @@
                 <li><a href="http://facebook.com/{{ site.owner.facebook }}/">
                     <i class="fa fa-fw fa-facebook-square"></i>
                     Facebook
+                </a></li>
+                {% endif %}
+                {% if site.owner.goodreads %}
+                <li><a href="http://goodreads.com/{{ site.owner.goodreads }}/">
+                    <i class="fa fa-fw fa-book"></i>
+                    Goodreads
                 </a></li>
                 {% endif %}
                 {% if site.owner.broadcast %}
