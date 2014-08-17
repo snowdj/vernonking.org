@@ -39,7 +39,6 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
-#lsi:         true
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -63,10 +62,14 @@ kramdown:
 permalink:   /:categories/:title/
 relative_permalinks: false
 
+sass:
+    style: :compressed
+    sass_dir: assets/sass
+
 archive:
     month_format: "%Y-%b"
 
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "LICENSE", "Gemfile", "CNAME", "*.sh", "*.pxm", "*.scss"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "LICENSE", "Gemfile", "CNAME", "*.sh", "*.pxm"]
 
 color:
   darkblue:  24536b
